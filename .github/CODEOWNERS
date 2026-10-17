@@ -1,0 +1,4 @@
+# Supply-chain sensitive files require owner review
+/package-lock.json @Seb0927
+/.npmrc @Seb0927
+/.github/ @Seb0927
