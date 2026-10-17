@@ -2,6 +2,12 @@
   "name": "osmdle",
   "version": "0.1.0",
   "private": true,
+  "description": "A higher/lower game where players guess which OpenStreetMap feature is more common.",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seb0927/osmdle.git"
+  },
   "packageManager": "npm@11.19.0",
   "engines": {
     "node": ">=24"
