@@ -28,6 +28,19 @@ Open http://localhost:3000.
 | `npm run format`    | Apply Biome formatting         |
 | `npm run typecheck` | Type-check with `tsc --noEmit` |
 
+## Git hooks
+
+Hooks are managed by [lefthook](https://lefthook.dev). Since `.npmrc` sets
+`ignore-scripts=true`, the `prepare` step is skipped on install — run it once
+after cloning:
+
+```bash
+npx lefthook install
+```
+
+Pre-commit formats staged files with Biome and runs the type-check; commit-msg
+enforces [Conventional Commits](https://www.conventionalcommits.org).
+
 ## Tech stack
 
 - Next.js 16 (App Router) + React 19
