@@ -1,5 +1,7 @@
+const countFormatter = new Intl.NumberFormat('en-US')
+
 export function formatCount(count: number): string {
-  return new Intl.NumberFormat('en-US').format(count)
+  return countFormatter.format(count)
 }
 
 export function formatSnapshot(snapshot: string): string {
