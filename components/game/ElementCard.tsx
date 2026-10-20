@@ -19,9 +19,9 @@ interface ElementCardProps {
 }
 
 const stateClasses: Record<CardState, string> = {
-  idle: 'border-border enabled:hover:border-accent enabled:hover:shadow-md',
-  correct: 'border-success ring-2 ring-success',
-  wrong: 'border-danger ring-2 ring-danger',
+  idle: 'border-border bg-surface',
+  correct: 'border-success bg-success/10 ring-2 ring-success',
+  wrong: 'border-danger bg-danger/10 ring-2 ring-danger',
 }
 
 export function ElementCard({
@@ -48,13 +48,21 @@ export function ElementCard({
   return (
     <button
       aria-label={ariaLabel}
-      className={`group flex size-full flex-col overflow-hidden rounded-xl border bg-surface text-left shadow-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent disabled:cursor-default ${stateClasses[state]}`}
+      className={`card-grid card-ratio relative w-full place-items-center overflow-hidden rounded-2xl border px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:border-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
       disabled={disabled}
       onClick={onSelect}
       onPointerEnter={handlePointerEnter}
       type="button"
     >
-      <div className="relative w-full overflow-hidden bg-subtle" style={{ aspectRatio: '4 / 3' }}>
+      <h2 className="line-clamp-2 w-full text-balance font-semibold text-lg tracking-tight sm:text-xl">
+        {element.title}
+      </h2>
+      <div className="mt-4 flex min-h-18 w-full items-center">
+        <p className="line-clamp-3 w-full text-pretty text-muted text-sm leading-6">
+          {element.description}
+        </p>
+      </div>
+      <div className="card-image-ratio relative w-7/10 shrink-0 overflow-hidden rounded-lg bg-subtle">
         {showImage && imageUrl ? (
           <Image
             alt={element.image?.title ?? element.title}
@@ -62,7 +70,7 @@ export function ElementCard({
             fill
             loading="eager"
             onError={() => setImageFailed(true)}
-            sizes="(min-width: 768px) 50vw, 100vw"
+            sizes="(min-width: 640px) 12rem, 60vw"
             src={imageUrl}
             unoptimized
           />
@@ -72,13 +80,14 @@ export function ElementCard({
           </div>
         )}
       </div>
-      <div className="flex flex-1 flex-col gap-2 p-4 sm:p-5">
-        <h2 className="font-semibold text-lg tracking-tight sm:text-xl">{element.title}</h2>
-        <p className="line-clamp-3 text-muted text-sm leading-6">{element.description}</p>
-        <div className="mt-auto pt-3">
-          <div className="font-semibold text-2xl tabular-nums sm:text-3xl">{count}</div>
-          <div className="font-medium text-muted text-xs tracking-wide">Elements</div>
+      <div className="flex flex-col items-center pt-4">
+        <div className="font-semibold text-3xl tabular-nums sm:text-4xl">{count}</div>
+        <div className="mt-1 font-medium text-muted text-xs uppercase tracking-widest">
+          Elements
         </div>
+        <span className="mt-4 rounded-full border border-border bg-subtle px-2 py-0.5 font-medium text-muted text-xs uppercase tracking-widest">
+          {element.family}
+        </span>
       </div>
     </button>
   )

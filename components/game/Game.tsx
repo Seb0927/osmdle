@@ -138,9 +138,13 @@ function GameSkeleton() {
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 py-8 sm:px-6">
       <div className="mx-auto h-3 w-32 animate-pulse rounded bg-subtle" />
       <div className="mx-auto mt-4 h-8 w-72 animate-pulse rounded bg-subtle" />
-      <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-2">
-        <div className="h-96 animate-pulse rounded-xl border border-border bg-subtle" />
-        <div className="h-96 animate-pulse rounded-xl border border-border bg-subtle" />
+      <div className="mt-8 flex flex-col items-center gap-8 md:flex-row md:items-start md:justify-center lg:gap-16">
+        <div className="w-full max-w-sm">
+          <div className="card-ratio relative animate-pulse rounded-2xl border border-border bg-subtle" />
+        </div>
+        <div className="w-full max-w-sm">
+          <div className="card-ratio relative animate-pulse rounded-2xl border border-border bg-subtle" />
+        </div>
       </div>
     </div>
   )
@@ -323,8 +327,13 @@ export function Game() {
 
       <div className="relative mt-6">
         <div className={state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}>
-          <div className="grid grid-cols-1 items-stretch gap-6 md:grid-cols-2">
-            <div className="relative h-full" data-side="left" key={`left-${left.id}`} ref={leftRef}>
+          <div className="flex flex-col items-center gap-8 md:flex-row md:items-start md:justify-center lg:gap-16">
+            <div
+              className="relative w-full max-w-sm"
+              data-side="left"
+              key={`left-${left.id}`}
+              ref={leftRef}
+            >
               <ElementCard
                 count={formatCount(left.count)}
                 disabled={disabled}
@@ -335,7 +344,7 @@ export function Game() {
               />
             </div>
             <div
-              className="card-enter relative h-full"
+              className="card-enter relative w-full max-w-sm"
               data-side="right"
               key={`right-${right.id}`}
               ref={rightRef}
