@@ -19,14 +19,21 @@ Open http://localhost:3000.
 
 ## Scripts
 
-| Script              | Description                    |
-| ------------------- | ------------------------------ |
-| `npm run dev`       | Start the development server   |
-| `npm run build`     | Create a production build      |
-| `npm run start`     | Serve the production build     |
-| `npm run lint`      | Biome linter + formatter check |
-| `npm run format`    | Apply Biome formatting         |
-| `npm run typecheck` | Type-check with `tsc --noEmit` |
+| Script                  | Description                           |
+| ----------------------- | ------------------------------------- |
+| `npm run dev`           | Start the development server          |
+| `npm run build`         | Create the static export in `out/`    |
+| `npm test`              | Run the game logic tests              |
+| `npm run lint`          | Biome linter + formatter check        |
+| `npm run format`        | Apply Biome formatting                |
+| `npm run typecheck`     | Type-check with `tsc --noEmit`        |
+| `npm run data:sync`     | Refresh Taginfo counts and metadata   |
+| `npm run data:validate` | Validate the committed data snapshot  |
+
+## Data
+
+The `Sync Taginfo counts` workflow runs on the first of each month and opens a
+pull request with the refreshed `data/elements.json`.
 
 ## Git hooks
 

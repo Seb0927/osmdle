@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   verify:
-    name: Lint, typecheck, build & audit
+    name: Lint, typecheck, test, build & audit
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -37,6 +37,12 @@ jobs:
 
       - name: Typecheck
         run: npm run typecheck
+
+      - name: Test
+        run: npm test
+
+      - name: Validate data
+        run: npm run data:validate
 
       - name: Build
         run: npm run build
