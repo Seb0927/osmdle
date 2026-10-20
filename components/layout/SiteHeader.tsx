@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
+import { SoundToggle } from '@/components/game/SoundToggle'
 import { Logo } from '@/components/layout/Logo'
 
 const links = [
@@ -94,6 +95,9 @@ export function SiteHeader() {
         </div>
 
         <Logo />
+        <div className="ml-auto">
+          <SoundToggle />
+        </div>
       </div>
     </header>
   )

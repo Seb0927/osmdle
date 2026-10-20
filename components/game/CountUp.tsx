@@ -1,7 +1,8 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { COUNT_UP_MS } from '@/lib/game/config.ts'
+import { playSound } from '@/lib/game/audio.ts'
+import { COUNT_UP_MS, COUNT_UP_TICK_MS } from '@/lib/game/config.ts'
 import { countAtTime, formatCount } from '@/lib/game/format.ts'
 
 interface CountUpProps {
@@ -20,13 +21,19 @@ export function CountUp({ value, durationMs = COUNT_UP_MS }: CountUpProps) {
     }
 
     let frame = 0
-    const startedAt = performance.now()
+    let lastTick = performance.now()
+    const startedAt = lastTick
 
     function tick(now: number) {
       const elapsed = now - startedAt
       if (elapsed >= durationMs) {
         setDisplayValue(value)
         return
+      }
+
+      if (now - lastTick >= COUNT_UP_TICK_MS) {
+        playSound('tick')
+        lastTick = now
       }
 
       setDisplayValue(countAtTime(0, value, elapsed, durationMs))

@@ -6,6 +6,7 @@ import type { CardState } from '@/components/game/ElementCard'
 import { ElementCard } from '@/components/game/ElementCard'
 import { GameOver } from '@/components/game/GameOver'
 import { elements } from '@/lib/data.ts'
+import { playSound, preloadSounds, unlockAudio } from '@/lib/game/audio.ts'
 import { COUNT_UP_MS, SLIDE_MS, VERDICT_HOLD_MS } from '@/lib/game/config.ts'
 import { formatCount } from '@/lib/game/format.ts'
 import { createFirstRound, pickNextRound } from '@/lib/game/round.ts'
@@ -157,6 +158,7 @@ export function Game() {
       return
     }
     startedRef.current = true
+    preloadSounds()
     const bestStreak = readBestStreak()
     const { round, nextRound, usedIds } = makeInitialGame()
     dispatch({ type: 'start', round, nextRound, usedIds, bestStreak })
@@ -170,6 +172,18 @@ export function Game() {
     if (state.phase === 'holding') {
       const timer = window.setTimeout(() => dispatch({ type: 'hold-done' }), VERDICT_HOLD_MS)
       return () => window.clearTimeout(timer)
+    }
+  }, [state.phase])
+
+  useEffect(() => {
+    if (state.phase === 'holding' && state.result) {
+      playSound(state.result)
+    }
+  }, [state.phase, state.result])
+
+  useEffect(() => {
+    if (state.phase === 'gameover') {
+      playSound('gameover')
     }
   }, [state.phase])
 
@@ -204,6 +218,7 @@ export function Game() {
     if (state.phase !== 'sliding') {
       return
     }
+    playSound('slide')
     const leftElement = leftRef.current
     const rightElement = rightRef.current
     if (!leftElement || !rightElement) {
@@ -263,6 +278,7 @@ export function Game() {
   }, [state.phase])
 
   const handleSelect = useCallback((side: Side) => {
+    unlockAudio()
     dispatch({ type: 'guess', side })
   }, [])
 

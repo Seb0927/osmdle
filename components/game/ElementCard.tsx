@@ -1,8 +1,9 @@
 'use client'
 
 import Image from 'next/image'
-import type { ReactNode } from 'react'
+import type { PointerEvent, ReactNode } from 'react'
 import { useState } from 'react'
+import { playSound } from '@/lib/game/audio.ts'
 import { formatCount } from '@/lib/game/format.ts'
 import type { GameElement } from '@/lib/game/types.ts'
 
@@ -38,12 +39,19 @@ export function ElementCard({
     ? `Choose ${element.title}, count hidden`
     : `Choose ${element.title}, ${formatCount(element.count)} elements`
 
+  function handlePointerEnter(event: PointerEvent<HTMLButtonElement>) {
+    if (!disabled && event.pointerType === 'mouse') {
+      playSound('hover')
+    }
+  }
+
   return (
     <button
       aria-label={ariaLabel}
       className={`group flex size-full flex-col overflow-hidden rounded-xl border bg-surface text-left shadow-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent disabled:cursor-default ${stateClasses[state]}`}
       disabled={disabled}
       onClick={onSelect}
+      onPointerEnter={handlePointerEnter}
       type="button"
     >
       <div className="relative w-full overflow-hidden bg-subtle" style={{ aspectRatio: '4 / 3' }}>
