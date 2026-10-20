@@ -148,6 +148,7 @@ function GameSkeleton() {
 export function Game() {
   const [state, dispatch] = useReducer(reducer, initialState)
   const startedRef = useRef(false)
+  const focusAfterRestartRef = useRef(false)
   const leftRef = useRef<HTMLDivElement>(null)
   const rightRef = useRef<HTMLDivElement>(null)
 
@@ -248,9 +249,18 @@ export function Game() {
   }, [commitSlide, state.phase])
 
   const restart = useCallback(() => {
+    focusAfterRestartRef.current = true
     const { round, nextRound, usedIds } = makeInitialGame()
     dispatch({ type: 'start', round, nextRound, usedIds, bestStreak: state.bestStreak })
   }, [state.bestStreak])
+
+  useEffect(() => {
+    if (state.phase !== 'answering' || !focusAfterRestartRef.current) {
+      return
+    }
+    focusAfterRestartRef.current = false
+    leftRef.current?.querySelector<HTMLButtonElement>('button')?.focus()
+  }, [state.phase])
 
   const handleSelect = useCallback((side: Side) => {
     dispatch({ type: 'guess', side })
@@ -264,6 +274,8 @@ export function Game() {
   const revealed = state.phase !== 'answering' && state.phase !== 'boot'
   const disabled = state.phase !== 'answering'
   const winner = left.count > right.count ? left : right
+  const showVerdict =
+    state.phase === 'holding' || state.phase === 'sliding' || state.phase === 'gameover'
   const announcement =
     (state.phase === 'holding' || state.phase === 'gameover') && state.result
       ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.`
@@ -279,11 +291,21 @@ export function Game() {
       <h1 className="mt-4 text-center font-semibold text-2xl tracking-tight sm:text-3xl">
         Which has more elements?
       </h1>
-      <p aria-live="polite" className="sr-only">
+      <p aria-atomic="true" aria-live="polite" className="sr-only">
         {announcement}
       </p>
+      <div aria-hidden="true" className="mt-3 flex h-6 items-center justify-center">
+        {showVerdict && state.result ? (
+          <span
+            className={`font-medium text-sm ${state.result === 'correct' ? 'text-success' : 'text-danger'}`}
+            data-testid="verdict"
+          >
+            {state.result === 'correct' ? 'Correct!' : 'Wrong.'}
+          </span>
+        ) : null}
+      </div>
 
-      <div className="relative mt-8">
+      <div className="relative mt-6">
         <div className={state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}>
           <div className="grid grid-cols-1 items-stretch gap-6 md:grid-cols-2">
             <div className="relative h-full" data-side="left" key={`left-${left.id}`} ref={leftRef}>

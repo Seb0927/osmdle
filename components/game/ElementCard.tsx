@@ -1,5 +1,9 @@
+'use client'
+
 import Image from 'next/image'
 import type { ReactNode } from 'react'
+import { useState } from 'react'
+import { formatCount } from '@/lib/game/format.ts'
 import type { GameElement } from '@/lib/game/types.ts'
 
 export type CardState = 'idle' | 'correct' | 'wrong'
@@ -27,23 +31,31 @@ export function ElementCard({
   state,
   onSelect,
 }: ElementCardProps) {
+  const [imageFailed, setImageFailed] = useState(false)
+  const imageUrl = element.image?.url
+  const showImage = Boolean(imageUrl) && !imageFailed
+  const ariaLabel = hidden
+    ? `Choose ${element.title}, count hidden`
+    : `Choose ${element.title}, ${formatCount(element.count)} elements`
+
   return (
     <button
-      aria-label={hidden ? `Choose ${element.title}, count hidden` : `Choose ${element.title}`}
+      aria-label={ariaLabel}
       className={`group flex size-full flex-col overflow-hidden rounded-xl border bg-surface text-left shadow-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent disabled:cursor-default ${stateClasses[state]}`}
       disabled={disabled}
       onClick={onSelect}
       type="button"
     >
       <div className="relative w-full overflow-hidden bg-subtle" style={{ aspectRatio: '4 / 3' }}>
-        {element.image?.url ? (
+        {showImage && imageUrl ? (
           <Image
-            alt={element.image.title ?? element.title}
+            alt={element.image?.title ?? element.title}
             className="object-cover"
             fill
             loading="eager"
+            onError={() => setImageFailed(true)}
             sizes="(min-width: 768px) 50vw, 100vw"
-            src={element.image.url}
+            src={imageUrl}
             unoptimized
           />
         ) : (
