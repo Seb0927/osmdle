@@ -2,6 +2,7 @@
   "name": "osmdle",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "description": "A higher/lower game where players guess which OpenStreetMap feature is more common.",
   "license": "UNLICENSED",
   "repository": {
@@ -22,6 +23,7 @@
     "lint": "biome check",
     "format": "biome format --write",
     "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.ts",
     "data:sync": "node scripts/sync-counts.mjs",
     "data:sync:report": "node scripts/sync-counts.mjs --report",
     "data:validate": "node scripts/validate-data.mjs",

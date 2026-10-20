@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import data from '@/data/elements.json'
+import { formatSnapshot } from '@/lib/game/format.ts'
 
 export const metadata: Metadata = {
   title: 'Attributions',
@@ -37,7 +38,7 @@ export default function AttributionsPage() {
           >
             Taginfo
           </a>
-          . Snapshot: {data.snapshot}
+          . Snapshot: {formatSnapshot(data.snapshot)}
           {data.source.dataUntil ? ` (data until ${data.source.dataUntil.slice(0, 10)})` : ''}.
         </p>
         <p>

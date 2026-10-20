@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import data from '@/data/elements.json'
+import { formatSnapshot } from '@/lib/game/format.ts'
 
 export const metadata: Metadata = {
   title: 'About',
@@ -16,7 +17,8 @@ export default function AboutPage() {
           one has more elements mapped worldwide.
         </p>
         <p>
-          Counts come from OpenStreetMap data via Taginfo. This snapshot is from {data.snapshot}
+          Counts come from OpenStreetMap data via Taginfo. This snapshot is from{' '}
+          {formatSnapshot(data.snapshot)}
           {data.source.dataUntil ? ` (data until ${data.source.dataUntil.slice(0, 10)})` : ''}.
         </p>
         <p>
