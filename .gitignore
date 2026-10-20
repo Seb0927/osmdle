@@ -13,6 +13,9 @@
 # testing
 /coverage
 
+# local data sync cache
+/.cache/
+
 # next.js
 /.next/
 /out/

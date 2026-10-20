@@ -22,6 +22,9 @@
     "lint": "biome check",
     "format": "biome format --write",
     "typecheck": "tsc --noEmit",
+    "data:sync": "node scripts/sync-counts.mjs",
+    "data:sync:report": "node scripts/sync-counts.mjs --report",
+    "data:validate": "node scripts/validate-data.mjs",
     "prepare": "lefthook install"
   },
   "dependencies": {

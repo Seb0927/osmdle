@@ -1,0 +1,3383 @@
+{
+  "schemaVersion": 1,
+  "elements": [
+    {
+      "id": "school",
+      "title": "School",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "school"
+        }
+      ]
+    },
+    {
+      "id": "kindergarten",
+      "title": "Kindergarten",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "kindergarten"
+        }
+      ]
+    },
+    {
+      "id": "college",
+      "title": "College",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "college"
+        }
+      ]
+    },
+    {
+      "id": "university",
+      "title": "University",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "university"
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "title": "Library",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "library"
+        }
+      ]
+    },
+    {
+      "id": "townhall",
+      "title": "Town Hall",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "townhall"
+        }
+      ]
+    },
+    {
+      "id": "courthouse",
+      "title": "Courthouse",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "courthouse"
+        }
+      ]
+    },
+    {
+      "id": "post-office",
+      "title": "Post Office",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "post_office"
+        }
+      ]
+    },
+    {
+      "id": "post-box",
+      "title": "Post Box",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "post_box"
+        }
+      ]
+    },
+    {
+      "id": "police-station",
+      "title": "Police Station",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "police"
+        }
+      ]
+    },
+    {
+      "id": "fire-station",
+      "title": "Fire Station",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "fire_station"
+        }
+      ]
+    },
+    {
+      "id": "community-centre",
+      "title": "Community Centre",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "community_centre"
+        }
+      ]
+    },
+    {
+      "id": "place-of-worship",
+      "title": "Place of Worship",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "place_of_worship"
+        }
+      ]
+    },
+    {
+      "id": "bank",
+      "title": "Bank",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bank"
+        }
+      ]
+    },
+    {
+      "id": "atm",
+      "title": "ATM",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "atm"
+        }
+      ]
+    },
+    {
+      "id": "cemetery",
+      "title": "Cemetery",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "cemetery"
+        }
+      ]
+    },
+    {
+      "id": "grave-yard",
+      "title": "Grave Yard",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "grave_yard"
+        }
+      ]
+    },
+    {
+      "id": "nursing-home",
+      "title": "Nursing Home",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "nursing_home"
+        }
+      ]
+    },
+    {
+      "id": "driving-school",
+      "title": "Driving School",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "driving_school"
+        }
+      ]
+    },
+    {
+      "id": "social-facility",
+      "title": "Social Facility",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "social_facility"
+        }
+      ]
+    },
+    {
+      "id": "childcare",
+      "title": "Childcare",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "childcare"
+        }
+      ]
+    },
+    {
+      "id": "government-office",
+      "title": "Government Office",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "office",
+          "value": "government"
+        }
+      ]
+    },
+    {
+      "id": "conference-centre",
+      "title": "Conference Centre",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "conference_centre"
+        }
+      ]
+    },
+    {
+      "id": "social-centre",
+      "title": "Social Centre",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "social_centre"
+        }
+      ]
+    },
+    {
+      "id": "events-venue",
+      "title": "Events Venue",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "events_venue"
+        }
+      ]
+    },
+    {
+      "id": "music-school",
+      "title": "Music School",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "music_school"
+        }
+      ]
+    },
+    {
+      "id": "language-school",
+      "title": "Language School",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "language_school"
+        }
+      ]
+    },
+    {
+      "id": "ranger-station",
+      "title": "Ranger Station",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "ranger_station"
+        }
+      ]
+    },
+    {
+      "id": "prison",
+      "title": "Prison",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "prison"
+        }
+      ]
+    },
+    {
+      "id": "animal-shelter",
+      "title": "Animal Shelter",
+      "family": "civic",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "animal_shelter"
+        }
+      ]
+    },
+    {
+      "id": "hospital",
+      "title": "Hospital",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "hospital"
+        }
+      ]
+    },
+    {
+      "id": "clinic",
+      "title": "Clinic",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "clinic"
+        }
+      ]
+    },
+    {
+      "id": "doctors",
+      "title": "Doctor's Office",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "doctors"
+        }
+      ]
+    },
+    {
+      "id": "dentist",
+      "title": "Dentist",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "dentist"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "title": "Pharmacy",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "pharmacy"
+        }
+      ]
+    },
+    {
+      "id": "veterinary",
+      "title": "Veterinary Clinic",
+      "family": "health",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "veterinary"
+        }
+      ]
+    },
+    {
+      "id": "psychotherapist",
+      "title": "Psychotherapy Practice",
+      "family": "health",
+      "tags": [
+        {
+          "key": "healthcare",
+          "value": "psychotherapist"
+        }
+      ]
+    },
+    {
+      "id": "defibrillator",
+      "title": "Defibrillator",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "defibrillator"
+        }
+      ]
+    },
+    {
+      "id": "fire-hydrant",
+      "title": "Fire Hydrant",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "fire_hydrant"
+        }
+      ]
+    },
+    {
+      "id": "emergency-phone",
+      "title": "Emergency Phone",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "phone"
+        }
+      ]
+    },
+    {
+      "id": "ambulance-station",
+      "title": "Ambulance Station",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "ambulance_station"
+        }
+      ]
+    },
+    {
+      "id": "mountain-rescue",
+      "title": "Mountain Rescue Station",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "mountain_rescue"
+        }
+      ]
+    },
+    {
+      "id": "lifeguard",
+      "title": "Lifeguard Station",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "lifeguard"
+        }
+      ]
+    },
+    {
+      "id": "optometrist",
+      "title": "Optometrist",
+      "family": "health",
+      "tags": [
+        {
+          "key": "healthcare",
+          "value": "optometrist"
+        }
+      ]
+    },
+    {
+      "id": "fire-extinguisher",
+      "title": "Fire Extinguisher",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "fire_extinguisher"
+        }
+      ]
+    },
+    {
+      "id": "emergency-suction-point",
+      "title": "Emergency Suction Point",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "suction_point"
+        }
+      ]
+    },
+    {
+      "id": "assembly-point",
+      "title": "Emergency Assembly Point",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "assembly_point"
+        }
+      ]
+    },
+    {
+      "id": "emergency-siren",
+      "title": "Emergency Siren",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "siren"
+        }
+      ]
+    },
+    {
+      "id": "emergency-access-point",
+      "title": "Emergency Access Point",
+      "family": "health",
+      "tags": [
+        {
+          "key": "emergency",
+          "value": "access_point"
+        }
+      ]
+    },
+    {
+      "id": "physiotherapist",
+      "title": "Physiotherapy Practice",
+      "family": "health",
+      "tags": [
+        {
+          "key": "healthcare",
+          "value": "physiotherapist"
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "title": "Restaurant",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "restaurant"
+        }
+      ]
+    },
+    {
+      "id": "fast-food",
+      "title": "Fast Food Restaurant",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "fast_food"
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "title": "Cafe",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "cafe"
+        }
+      ]
+    },
+    {
+      "id": "bar",
+      "title": "Bar",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bar"
+        }
+      ],
+      "shortDescription": "A bar is a place that primarily serves alcoholic drinks."
+    },
+    {
+      "id": "pub",
+      "title": "Pub",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "pub"
+        }
+      ],
+      "shortDescription": "A pub is an establishment that serves alcoholic drinks and food."
+    },
+    {
+      "id": "biergarten",
+      "title": "Biergarten",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "biergarten"
+        }
+      ]
+    },
+    {
+      "id": "ice-cream",
+      "title": "Ice Cream Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "ice_cream"
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "title": "Bakery",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "bakery"
+        }
+      ]
+    },
+    {
+      "id": "butcher",
+      "title": "Butcher",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "butcher"
+        }
+      ]
+    },
+    {
+      "id": "greengrocer",
+      "title": "Greengrocer",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "greengrocer"
+        }
+      ]
+    },
+    {
+      "id": "supermarket",
+      "title": "Supermarket",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "supermarket"
+        }
+      ]
+    },
+    {
+      "id": "convenience-store",
+      "title": "Convenience Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "convenience"
+        }
+      ]
+    },
+    {
+      "id": "kiosk",
+      "title": "Kiosk",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "kiosk"
+        }
+      ]
+    },
+    {
+      "id": "marketplace",
+      "title": "Marketplace",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "marketplace"
+        }
+      ]
+    },
+    {
+      "id": "mall",
+      "title": "Shopping Mall",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "mall"
+        }
+      ]
+    },
+    {
+      "id": "department-store",
+      "title": "Department Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "department_store"
+        }
+      ]
+    },
+    {
+      "id": "clothes-shop",
+      "title": "Clothing Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "clothes"
+        }
+      ]
+    },
+    {
+      "id": "hardware-store",
+      "title": "Hardware Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "hardware"
+        }
+      ]
+    },
+    {
+      "id": "electronics-store",
+      "title": "Electronics Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "electronics"
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "title": "Florist",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "florist"
+        }
+      ]
+    },
+    {
+      "id": "bookshop",
+      "title": "Bookshop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "books"
+        }
+      ]
+    },
+    {
+      "id": "furniture-store",
+      "title": "Furniture Store",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "furniture"
+        }
+      ]
+    },
+    {
+      "id": "sports-shop",
+      "title": "Sports Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "sports"
+        }
+      ]
+    },
+    {
+      "id": "toy-shop",
+      "title": "Toy Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "toys"
+        }
+      ]
+    },
+    {
+      "id": "jewelry-shop",
+      "title": "Jewelry Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "jewelry"
+        }
+      ]
+    },
+    {
+      "id": "optician",
+      "title": "Optician",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "optician"
+        }
+      ]
+    },
+    {
+      "id": "hairdresser",
+      "title": "Hairdresser",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "hairdresser"
+        }
+      ]
+    },
+    {
+      "id": "beauty-shop",
+      "title": "Beauty Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "beauty"
+        }
+      ]
+    },
+    {
+      "id": "laundry",
+      "title": "Laundry",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "laundry"
+        }
+      ]
+    },
+    {
+      "id": "dry-cleaning",
+      "title": "Dry Cleaner",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "dry_cleaning"
+        }
+      ]
+    },
+    {
+      "id": "car-repair",
+      "title": "Car Repair Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "car_repair"
+        }
+      ]
+    },
+    {
+      "id": "car-parts",
+      "title": "Car Parts Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "car_parts"
+        }
+      ]
+    },
+    {
+      "id": "car-rental",
+      "title": "Car Rental",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "car_rental"
+        }
+      ]
+    },
+    {
+      "id": "travel-agency",
+      "title": "Travel Agency",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "travel_agency"
+        }
+      ]
+    },
+    {
+      "id": "fuel-station",
+      "title": "Fuel Station",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "fuel"
+        }
+      ]
+    },
+    {
+      "id": "pet-shop",
+      "title": "Pet Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "pet"
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "title": "Hotel",
+      "family": "food",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "hotel"
+        }
+      ]
+    },
+    {
+      "id": "motel",
+      "title": "Motel",
+      "family": "food",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "motel"
+        }
+      ]
+    },
+    {
+      "id": "guest-house",
+      "title": "Guest House",
+      "family": "food",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "guest_house"
+        }
+      ]
+    },
+    {
+      "id": "hostel",
+      "title": "Hostel",
+      "family": "food",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "hostel"
+        }
+      ]
+    },
+    {
+      "id": "bus-stop",
+      "title": "Bus Stop",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "bus_stop"
+        }
+      ]
+    },
+    {
+      "id": "bus-station",
+      "title": "Bus Station",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bus_station"
+        }
+      ]
+    },
+    {
+      "id": "railway-station",
+      "title": "Railway Station",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "station"
+        }
+      ]
+    },
+    {
+      "id": "railway-halt",
+      "title": "Railway Halt",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "halt"
+        }
+      ]
+    },
+    {
+      "id": "tram-stop",
+      "title": "Tram Stop",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "tram_stop"
+        }
+      ]
+    },
+    {
+      "id": "subway-entrance",
+      "title": "Subway Entrance",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "subway_entrance"
+        }
+      ]
+    },
+    {
+      "id": "taxi-stand",
+      "title": "Taxi Stand",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "taxi"
+        }
+      ]
+    },
+    {
+      "id": "parking",
+      "title": "Parking Area",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "parking"
+        }
+      ]
+    },
+    {
+      "id": "parking-entrance",
+      "title": "Parking Entrance",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "parking_entrance"
+        }
+      ]
+    },
+    {
+      "id": "parking-space",
+      "title": "Parking Space",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "parking_space"
+        }
+      ]
+    },
+    {
+      "id": "bicycle-parking",
+      "title": "Bicycle Parking",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bicycle_parking"
+        }
+      ]
+    },
+    {
+      "id": "motorcycle-parking",
+      "title": "Motorcycle Parking",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "motorcycle_parking"
+        }
+      ]
+    },
+    {
+      "id": "car-sharing",
+      "title": "Car Sharing Station",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "car_sharing"
+        }
+      ]
+    },
+    {
+      "id": "bicycle-rental",
+      "title": "Bicycle Rental",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bicycle_rental"
+        }
+      ]
+    },
+    {
+      "id": "charging-station",
+      "title": "Charging Station",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "charging_station"
+        }
+      ]
+    },
+    {
+      "id": "ferry-terminal",
+      "title": "Ferry Terminal",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "ferry_terminal"
+        }
+      ]
+    },
+    {
+      "id": "airport-terminal",
+      "title": "Airport Terminal",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "aeroway",
+          "value": "terminal"
+        }
+      ]
+    },
+    {
+      "id": "helipad",
+      "title": "Helipad",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "aeroway",
+          "value": "helipad"
+        }
+      ]
+    },
+    {
+      "id": "airstrip",
+      "title": "Airstrip",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "aeroway",
+          "value": "airstrip"
+        }
+      ]
+    },
+    {
+      "id": "marina",
+      "title": "Marina",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "marina"
+        }
+      ]
+    },
+    {
+      "id": "slipway",
+      "title": "Slipway",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "slipway"
+        }
+      ]
+    },
+    {
+      "id": "toll-booth",
+      "title": "Toll Booth",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "barrier",
+          "value": "toll_booth"
+        }
+      ]
+    },
+    {
+      "id": "weighbridge",
+      "title": "Weighbridge",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "weighbridge"
+        }
+      ]
+    },
+    {
+      "id": "speed-camera",
+      "title": "Speed Camera",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "speed_camera"
+        }
+      ]
+    },
+    {
+      "id": "traffic-signals",
+      "title": "Traffic Signals",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "traffic_signals"
+        }
+      ]
+    },
+    {
+      "id": "stop-sign",
+      "title": "Stop Sign",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "stop"
+        }
+      ]
+    },
+    {
+      "id": "crossing",
+      "title": "Pedestrian Crossing",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "crossing"
+        }
+      ]
+    },
+    {
+      "id": "street-lamp",
+      "title": "Street Lamp",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "street_lamp"
+        }
+      ]
+    },
+    {
+      "id": "milestone",
+      "title": "Milestone",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "milestone"
+        }
+      ]
+    },
+    {
+      "id": "guidepost",
+      "title": "Guidepost",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "information",
+          "value": "guidepost"
+        }
+      ]
+    },
+    {
+      "id": "level-crossing",
+      "title": "Level Crossing",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "level_crossing"
+        }
+      ]
+    },
+    {
+      "id": "railway-crossing",
+      "title": "Railway Crossing",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "crossing"
+        }
+      ]
+    },
+    {
+      "id": "railway-platform",
+      "title": "Railway Platform",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "railway",
+          "value": "platform"
+        }
+      ]
+    },
+    {
+      "id": "quay",
+      "title": "Quay",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "quay"
+        }
+      ]
+    },
+    {
+      "id": "breakwater",
+      "title": "Breakwater",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "breakwater"
+        }
+      ]
+    },
+    {
+      "id": "bicycle-repair-station",
+      "title": "Bicycle Repair Station",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bicycle_repair_station"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Motorway Services",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "services"
+        }
+      ]
+    },
+    {
+      "id": "rest-area",
+      "title": "Rest Area",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "rest_area"
+        }
+      ]
+    },
+    {
+      "id": "motorway-junction",
+      "title": "Motorway Junction",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "motorway_junction"
+        }
+      ]
+    },
+    {
+      "id": "pier",
+      "title": "Pier",
+      "family": "transport",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "pier"
+        }
+      ]
+    },
+    {
+      "id": "motorway",
+      "title": "Motorway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "motorway"
+        }
+      ]
+    },
+    {
+      "id": "trunk-road",
+      "title": "Trunk Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "trunk"
+        }
+      ]
+    },
+    {
+      "id": "primary-road",
+      "title": "Primary Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "primary"
+        }
+      ]
+    },
+    {
+      "id": "secondary-road",
+      "title": "Secondary Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "tertiary-road",
+      "title": "Tertiary Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "tertiary"
+        }
+      ]
+    },
+    {
+      "id": "unclassified-road",
+      "title": "Unclassified Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "unclassified"
+        }
+      ]
+    },
+    {
+      "id": "residential-road",
+      "title": "Residential Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "residential"
+        }
+      ]
+    },
+    {
+      "id": "living-street",
+      "title": "Living Street",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "living_street"
+        }
+      ]
+    },
+    {
+      "id": "service-road",
+      "title": "Service Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "service"
+        }
+      ]
+    },
+    {
+      "id": "track",
+      "title": "Track",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "track"
+        }
+      ]
+    },
+    {
+      "id": "footway",
+      "title": "Footway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "footway"
+        }
+      ]
+    },
+    {
+      "id": "cycleway",
+      "title": "Cycleway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "cycleway"
+        }
+      ]
+    },
+    {
+      "id": "path",
+      "title": "Path",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "path"
+        }
+      ]
+    },
+    {
+      "id": "steps",
+      "title": "Steps",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "steps"
+        }
+      ]
+    },
+    {
+      "id": "bridleway",
+      "title": "Bridleway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "bridleway"
+        }
+      ]
+    },
+    {
+      "id": "pedestrian-street",
+      "title": "Pedestrian Street",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "pedestrian"
+        }
+      ]
+    },
+    {
+      "id": "road",
+      "title": "Road",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "road"
+        }
+      ]
+    },
+    {
+      "id": "construction-road",
+      "title": "Road Under Construction",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "construction"
+        }
+      ]
+    },
+    {
+      "id": "raceway",
+      "title": "Raceway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "raceway"
+        }
+      ]
+    },
+    {
+      "id": "busway",
+      "title": "Busway",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "busway"
+        }
+      ]
+    },
+    {
+      "id": "passing-place",
+      "title": "Passing Place",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "passing_place"
+        }
+      ]
+    },
+    {
+      "id": "corridor",
+      "title": "Corridor",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "corridor"
+        }
+      ]
+    },
+    {
+      "id": "elevator",
+      "title": "Elevator",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "elevator"
+        }
+      ]
+    },
+    {
+      "id": "trailhead",
+      "title": "Trailhead",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "trailhead"
+        }
+      ]
+    },
+    {
+      "id": "via-ferrata",
+      "title": "Via Ferrata",
+      "family": "roads",
+      "tags": [
+        {
+          "key": "highway",
+          "value": "via_ferrata"
+        }
+      ]
+    },
+    {
+      "id": "river",
+      "title": "River",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "river"
+        }
+      ]
+    },
+    {
+      "id": "river-area",
+      "title": "River Area",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "river"
+        }
+      ]
+    },
+    {
+      "id": "stream",
+      "title": "Stream",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "stream"
+        }
+      ]
+    },
+    {
+      "id": "canal",
+      "title": "Canal",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "canal"
+        }
+      ]
+    },
+    {
+      "id": "ditch",
+      "title": "Ditch",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "ditch"
+        }
+      ]
+    },
+    {
+      "id": "drain",
+      "title": "Drain",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "drain"
+        }
+      ]
+    },
+    {
+      "id": "dam",
+      "title": "Dam",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "dam"
+        }
+      ]
+    },
+    {
+      "id": "weir",
+      "title": "Weir",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "weir"
+        }
+      ]
+    },
+    {
+      "id": "waterfall",
+      "title": "Waterfall",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "waterfall"
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "title": "Spring",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "spring"
+        }
+      ]
+    },
+    {
+      "id": "lake",
+      "title": "Lake",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "lake"
+        }
+      ]
+    },
+    {
+      "id": "pond",
+      "title": "Pond",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "pond"
+        }
+      ]
+    },
+    {
+      "id": "reservoir",
+      "title": "Reservoir",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "reservoir"
+        }
+      ]
+    },
+    {
+      "id": "basin",
+      "title": "Water Basin",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "basin"
+        }
+      ]
+    },
+    {
+      "id": "wetland",
+      "title": "Wetland",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "wetland"
+        }
+      ]
+    },
+    {
+      "id": "lagoon",
+      "title": "Lagoon",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "lagoon"
+        }
+      ]
+    },
+    {
+      "id": "oxbow",
+      "title": "Oxbow Lake",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "oxbow"
+        }
+      ]
+    },
+    {
+      "id": "beach",
+      "title": "Beach",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "beach"
+        }
+      ]
+    },
+    {
+      "id": "bay",
+      "title": "Bay",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "bay"
+        }
+      ]
+    },
+    {
+      "id": "strait",
+      "title": "Strait",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "strait"
+        }
+      ]
+    },
+    {
+      "id": "coastline",
+      "title": "Coastline",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "coastline"
+        }
+      ]
+    },
+    {
+      "id": "water-tower",
+      "title": "Water Tower",
+      "family": "water",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "water_tower"
+        }
+      ]
+    },
+    {
+      "id": "water-works",
+      "title": "Water Works",
+      "family": "water",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "water_works"
+        }
+      ]
+    },
+    {
+      "id": "wastewater-plant",
+      "title": "Wastewater Plant",
+      "family": "water",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "wastewater_plant"
+        }
+      ]
+    },
+    {
+      "id": "water-well",
+      "title": "Water Well",
+      "family": "water",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "water_well"
+        }
+      ]
+    },
+    {
+      "id": "lock-gate",
+      "title": "Lock Gate",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "lock_gate"
+        }
+      ]
+    },
+    {
+      "id": "sluice-gate",
+      "title": "Sluice Gate",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "sluice_gate"
+        }
+      ]
+    },
+    {
+      "id": "fish-pond",
+      "title": "Fish Pond",
+      "family": "water",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "water"
+        },
+        {
+          "key": "water",
+          "value": "fishpond"
+        }
+      ]
+    },
+    {
+      "id": "boatyard",
+      "title": "Boatyard",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "boatyard"
+        }
+      ]
+    },
+    {
+      "id": "tidal-channel",
+      "title": "Tidal Channel",
+      "family": "water",
+      "tags": [
+        {
+          "key": "waterway",
+          "value": "tidal_channel"
+        }
+      ]
+    },
+    {
+      "id": "wood",
+      "title": "Wood",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "scrub",
+      "title": "Scrub",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "scrub"
+        }
+      ]
+    },
+    {
+      "id": "heath",
+      "title": "Heath",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "heath"
+        }
+      ]
+    },
+    {
+      "id": "grassland",
+      "title": "Grassland",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "grassland"
+        }
+      ]
+    },
+    {
+      "id": "meadow",
+      "title": "Meadow",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "meadow"
+        }
+      ]
+    },
+    {
+      "id": "farmland",
+      "title": "Farmland",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "farmland"
+        }
+      ]
+    },
+    {
+      "id": "orchard",
+      "title": "Orchard",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "orchard"
+        }
+      ]
+    },
+    {
+      "id": "vineyard",
+      "title": "Vineyard",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "vineyard"
+        }
+      ]
+    },
+    {
+      "id": "allotments",
+      "title": "Allotments",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "allotments"
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "title": "Garden",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "garden"
+        }
+      ]
+    },
+    {
+      "id": "park",
+      "title": "Park",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "park"
+        }
+      ]
+    },
+    {
+      "id": "nature-reserve",
+      "title": "Nature Reserve",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "nature_reserve"
+        }
+      ]
+    },
+    {
+      "id": "protected-area",
+      "title": "Protected Area",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "boundary",
+          "value": "protected_area"
+        }
+      ]
+    },
+    {
+      "id": "peak",
+      "title": "Peak",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "peak"
+        }
+      ]
+    },
+    {
+      "id": "cliff",
+      "title": "Cliff",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "cliff"
+        }
+      ]
+    },
+    {
+      "id": "cave-entrance",
+      "title": "Cave Entrance",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "cave_entrance"
+        }
+      ]
+    },
+    {
+      "id": "rock",
+      "title": "Rock",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "rock"
+        }
+      ]
+    },
+    {
+      "id": "scree",
+      "title": "Scree",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "scree"
+        }
+      ]
+    },
+    {
+      "id": "sand",
+      "title": "Sand",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "sand"
+        }
+      ]
+    },
+    {
+      "id": "glacier",
+      "title": "Glacier",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "glacier"
+        }
+      ]
+    },
+    {
+      "id": "volcano",
+      "title": "Volcano",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "volcano"
+        }
+      ]
+    },
+    {
+      "id": "ridge",
+      "title": "Ridge",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "ridge"
+        }
+      ]
+    },
+    {
+      "id": "saddle",
+      "title": "Saddle",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "saddle"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "title": "Tree",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "tree"
+        }
+      ]
+    },
+    {
+      "id": "tree-row",
+      "title": "Tree Row",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "tree_row"
+        }
+      ]
+    },
+    {
+      "id": "bare-rock",
+      "title": "Bare Rock",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "bare_rock"
+        }
+      ]
+    },
+    {
+      "id": "reef",
+      "title": "Reef",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "reef"
+        }
+      ]
+    },
+    {
+      "id": "shingle",
+      "title": "Shingle",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "shingle"
+        }
+      ]
+    },
+    {
+      "id": "fell",
+      "title": "Fell",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "fell"
+        }
+      ]
+    },
+    {
+      "id": "valley",
+      "title": "Valley",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "valley"
+        }
+      ]
+    },
+    {
+      "id": "residential-landuse",
+      "title": "Residential Area",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "residential"
+        }
+      ]
+    },
+    {
+      "id": "industrial-landuse",
+      "title": "Industrial Area",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "industrial"
+        }
+      ]
+    },
+    {
+      "id": "commercial-landuse",
+      "title": "Commercial Area",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "commercial"
+        }
+      ]
+    },
+    {
+      "id": "retail-landuse",
+      "title": "Retail Area",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "retail"
+        }
+      ]
+    },
+    {
+      "id": "quarry",
+      "title": "Quarry",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "quarry"
+        }
+      ]
+    },
+    {
+      "id": "landfill",
+      "title": "Landfill",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "landfill"
+        }
+      ]
+    },
+    {
+      "id": "construction-landuse",
+      "title": "Construction Site",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "construction"
+        }
+      ]
+    },
+    {
+      "id": "railway-landuse",
+      "title": "Railway Land",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "railway"
+        }
+      ]
+    },
+    {
+      "id": "military-area",
+      "title": "Military Area",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "military"
+        }
+      ]
+    },
+    {
+      "id": "power-plant",
+      "title": "Power Plant",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "plant"
+        }
+      ]
+    },
+    {
+      "id": "substation",
+      "title": "Power Substation",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "substation"
+        }
+      ]
+    },
+    {
+      "id": "power-tower",
+      "title": "Power Tower",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "tower"
+        }
+      ]
+    },
+    {
+      "id": "power-pole",
+      "title": "Power Pole",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "pole"
+        }
+      ]
+    },
+    {
+      "id": "wind-turbine",
+      "title": "Wind Turbine",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "generator"
+        },
+        {
+          "key": "generator:source",
+          "value": "wind"
+        }
+      ]
+    },
+    {
+      "id": "solar-generator",
+      "title": "Solar Generator",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "generator"
+        },
+        {
+          "key": "generator:source",
+          "value": "solar"
+        }
+      ]
+    },
+    {
+      "id": "hydro-generator",
+      "title": "Hydroelectric Generator",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "power",
+          "value": "generator"
+        },
+        {
+          "key": "generator:source",
+          "value": "hydro"
+        }
+      ]
+    },
+    {
+      "id": "pipeline",
+      "title": "Pipeline",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "pipeline"
+        }
+      ]
+    },
+    {
+      "id": "petroleum-well",
+      "title": "Petroleum Well",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "petroleum_well"
+        }
+      ]
+    },
+    {
+      "id": "chimney",
+      "title": "Chimney",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "chimney"
+        }
+      ]
+    },
+    {
+      "id": "lighthouse",
+      "title": "Lighthouse",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "lighthouse"
+        }
+      ]
+    },
+    {
+      "id": "soccer-pitch",
+      "title": "Soccer Pitch",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "soccer"
+        }
+      ]
+    },
+    {
+      "id": "basketball-pitch",
+      "title": "Basketball Pitch",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "basketball"
+        }
+      ]
+    },
+    {
+      "id": "tennis-court",
+      "title": "Tennis Court",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "tennis"
+        }
+      ]
+    },
+    {
+      "id": "baseball-pitch",
+      "title": "Baseball Field",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "baseball"
+        }
+      ]
+    },
+    {
+      "id": "american-football-pitch",
+      "title": "American Football Field",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "american_football"
+        }
+      ]
+    },
+    {
+      "id": "rugby-union",
+      "title": "Rugby Union",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "sport",
+          "value": "rugby_union"
+        }
+      ]
+    },
+    {
+      "id": "cricket-pitch",
+      "title": "Cricket Pitch",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "cricket"
+        }
+      ]
+    },
+    {
+      "id": "volleyball-pitch",
+      "title": "Volleyball Court",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "volleyball"
+        }
+      ]
+    },
+    {
+      "id": "handball",
+      "title": "Handball",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "sport",
+          "value": "handball"
+        }
+      ]
+    },
+    {
+      "id": "field-hockey",
+      "title": "Field Hockey",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "sport",
+          "value": "field_hockey"
+        }
+      ]
+    },
+    {
+      "id": "swimming-pool",
+      "title": "Swimming Pool",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "swimming_pool"
+        }
+      ]
+    },
+    {
+      "id": "sports-centre",
+      "title": "Sports Centre",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "sports_centre"
+        }
+      ]
+    },
+    {
+      "id": "stadium",
+      "title": "Stadium",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "stadium"
+        }
+      ]
+    },
+    {
+      "id": "running-track",
+      "title": "Running Track",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "track"
+        }
+      ]
+    },
+    {
+      "id": "golf-course",
+      "title": "Golf Course",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "golf_course"
+        }
+      ]
+    },
+    {
+      "id": "miniature-golf",
+      "title": "Miniature Golf",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "miniature_golf"
+        }
+      ]
+    },
+    {
+      "id": "skate-park",
+      "title": "Skate Park",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "pitch"
+        },
+        {
+          "key": "sport",
+          "value": "skateboard"
+        }
+      ]
+    },
+    {
+      "id": "playground",
+      "title": "Playground",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "playground"
+        }
+      ]
+    },
+    {
+      "id": "dog-park",
+      "title": "Dog Park",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "dog_park"
+        }
+      ]
+    },
+    {
+      "id": "fitness-station",
+      "title": "Fitness Station",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "fitness_station"
+        }
+      ]
+    },
+    {
+      "id": "water-park",
+      "title": "Water Park",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "water_park"
+        }
+      ]
+    },
+    {
+      "id": "bowling-alley",
+      "title": "Bowling Alley",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "bowling_alley"
+        }
+      ]
+    },
+    {
+      "id": "horse-riding",
+      "title": "Horse Riding Centre",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "horse_riding"
+        }
+      ]
+    },
+    {
+      "id": "disc-golf-course",
+      "title": "Disc Golf Course",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "disc_golf_course"
+        }
+      ]
+    },
+    {
+      "id": "camp-site",
+      "title": "Camp Site",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "camp_site"
+        }
+      ]
+    },
+    {
+      "id": "museum",
+      "title": "Museum",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "museum"
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "title": "Art Gallery",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "gallery"
+        }
+      ]
+    },
+    {
+      "id": "attraction",
+      "title": "Tourist Attraction",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "attraction"
+        }
+      ]
+    },
+    {
+      "id": "viewpoint",
+      "title": "Viewpoint",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "viewpoint"
+        }
+      ]
+    },
+    {
+      "id": "artwork",
+      "title": "Artwork",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "artwork"
+        }
+      ]
+    },
+    {
+      "id": "information",
+      "title": "Information Point",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "information"
+        }
+      ]
+    },
+    {
+      "id": "monument",
+      "title": "Monument",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "monument"
+        }
+      ]
+    },
+    {
+      "id": "memorial",
+      "title": "Memorial",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "memorial"
+        }
+      ]
+    },
+    {
+      "id": "castle",
+      "title": "Castle",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "castle"
+        }
+      ]
+    },
+    {
+      "id": "ruins",
+      "title": "Ruins",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "ruins"
+        }
+      ]
+    },
+    {
+      "id": "archaeological-site",
+      "title": "Archaeological Site",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "archaeological_site"
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "title": "Cinema",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "cinema"
+        }
+      ]
+    },
+    {
+      "id": "theatre",
+      "title": "Theatre",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "theatre"
+        }
+      ]
+    },
+    {
+      "id": "nightclub",
+      "title": "Nightclub",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "nightclub"
+        }
+      ]
+    },
+    {
+      "id": "arts-centre",
+      "title": "Arts Centre",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "arts_centre"
+        }
+      ]
+    },
+    {
+      "id": "fort",
+      "title": "Fort",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "historic",
+          "value": "fort"
+        }
+      ]
+    },
+    {
+      "id": "casino",
+      "title": "Casino",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "casino"
+        }
+      ]
+    },
+    {
+      "id": "zoo",
+      "title": "Zoo",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "zoo"
+        }
+      ]
+    },
+    {
+      "id": "theme-park",
+      "title": "Theme Park",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "theme_park"
+        }
+      ]
+    },
+    {
+      "id": "picnic-site",
+      "title": "Picnic Site",
+      "family": "tourism",
+      "tags": [
+        {
+          "key": "tourism",
+          "value": "picnic_site"
+        }
+      ]
+    },
+    {
+      "id": "building",
+      "title": "Building",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "yes"
+        }
+      ]
+    },
+    {
+      "id": "house",
+      "title": "House",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "house"
+        }
+      ]
+    },
+    {
+      "id": "apartments",
+      "title": "Apartment Building",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "apartments"
+        }
+      ]
+    },
+    {
+      "id": "shed",
+      "title": "Shed",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "shed"
+        }
+      ]
+    },
+    {
+      "id": "garage",
+      "title": "Garage",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "garage"
+        }
+      ]
+    },
+    {
+      "id": "garages",
+      "title": "Garage Block",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "building",
+          "value": "garages"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "Bridge",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "bridge"
+        }
+      ]
+    },
+    {
+      "id": "tower",
+      "title": "Tower",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "man_made",
+          "value": "tower"
+        }
+      ]
+    },
+    {
+      "id": "wall",
+      "title": "Wall",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "barrier",
+          "value": "wall"
+        }
+      ]
+    },
+    {
+      "id": "fence",
+      "title": "Fence",
+      "family": "buildings",
+      "tags": [
+        {
+          "key": "barrier",
+          "value": "fence"
+        }
+      ]
+    },
+    {
+      "id": "bench",
+      "title": "Bench",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bench"
+        }
+      ]
+    },
+    {
+      "id": "waste-basket",
+      "title": "Waste Basket",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "waste_basket"
+        }
+      ]
+    },
+    {
+      "id": "recycling",
+      "title": "Recycling Point",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "recycling"
+        }
+      ]
+    },
+    {
+      "id": "shelter",
+      "title": "Shelter",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "shelter"
+        }
+      ]
+    },
+    {
+      "id": "fountain",
+      "title": "Fountain",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "fountain"
+        }
+      ]
+    },
+    {
+      "id": "clock",
+      "title": "Public Clock",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "clock"
+        }
+      ]
+    },
+    {
+      "id": "vending-machine",
+      "title": "Vending Machine",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "vending_machine"
+        }
+      ]
+    },
+    {
+      "id": "drinking-water",
+      "title": "Drinking Water",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "drinking_water"
+        }
+      ]
+    },
+    {
+      "id": "toilets",
+      "title": "Public Toilets",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "toilets"
+        }
+      ]
+    },
+    {
+      "id": "bbq",
+      "title": "Barbecue",
+      "family": "street",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "bbq"
+        }
+      ]
+    }
+  ]
+}
