@@ -51,16 +51,16 @@ body {
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
 
-@utility card-grid {
+.card-grid {
   display: grid;
   grid-template-rows: auto auto minmax(0, 1fr) auto;
 }
 
-@utility card-ratio {
+.card-ratio {
   aspect-ratio: 5 / 7;
 }
 
-@utility card-image-ratio {
+.card-image-ratio {
   aspect-ratio: 4 / 3;
 }
 
