@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <div className="mx-auto w-full max-w-2xl px-4 py-12 sm:px-6">
-      <h1 className="font-semibold text-3xl tracking-tight">About osmdle</h1>
+      <h1 className="font-heading font-semibold text-3xl tracking-tight">About osmdle</h1>
       <div className="mt-6 space-y-4 text-muted text-sm leading-6">
         <p>
           osmdle is a higher/lower game. Each round shows two OpenStreetMap features and asks which

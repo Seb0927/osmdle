@@ -49,8 +49,8 @@ export function SiteHeader() {
 
   return (
     <header className="border-border border-b bg-background">
-      <div className="mx-auto flex h-14 w-full max-w-6xl items-center gap-3 px-4 sm:px-6">
-        <div ref={menuRef} className="relative">
+      <div className="mx-auto grid h-14 w-full max-w-6xl grid-cols-3 items-center gap-3 px-4 sm:px-6">
+        <div ref={menuRef} className="relative justify-self-start">
           <button
             aria-controls="site-menu"
             aria-expanded={isOpen}
@@ -94,8 +94,10 @@ export function SiteHeader() {
           ) : null}
         </div>
 
-        <Logo />
-        <div className="ml-auto">
+        <div className="justify-self-center">
+          <Logo />
+        </div>
+        <div className="justify-self-end">
           <SoundToggle />
         </div>
       </div>

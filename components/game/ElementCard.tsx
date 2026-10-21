@@ -54,7 +54,7 @@ export function ElementCard({
       onPointerEnter={handlePointerEnter}
       type="button"
     >
-      <h2 className="line-clamp-2 w-full text-balance font-semibold text-lg tracking-tight sm:text-xl">
+      <h2 className="line-clamp-2 w-full text-balance font-heading font-semibold text-lg tracking-tight sm:text-xl">
         {element.title}
       </h2>
       <div className="mt-4 flex min-h-18 w-full items-center">

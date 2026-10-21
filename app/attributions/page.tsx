@@ -13,7 +13,7 @@ const creditedImages = data.elements.flatMap((element) =>
 export default function AttributionsPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
-      <h1 className="font-semibold text-3xl tracking-tight">Attributions</h1>
+      <h1 className="font-heading font-semibold text-3xl tracking-tight">Attributions</h1>
       <div className="mt-6 space-y-4 text-muted text-sm leading-6">
         <p>
           OpenStreetMap data is © OpenStreetMap contributors, available under the Open Data Commons

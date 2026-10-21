@@ -64,7 +64,7 @@ export function GameOver({ streak, bestStreak, onRestart }: GameOverProps) {
       role="dialog"
     >
       <div className="w-full max-w-sm rounded-xl border border-border bg-surface p-6 text-center shadow-xl">
-        <h2 className="font-semibold text-2xl tracking-tight" id="game-over-title">
+        <h2 className="font-heading font-semibold text-2xl tracking-tight" id="game-over-title">
           Game over
         </h2>
         <p className="mt-4 font-semibold text-3xl tracking-tight">Streak {streak}</p>

@@ -308,7 +308,7 @@ export function Game() {
         <span aria-hidden="true">·</span>
         <span data-testid="best-streak">Best {state.bestStreak}</span>
       </div>
-      <h1 className="mt-4 text-center font-semibold text-2xl tracking-tight sm:text-3xl">
+      <h1 className="mt-4 text-center font-heading font-semibold text-2xl tracking-tight sm:text-3xl">
         Which has more elements?
       </h1>
       <p aria-atomic="true" aria-live="polite" className="sr-only">
