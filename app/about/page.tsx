@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="mx-auto w-full max-w-2xl px-4 py-12 sm:px-6">
+    <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
       <div className="rounded-2xl border border-border bg-surface p-6 shadow-sm sm:p-8">
         <h1 className="font-heading font-semibold text-3xl tracking-tight">About osmdle</h1>
         <div className="mt-6 space-y-4 text-muted text-sm leading-6">
