@@ -17,7 +17,7 @@ export default function AttributionsPage() {
       <div className="mt-6 space-y-4 text-muted text-sm leading-6">
         <p>
           OpenStreetMap data is © OpenStreetMap contributors, available under the Open Data Commons
-          Open Database License (ODbL).{' '}
+          Open Database License (ODbL). The game background uses OpenStreetMap map imagery.{' '}
           <a
             className="text-accent hover:underline"
             href="https://www.openstreetmap.org/copyright"
@@ -27,6 +27,18 @@ export default function AttributionsPage() {
             Read the OSM copyright and license
           </a>
           .
+        </p>
+        <p>
+          The dark background uses the{' '}
+          <a
+            className="text-accent hover:underline"
+            href="https://carto.com/attribution"
+            rel="noreferrer"
+            target="_blank"
+          >
+            CARTO Dark Matter
+          </a>{' '}
+          basemap. Map data is © OpenStreetMap contributors.
         </p>
         <p>
           Counts are provided by{' '}
