@@ -19,9 +19,9 @@ interface ElementCardProps {
 }
 
 const stateClasses: Record<CardState, string> = {
-  idle: 'border-border bg-surface',
-  correct: 'border-success bg-success/10 ring-2 ring-success',
-  wrong: 'border-danger bg-danger/10 ring-2 ring-danger',
+  idle: 'border-border',
+  correct: 'border-success ring-2 ring-success',
+  wrong: 'border-danger ring-2 ring-danger',
 }
 
 export function ElementCard({
@@ -48,7 +48,7 @@ export function ElementCard({
   return (
     <button
       aria-label={ariaLabel}
-      className={`card-grid card-ratio relative w-full place-items-center overflow-hidden rounded-2xl border px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:border-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
+      className={`card-grid card-ratio relative w-full place-items-center overflow-hidden rounded-2xl border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:border-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
       disabled={disabled}
       onClick={onSelect}
       onPointerEnter={handlePointerEnter}
