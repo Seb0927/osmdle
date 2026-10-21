@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { ContentCard } from '@/components/layout/ContentCard'
 import data from '@/data/elements.json'
 import { formatSnapshot } from '@/lib/game/format.ts'
 
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
-      <div className="rounded-2xl border border-border bg-surface p-6 shadow-sm sm:p-8">
+      <ContentCard>
         <h1 className="font-heading font-semibold text-3xl tracking-tight">About osmdle</h1>
         <div className="mt-6 space-y-4 text-muted text-sm leading-6">
           <p>
@@ -34,7 +35,7 @@ export default function AboutPage() {
         <Link className="mt-8 inline-flex font-medium text-accent text-sm hover:underline" href="/">
           Back to the game
         </Link>
-      </div>
+      </ContentCard>
     </div>
   )
 }
