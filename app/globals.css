@@ -55,13 +55,13 @@ body {
   font-family: var(--font-fredoka);
 }
 
-.game-background {
+.site-background {
   position: relative;
   isolation: isolate;
   overflow: hidden;
 }
 
-.game-background::before {
+.site-background::before {
   position: absolute;
   z-index: -1;
   inset: -8px;
@@ -75,7 +75,7 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  .game-background::before {
+  .site-background::before {
     background-image: url("/images/map-dark.webp");
     opacity: 0.5;
   }
