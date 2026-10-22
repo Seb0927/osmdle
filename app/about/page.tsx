@@ -12,10 +12,10 @@ export default function AboutPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
       <ContentCard>
-        <h1 className="font-heading font-semibold text-3xl tracking-tight">About osmdle</h1>
+        <h1 className="font-heading font-semibold text-3xl tracking-tight">About Osmdle</h1>
         <div className="mt-6 space-y-4 text-muted text-sm leading-6">
           <p>
-            osmdle is a higher/lower game. Each round shows two OpenStreetMap features and asks
+            Osmdle is a higher/lower game. Each round shows two OpenStreetMap features and asks
             which one has more elements mapped worldwide.
           </p>
           <p>

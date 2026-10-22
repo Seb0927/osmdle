@@ -12,7 +12,7 @@ export function Logo() {
         src="/images/icon.webp"
         width={1024}
       />
-      <span className="font-heading font-semibold text-lg tracking-tight">osmdle</span>
+      <span className="font-heading font-semibold text-lg tracking-tight">Osmdle</span>
     </Link>
   )
 }

@@ -22,8 +22,8 @@ const fredoka = Fredoka({
 
 export const metadata: Metadata = {
   title: {
-    default: 'osmdle',
-    template: '%s · osmdle',
+    default: 'Osmdle',
+    template: '%s · Osmdle',
   },
   description: 'Which OpenStreetMap feature is more common? A higher/lower game.',
 }

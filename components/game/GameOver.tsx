@@ -43,7 +43,7 @@ export function GameOver({ streak, bestStreak, onRestart }: GameOverProps) {
 
   async function handleShare() {
     const url = window.location.origin
-    const text = `I got a streak of ${streak} on osmdle! Can you beat it? ${url}`
+    const text = `I got a streak of ${streak} on Osmdle! Can you beat it? ${url}`
 
     try {
       await copyText(text)
