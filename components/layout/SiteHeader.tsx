@@ -48,8 +48,8 @@ export function SiteHeader() {
   }, [isOpen])
 
   return (
-    <header className="border-border border-b bg-background">
-      <div className="mx-auto grid h-14 w-full max-w-6xl grid-cols-3 items-center gap-3 px-4 sm:px-6">
+    <header className="p-3 sm:px-6">
+      <div className="mx-auto grid h-14 w-full max-w-6xl grid-cols-3 items-center gap-1 rounded-2xl border border-border bg-surface px-1 shadow-sm sm:gap-3 sm:px-3">
         <div ref={menuRef} className="relative justify-self-start">
           <button
             aria-controls="site-menu"
@@ -77,7 +77,7 @@ export function SiteHeader() {
           {isOpen ? (
             <nav
               aria-label="Site menu"
-              className="absolute top-full left-0 z-20 mt-2 w-56 rounded-lg border border-border bg-surface p-1 shadow-lg"
+              className="absolute top-full left-0 z-20 mt-3 w-56 rounded-lg border border-border bg-surface p-1 shadow-lg"
               id="site-menu"
             >
               {links.map((link) => (

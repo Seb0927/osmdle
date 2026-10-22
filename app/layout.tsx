@@ -35,8 +35,10 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
       className={`${geistSans.variable} ${geistMono.variable} ${fredoka.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-background text-foreground">
-        <SiteHeader />
-        <main className="site-background flex flex-1 flex-col">{children}</main>
+        <div className="site-background flex flex-1 flex-col">
+          <SiteHeader />
+          <main className="flex flex-1 flex-col">{children}</main>
+        </div>
         <SiteFooter />
       </body>
     </html>
