@@ -412,7 +412,7 @@ export function Game() {
         {announcement}
       </p>
 
-      <div className="relative mt-4">
+      <div className="relative mt-8">
         <div
           className={`max-md:pr-5 ${state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}`}
         >
