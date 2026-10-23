@@ -233,3 +233,63 @@ body {
     animation: none;
   }
 }
+
+.card-ribbon {
+  position: absolute;
+  z-index: 2;
+  top: 23px;
+  right: -29px;
+  width: 128px;
+  padding-block: 5px;
+  transform: rotate(45deg);
+  text-align: center;
+  font-family: var(--font-fredoka);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fff;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.25);
+  animation: ribbon-stamp 300ms ease-out both;
+}
+
+.card-ribbon-success {
+  background-color: color-mix(in srgb, var(--success) 50%, #000);
+}
+
+.card-ribbon-danger {
+  background-color: color-mix(in srgb, var(--danger) 50%, #000);
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-ribbon-success {
+    background-color: color-mix(in srgb, var(--success) 40%, #000);
+  }
+
+  .card-ribbon-danger {
+    background-color: color-mix(in srgb, var(--danger) 40%, #000);
+  }
+}
+
+@keyframes ribbon-stamp {
+  from {
+    opacity: 0;
+    transform: rotate(45deg) scale(1.5);
+  }
+
+  60% {
+    opacity: 1;
+    transform: rotate(45deg) scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: rotate(45deg) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card-ribbon {
+    animation: none;
+  }
+}

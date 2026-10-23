@@ -388,8 +388,6 @@ export function Game() {
   const revealed = state.phase !== 'answering' && state.phase !== 'boot'
   const disabled = state.phase !== 'answering'
   const winner = left.count > right.count ? left : right
-  const showVerdict =
-    state.phase === 'holding' || state.phase === 'sliding' || state.phase === 'gameover'
   const announcement =
     (state.phase === 'holding' || state.phase === 'gameover') && state.result
       ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.`
@@ -413,16 +411,6 @@ export function Game() {
       <p aria-atomic="true" aria-live="polite" className="sr-only">
         {announcement}
       </p>
-      <div aria-hidden="true" className="mt-3 flex h-6 items-center justify-center">
-        {showVerdict && state.result ? (
-          <span
-            className={`font-medium text-sm ${state.result === 'correct' ? 'text-success' : 'text-danger'}`}
-            data-testid="verdict"
-          >
-            {state.result === 'correct' ? 'Correct!' : 'Wrong.'}
-          </span>
-        ) : null}
-      </div>
 
       <div className="relative mt-4">
         <div

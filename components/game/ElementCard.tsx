@@ -18,10 +18,9 @@ interface ElementCardProps {
   onSelect: () => void
 }
 
-const stateClasses: Record<CardState, string> = {
-  idle: 'border-border',
-  correct: 'border-success ring-2 ring-success',
-  wrong: 'border-danger ring-2 ring-danger',
+const ribbonClasses: Record<Exclude<CardState, 'idle'>, string> = {
+  correct: 'card-ribbon card-ribbon-success',
+  wrong: 'card-ribbon card-ribbon-danger',
 }
 
 export function ElementCard({
@@ -50,13 +49,18 @@ export function ElementCard({
     // for double-tap zoom.
     <button
       aria-label={ariaLabel}
-      className={`card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
+      className="card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border border-border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8"
       data-family={element.family}
       disabled={disabled}
       onClick={onSelect}
       onPointerEnter={handlePointerEnter}
       type="button"
     >
+      {state !== 'idle' ? (
+        <span aria-hidden="true" className={ribbonClasses[state]} data-testid="verdict">
+          {state === 'correct' ? 'Correct' : 'Incorrect'}
+        </span>
+      ) : null}
       <h2 className="line-clamp-2 w-full text-balance font-heading font-semibold text-lg tracking-tight sm:text-xl">
         {element.title}
       </h2>
