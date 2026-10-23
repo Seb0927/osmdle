@@ -212,12 +212,12 @@ export function Game() {
   }, [state.phase])
 
   useEffect(() => {
-    if (state.phase !== 'gameover' || state.streak <= state.bestStreak) {
+    if (state.streak <= state.bestStreak) {
       return
     }
     writeBestStreak(state.streak)
     dispatch({ type: 'set-best', bestStreak: state.streak })
-  }, [state.bestStreak, state.phase, state.streak])
+  }, [state.bestStreak, state.streak])
 
   useEffect(() => {
     const url = state.nextRound?.right.image?.url
