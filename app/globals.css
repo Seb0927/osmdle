@@ -103,6 +103,16 @@ body {
   mask-size: contain;
 }
 
+.family-frame::after {
+  position: absolute;
+  z-index: 1;
+  inset: 6px;
+  border: 2px solid var(--family-color);
+  border-radius: 10px;
+  content: "";
+  pointer-events: none;
+}
+
 [data-family="nature"] {
   --family-color: var(--family-nature);
   --family-icon: url("/images/family/nature.svg");

@@ -50,7 +50,8 @@ export function ElementCard({
     // for double-tap zoom.
     <button
       aria-label={ariaLabel}
-      className={`card-grid card-ratio relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:border-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
+      className={`card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8 ${stateClasses[state]}`}
+      data-family={element.family}
       disabled={disabled}
       onClick={onSelect}
       onPointerEnter={handlePointerEnter}
