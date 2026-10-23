@@ -1,6 +1,6 @@
-export type SoundName = 'correct' | 'wrong' | 'slide' | 'gameover' | 'tick' | 'hover'
+export type SoundName = 'correct' | 'wrong' | 'slide' | 'gameover' | 'tick' | 'hover' | 'best'
 
-const SOUND_NAMES: SoundName[] = ['correct', 'wrong', 'slide', 'gameover', 'tick', 'hover']
+const SOUND_NAMES: SoundName[] = ['correct', 'wrong', 'slide', 'gameover', 'tick', 'hover', 'best']
 
 const SOUND_PATHS: Record<SoundName, string> = {
   correct: '/sounds/correct.wav',
@@ -9,6 +9,7 @@ const SOUND_PATHS: Record<SoundName, string> = {
   gameover: '/sounds/gameover.wav',
   tick: '/sounds/tick.wav',
   hover: '/sounds/hover.wav',
+  best: '/sounds/best.wav',
 }
 
 const SOUND_VOLUMES: Record<SoundName, number> = {
@@ -18,6 +19,7 @@ const SOUND_VOLUMES: Record<SoundName, number> = {
   gameover: 0.5,
   tick: 0.95,
   hover: 0.25,
+  best: 0.65,
 }
 
 const MUTED_KEY = 'osmdle:muted'

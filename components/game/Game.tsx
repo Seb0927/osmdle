@@ -215,6 +215,12 @@ export function Game() {
   }, [state.phase])
 
   useEffect(() => {
+    if (state.streak === state.bestAtStart + 1) {
+      playSound('best')
+    }
+  }, [state.streak, state.bestAtStart])
+
+  useEffect(() => {
     if (state.streak <= state.bestStreak) {
       return
     }
