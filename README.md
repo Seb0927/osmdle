@@ -26,7 +26,7 @@ Open http://localhost:3000.
 | `npm test`              | Run the game logic tests              |
 | `npm run lint`          | Biome linter + formatter check        |
 | `npm run format`        | Apply Biome formatting                |
-| `npm run typecheck`     | Type-check with `tsc --noEmit`        |
+| `npm run typecheck`     | Generate Next types and type-check    |
 | `npm run data:sync`     | Refresh Taginfo counts and metadata   |
 | `npm run data:validate` | Validate the committed data snapshot  |
 

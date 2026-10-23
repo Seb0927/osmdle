@@ -15,7 +15,7 @@ Tailwind v4.
 - `npm run build` — production build
 - `npm run lint` — Biome linter + formatter check
 - `npm run format` — apply Biome formatting
-- `npm run typecheck` — `tsc --noEmit`
+- `npm run typecheck` — generate Next.js route types and run `tsc --noEmit`
 
 ## Conventions
 

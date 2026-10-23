@@ -6,7 +6,7 @@ pre-commit:
       run: npx --no-install biome check --write --no-errors-on-unmatched {staged_files}
       stage_fixed: true
     typecheck:
-      run: npx --no-install tsc --noEmit
+      run: npm run typecheck
 
 commit-msg:
   commands:
