@@ -1,6 +1,7 @@
 'use client'
 
-import { useCallback, useEffect, useReducer, useRef } from 'react'
+import type { PointerEvent as ReactPointerEvent } from 'react'
+import { useCallback, useEffect, useReducer, useRef, useState } from 'react'
 import { CountUp } from '@/components/game/CountUp'
 import type { CardState } from '@/components/game/ElementCard'
 import { ElementCard } from '@/components/game/ElementCard'
@@ -133,17 +134,29 @@ function cardState(side: Side, state: State): CardState {
   return state.result === 'wrong' ? 'correct' : 'idle'
 }
 
+function deckClasses(side: Side, frontSide: Side) {
+  const position =
+    side === frontSide
+      ? 'max-md:z-20 max-md:-rotate-1'
+      : 'max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95'
+
+  return `max-md:absolute max-md:inset-0 motion-safe:max-md:transition-transform motion-safe:max-md:duration-200 md:relative md:w-full md:max-w-sm ${position}`
+}
+
 function GameSkeleton() {
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 py-8 sm:px-6">
       <div className="mx-auto h-3 w-32 animate-pulse rounded bg-subtle" />
       <div className="mx-auto mt-4 h-8 w-72 animate-pulse rounded bg-subtle" />
-      <div className="mt-8 flex flex-col items-center gap-8 md:flex-row md:items-start md:justify-center lg:gap-16">
-        <div className="w-full max-w-sm">
-          <div className="card-ratio relative animate-pulse rounded-2xl border border-border bg-subtle" />
-        </div>
-        <div className="w-full max-w-sm">
-          <div className="card-ratio relative animate-pulse rounded-2xl border border-border bg-subtle" />
+      <div className="max-md:pr-5">
+        <div className="mx-auto mt-8 w-full max-w-xs sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16">
+          <div aria-hidden="true" className="card-ratio w-full md:hidden" />
+          <div className="max-md:absolute max-md:inset-0 max-md:z-20 max-md:-rotate-1 md:relative md:w-full md:max-w-sm">
+            <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
+          </div>
+          <div className="max-md:absolute max-md:inset-0 max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95 md:relative md:w-full md:max-w-sm">
+            <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
+          </div>
         </div>
       </div>
     </div>
@@ -152,10 +165,15 @@ function GameSkeleton() {
 
 export function Game() {
   const [state, dispatch] = useReducer(reducer, initialState)
+  const [frontSide, setFrontSide] = useState<Side>('left')
   const startedRef = useRef(false)
   const focusAfterRestartRef = useRef(false)
   const leftRef = useRef<HTMLDivElement>(null)
   const rightRef = useRef<HTMLDivElement>(null)
+  // Gestures are resolved on pointerup so selection does not depend on where a
+  // moving card ends up after the browser retargets the synthesized click.
+  const swipeStartRef = useRef<{ x: number; y: number; side: Side | null } | null>(null)
+  const suppressClickRef = useRef(false)
 
   useEffect(() => {
     if (startedRef.current) {
@@ -215,6 +233,7 @@ export function Game() {
     const usedIds = new Set(state.usedIds)
     usedIds.add(state.nextRound.right.id)
     const nextRound = pickNextRound(state.nextRound, elements, { usedIds })
+    setFrontSide('left')
     dispatch({ type: 'commit', nextRound, usedIds })
   }, [state.nextRound, state.usedIds])
 
@@ -234,23 +253,29 @@ export function Game() {
       return
     }
 
-    const leftRect = leftElement.getBoundingClientRect()
-    const rightRect = rightElement.getBoundingClientRect()
-    const deltaX = leftRect.left - rightRect.left
-    const deltaY = leftRect.top - rightRect.top
+    const isDesktop = window.matchMedia('(min-width: 768px)').matches
     let cancelled = false
+    let rightAnimation: Animation | null = null
 
-    const rightAnimation = rightElement.animate(
-      [{ transform: 'translate(0, 0)' }, { transform: `translate(${deltaX}px, ${deltaY}px)` }],
-      { duration: SLIDE_MS, easing: 'ease-in-out', fill: 'forwards' },
-    )
+    if (isDesktop) {
+      const leftRect = leftElement.getBoundingClientRect()
+      const rightRect = rightElement.getBoundingClientRect()
+      const deltaX = leftRect.left - rightRect.left
+      const deltaY = leftRect.top - rightRect.top
+
+      rightAnimation = rightElement.animate(
+        [{ transform: 'translate(0, 0)' }, { transform: `translate(${deltaX}px, ${deltaY}px)` }],
+        { duration: SLIDE_MS, easing: 'ease-in-out', fill: 'forwards' },
+      )
+    }
+
     const leftAnimation = leftElement.animate([{ opacity: 1 }, { opacity: 0 }], {
       duration: SLIDE_MS,
       easing: 'ease-in-out',
       fill: 'forwards',
     })
 
-    Promise.all([rightAnimation.finished, leftAnimation.finished])
+    Promise.all([rightAnimation?.finished, leftAnimation.finished])
       .then(() => {
         if (!cancelled) {
           commitSlide()
@@ -262,13 +287,14 @@ export function Game() {
 
     return () => {
       cancelled = true
-      rightAnimation.cancel()
+      rightAnimation?.cancel()
       leftAnimation.cancel()
     }
   }, [commitSlide, state.phase])
 
   const restart = useCallback(() => {
     focusAfterRestartRef.current = true
+    setFrontSide('left')
     const { round, nextRound, usedIds } = makeInitialGame()
     dispatch({ type: 'start', round, nextRound, usedIds, bestStreak: state.bestStreak })
   }, [state.bestStreak])
@@ -281,9 +307,75 @@ export function Game() {
     leftRef.current?.querySelector<HTMLButtonElement>('button')?.focus()
   }, [state.phase])
 
-  const handleSelect = useCallback((side: Side) => {
+  // Chrome can drop the first tap when a deck card is still moving through its
+  // swap transition. Select on pointerup from the side captured on pointerdown
+  // instead of relying on the click target.
+  const selectCard = useCallback((side: Side) => {
     unlockAudio()
+    setFrontSide('right')
     dispatch({ type: 'guess', side })
+  }, [])
+
+  const handleSelect = useCallback(
+    (side: Side) => {
+      if (suppressClickRef.current) {
+        suppressClickRef.current = false
+        return
+      }
+      selectCard(side)
+    },
+    [selectCard],
+  )
+
+  const handleDeckPointerDown = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
+    suppressClickRef.current = false
+    if (event.pointerType === 'mouse') {
+      return
+    }
+    // The card may move before pointerup, so remember which side was touched.
+    const target = event.target instanceof Element ? event.target.closest('[data-side]') : null
+    const side = target?.getAttribute('data-side')
+    swipeStartRef.current = {
+      x: event.clientX,
+      y: event.clientY,
+      side: side === 'left' || side === 'right' ? side : null,
+    }
+  }, [])
+
+  const handleDeckPointerUp = useCallback(
+    (event: ReactPointerEvent<HTMLDivElement>) => {
+      const start = swipeStartRef.current
+      swipeStartRef.current = null
+      if (!start || state.phase !== 'answering') {
+        return
+      }
+      const deltaX = event.clientX - start.x
+      const deltaY = event.clientY - start.y
+      if (Math.abs(deltaX) >= 48 && Math.abs(deltaX) > Math.abs(deltaY)) {
+        suppressClickRef.current = true
+        setFrontSide((side) => (side === 'left' ? 'right' : 'left'))
+        return
+      }
+      // Short taps select directly; suppress the browser's follow-up click so
+      // the guess is not handled twice.
+      if (start.side && Math.abs(deltaX) < 12 && Math.abs(deltaY) < 12) {
+        suppressClickRef.current = true
+        selectCard(start.side)
+      }
+    },
+    [selectCard, state.phase],
+  )
+
+  const handleDeckPointerCancel = useCallback(() => {
+    swipeStartRef.current = null
+  }, [])
+
+  const handlePeek = useCallback(() => {
+    if (suppressClickRef.current) {
+      suppressClickRef.current = false
+      return
+    }
+    setFrontSide((side) => (side === 'left' ? 'right' : 'left'))
   }, [])
 
   if (!state.round) {
@@ -326,10 +418,18 @@ export function Game() {
       </div>
 
       <div className="relative mt-6">
-        <div className={state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}>
-          <div className="flex flex-col items-center gap-8 md:flex-row md:items-start md:justify-center lg:gap-16">
+        <div
+          className={`max-md:pr-5 ${state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}`}
+        >
+          <div
+            className="relative mx-auto w-full max-w-xs max-md:touch-pan-y sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16"
+            onPointerCancel={handleDeckPointerCancel}
+            onPointerDown={handleDeckPointerDown}
+            onPointerUp={handleDeckPointerUp}
+          >
+            <div aria-hidden="true" className="card-ratio w-full md:hidden" />
             <div
-              className="relative w-full max-w-sm"
+              className={deckClasses('left', frontSide)}
               data-side="left"
               key={`left-${left.id}`}
               ref={leftRef}
@@ -344,7 +444,7 @@ export function Game() {
               />
             </div>
             <div
-              className="card-enter relative w-full max-w-sm"
+              className={`card-enter ${deckClasses('right', frontSide)}`}
               data-side="right"
               key={`right-${right.id}`}
               ref={rightRef}
@@ -358,6 +458,14 @@ export function Game() {
                 state={cardState('right', state)}
               />
             </div>
+            {state.phase === 'answering' ? (
+              <button
+                aria-label={`Show ${(frontSide === 'left' ? right : left).title}`}
+                className="absolute top-0 -right-8 -bottom-4 left-0 z-10 rounded-2xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent md:hidden"
+                onClick={handlePeek}
+                type="button"
+              />
+            ) : null}
           </div>
         </div>
         {state.phase === 'gameover' ? (
