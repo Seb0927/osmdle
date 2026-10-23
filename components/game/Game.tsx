@@ -28,6 +28,7 @@ interface State {
   chosenSide: Side | null
   result: Result | null
   bestStreak: number
+  bestAtStart: number
 }
 
 type Action =
@@ -47,6 +48,7 @@ const initialState: State = {
   chosenSide: null,
   result: null,
   bestStreak: 0,
+  bestAtStart: 0,
 }
 
 function reducer(state: State, action: Action): State {
@@ -61,6 +63,7 @@ function reducer(state: State, action: Action): State {
         chosenSide: null,
         result: null,
         bestStreak: action.bestStreak,
+        bestAtStart: action.bestStreak,
       }
     case 'guess': {
       if (state.phase !== 'answering' || !state.round) {
@@ -388,18 +391,23 @@ export function Game() {
   const revealed = state.phase !== 'answering' && state.phase !== 'boot'
   const disabled = state.phase !== 'answering'
   const winner = left.count > right.count ? left : right
+  const recordRun = state.streak > state.bestAtStart
+  const newBest =
+    state.phase === 'holding' && state.result === 'correct' && state.streak === state.bestAtStart
   const announcement =
     (state.phase === 'holding' || state.phase === 'gameover') && state.result
-      ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.`
+      ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.${newBest ? ' New best streak!' : ''}`
       : ''
 
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 pt-7 pb-8 sm:px-6">
       <div className="flex justify-center">
-        <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-muted text-xs tracking-wide shadow-sm">
-          <span data-testid="streak">Streak {state.streak}</span>
-          <span aria-hidden="true">·</span>
-          <span data-testid="best-streak">Best {state.bestStreak}</span>
+        <div className={recordRun ? 'streak-aura streak-aura-gold' : 'streak-aura'}>
+          <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-muted text-xs tracking-wide shadow-sm">
+            <span data-testid="streak">Streak {state.streak}</span>
+            <span aria-hidden="true">·</span>
+            <span data-testid="best-streak">Best {state.bestStreak}</span>
+          </div>
         </div>
       </div>
       <h1 className="mt-4 text-center font-heading font-semibold text-2xl tracking-tight sm:text-3xl">

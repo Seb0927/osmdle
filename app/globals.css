@@ -6,7 +6,7 @@
   --foreground: #18181b;
   --surface: #ffffff;
   --subtle: #f4f4f5;
-  --muted: #5a5a63;
+  --muted: #4d4d55;
   --border: #e4e4e7;
   --accent: #059669;
   --accent-foreground: #ffffff;
@@ -290,6 +290,85 @@ body {
 
 @media (prefers-reduced-motion: reduce) {
   .card-ribbon {
+    animation: none;
+  }
+}
+
+@property --aura-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+.streak-aura {
+  position: relative;
+  display: inline-block;
+  isolation: isolate;
+  padding: 2px;
+  border-radius: 9999px;
+}
+
+.streak-aura-gold::before {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  border-radius: inherit;
+  background-image: repeating-conic-gradient(
+    from var(--aura-angle),
+    oklch(65.98% 0.1863 72.37),
+    oklch(96.35% 0.0768 102.94),
+    oklch(71.57% 0.1691 82.23),
+    oklch(96.02% 0.0792 103.13),
+    oklch(60.66% 0.1181 76.17),
+    oklch(65.98% 0.1863 72.37) 50%
+  );
+  box-shadow:
+    0 0 6px 1px rgb(230 180 60 / 0.45),
+    0 0 18px 4px rgb(230 180 60 / 0.22);
+  content: "";
+  animation:
+    aura-in 1200ms ease-out both,
+    aura-rotate 6s linear infinite;
+}
+
+.streak-aura-gold > * {
+  position: relative;
+  z-index: 1;
+}
+
+@keyframes aura-in {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+
+  60% {
+    opacity: 1;
+    transform: scale(1.04);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1) translateZ(0);
+  }
+}
+
+@keyframes aura-rotate {
+  to {
+    --aura-angle: 360deg;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .streak-aura-gold::before {
+    box-shadow:
+      0 0 6px 1px rgb(235 187 70 / 0.55),
+      0 0 20px 5px rgb(235 187 70 / 0.32);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .streak-aura-gold::before {
     animation: none;
   }
 }
