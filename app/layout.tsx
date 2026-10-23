@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import { Fredoka, Geist, Geist_Mono } from 'next/font/google'
-import { SiteFooter } from '@/components/layout/SiteFooter'
 import { SiteHeader } from '@/components/layout/SiteHeader'
 import './globals.css'
 
@@ -39,7 +38,6 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
           <SiteHeader />
           <main className="flex flex-1 flex-col">{children}</main>
         </div>
-        <SiteFooter />
       </body>
     </html>
   )
