@@ -12,6 +12,18 @@
   --accent-foreground: #ffffff;
   --success: #16a34a;
   --danger: #dc2626;
+  --family-nature: #6f9c5a;
+  --family-water: #4d80b3;
+  --family-civic: #734a08;
+  --family-food: #c77400;
+  --family-health: #bf0000;
+  --family-transport: #0092da;
+  --family-roads: #545454;
+  --family-landuse: #759e6c;
+  --family-sports: #4e7f52;
+  --family-tourism: #734a08;
+  --family-buildings: #666666;
+  --family-street: #666666;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +39,18 @@
     --accent-foreground: #052e16;
     --success: #4ade80;
     --danger: #f87171;
+    --family-nature: #9fd18a;
+    --family-water: #82badf;
+    --family-civic: #d7a96a;
+    --family-food: #f0a94a;
+    --family-health: #f07f7f;
+    --family-transport: #55bdec;
+    --family-roads: #b9b9b9;
+    --family-landuse: #b7cc8a;
+    --family-sports: #82d7ae;
+    --family-tourism: #d7a96a;
+    --family-buildings: #bdbdbd;
+    --family-street: #bdbdbd;
   }
 }
 
@@ -53,6 +77,90 @@ body {
 
 .font-heading {
   font-family: var(--font-fredoka);
+}
+
+.family-badge {
+  border-color: color-mix(in srgb, var(--family-color) 40%, var(--border));
+  background-color: color-mix(in srgb, var(--family-color) 14%, var(--surface));
+  color: color-mix(in srgb, var(--family-color) 50%, #000);
+}
+
+@media (prefers-color-scheme: dark) {
+  .family-badge {
+    color: color-mix(in srgb, var(--family-color) 50%, #fff);
+  }
+}
+
+.family-badge-icon {
+  background-color: var(--family-color);
+  -webkit-mask-image: var(--family-icon);
+  mask-image: var(--family-icon);
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+[data-family="nature"] {
+  --family-color: var(--family-nature);
+  --family-icon: url("/images/family/nature.svg");
+}
+
+[data-family="water"] {
+  --family-color: var(--family-water);
+  --family-icon: url("/images/family/water.svg");
+}
+
+[data-family="civic"] {
+  --family-color: var(--family-civic);
+  --family-icon: url("/images/family/civic.svg");
+}
+
+[data-family="food"] {
+  --family-color: var(--family-food);
+  --family-icon: url("/images/family/food.svg");
+}
+
+[data-family="health"] {
+  --family-color: var(--family-health);
+  --family-icon: url("/images/family/health.svg");
+}
+
+[data-family="transport"] {
+  --family-color: var(--family-transport);
+  --family-icon: url("/images/family/transport.svg");
+}
+
+[data-family="roads"] {
+  --family-color: var(--family-roads);
+  --family-icon: url("/images/family/roads.svg");
+}
+
+[data-family="landuse"] {
+  --family-color: var(--family-landuse);
+  --family-icon: url("/images/family/landuse.svg");
+}
+
+[data-family="sports"] {
+  --family-color: var(--family-sports);
+  --family-icon: url("/images/family/sports.svg");
+}
+
+[data-family="tourism"] {
+  --family-color: var(--family-tourism);
+  --family-icon: url("/images/family/tourism.svg");
+}
+
+[data-family="buildings"] {
+  --family-color: var(--family-buildings);
+  --family-icon: url("/images/family/buildings.svg");
+}
+
+[data-family="street"] {
+  --family-color: var(--family-street);
+  --family-icon: url("/images/family/street.svg");
 }
 
 .site-background {

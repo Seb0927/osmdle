@@ -44,6 +44,18 @@ export default function AttributionsPage() {
             basemap. Map data is © OpenStreetMap contributors.
           </p>
           <p>
+            Family badge icons are from{' '}
+            <a
+              className="text-accent hover:underline"
+              href="https://github.com/openstreetmap-carto/openstreetmap-carto"
+              rel="noreferrer"
+              target="_blank"
+            >
+              openstreetmap-carto
+            </a>
+            , released under CC0 1.0.
+          </p>
+          <p>
             Counts are provided by{' '}
             <a
               className="text-accent hover:underline"

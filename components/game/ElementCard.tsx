@@ -87,7 +87,11 @@ export function ElementCard({
         <div className="mt-1 font-medium text-muted text-xs uppercase tracking-widest">
           Elements
         </div>
-        <span className="mt-4 rounded-full border border-border bg-subtle px-2 py-0.5 font-medium text-muted text-xs uppercase tracking-widest">
+        <span
+          className="family-badge mt-4 inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 font-semibold text-xs uppercase tracking-widest"
+          data-family={element.family}
+        >
+          <span aria-hidden="true" className="family-badge-icon size-3 shrink-0" />
           {element.family}
         </span>
       </div>
