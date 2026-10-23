@@ -403,6 +403,9 @@ export function Game() {
       <h1 className="mt-4 text-center font-heading font-semibold text-2xl tracking-tight sm:text-3xl">
         Which has more elements?
       </h1>
+      <p className="mt-2 text-center text-muted text-xs sm:text-sm">
+        Pick the feature with more elements mapped in OpenStreetMap.
+      </p>
       <p aria-atomic="true" aria-live="polite" className="sr-only">
         {announcement}
       </p>

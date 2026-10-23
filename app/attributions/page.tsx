@@ -83,7 +83,7 @@ export default function AttributionsPage() {
                 )}
                 <span>
                   {' '}
-                  — {image.author ?? 'Unknown author'} · {image.license ?? 'See source page'}
+                  Credit: {image.author ?? 'Unknown author'} · {image.license ?? 'See source page'}
                 </span>
               </li>
             ))}
