@@ -145,11 +145,13 @@ function deckClasses(side: Side, frontSide: Side) {
 
 function GameSkeleton() {
   return (
-    <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 py-8 sm:px-6">
-      <div className="mx-auto h-3 w-32 animate-pulse rounded bg-subtle" />
+    <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 pt-7 pb-8 sm:px-6">
+      <div className="flex justify-center">
+        <div className="h-6 w-40 animate-pulse rounded-full border border-border bg-surface shadow-sm" />
+      </div>
       <div className="mx-auto mt-4 h-8 w-72 animate-pulse rounded bg-subtle" />
       <div className="max-md:pr-5">
-        <div className="mx-auto mt-8 w-full max-w-xs sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16">
+        <div className="mx-auto mt-4 w-full max-w-xs sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16">
           <div aria-hidden="true" className="card-ratio w-full md:hidden" />
           <div className="max-md:absolute max-md:inset-0 max-md:z-20 max-md:-rotate-1 md:relative md:w-full md:max-w-sm">
             <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
@@ -394,11 +396,13 @@ export function Game() {
       : ''
 
   return (
-    <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 py-8 sm:px-6">
-      <div className="flex items-center justify-center gap-3 text-muted text-xs tracking-wide">
-        <span data-testid="streak">Streak {state.streak}</span>
-        <span aria-hidden="true">·</span>
-        <span data-testid="best-streak">Best {state.bestStreak}</span>
+    <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 pt-7 pb-8 sm:px-6">
+      <div className="flex justify-center">
+        <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-muted text-xs tracking-wide shadow-sm">
+          <span data-testid="streak">Streak {state.streak}</span>
+          <span aria-hidden="true">·</span>
+          <span data-testid="best-streak">Best {state.bestStreak}</span>
+        </div>
       </div>
       <h1 className="mt-4 text-center font-heading font-semibold text-2xl tracking-tight sm:text-3xl">
         Which has more elements?
@@ -420,7 +424,7 @@ export function Game() {
         ) : null}
       </div>
 
-      <div className="relative mt-6">
+      <div className="relative mt-4">
         <div
           className={`max-md:pr-5 ${state.phase === 'gameover' ? 'pointer-events-none opacity-40' : ''}`}
         >
