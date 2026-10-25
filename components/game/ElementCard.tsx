@@ -49,7 +49,7 @@ export function ElementCard({
     // for double-tap zoom.
     <button
       aria-label={ariaLabel}
-      className="card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border border-border bg-surface px-4 py-7 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:py-8"
+      className="card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border border-border bg-surface px-4 pt-7 pb-10 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:pt-8 sm:pb-12"
       data-family={element.family}
       disabled={disabled}
       onClick={onSelect}
@@ -100,6 +100,12 @@ export function ElementCard({
           {element.family}
         </span>
       </div>
+      <span
+        aria-hidden="true"
+        className="pointer-events-none absolute right-4 bottom-3 max-w-48 truncate text-right font-heading font-medium text-muted text-xs tracking-wide opacity-80 sm:right-4 sm:bottom-3 md:hidden"
+      >
+        {element.title}
+      </span>
     </button>
   )
 }

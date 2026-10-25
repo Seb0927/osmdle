@@ -144,8 +144,8 @@ function deckClasses(side: Side, frontSide: Side, open: boolean) {
         ? 'max-md:z-20 max-md:-translate-x-2 max-md:-translate-y-6 max-md:-rotate-3 max-md:scale-90'
         : 'max-md:z-20 max-md:-rotate-1'
       : open
-        ? 'max-md:z-0 max-md:translate-x-5 max-md:translate-y-24 max-md:rotate-3 max-md:scale-90'
-        : 'max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95'
+        ? 'max-md:z-0 max-md:translate-x-5 max-md:translate-y-28 max-md:rotate-3 max-md:scale-90'
+        : 'max-md:z-0 max-md:translate-x-8 max-md:translate-y-10 max-md:rotate-2 max-md:scale-95'
 
   return `max-md:absolute max-md:inset-0 motion-safe:max-md:transition-transform motion-safe:max-md:duration-200 md:relative md:w-full md:max-w-sm ${position}`
 }
