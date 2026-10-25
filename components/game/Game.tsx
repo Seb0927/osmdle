@@ -137,11 +137,15 @@ function cardState(side: Side, state: State): CardState {
   return state.result === 'wrong' ? 'correct' : 'idle'
 }
 
-function deckClasses(side: Side, frontSide: Side) {
+function deckClasses(side: Side, frontSide: Side, open: boolean) {
   const position =
     side === frontSide
-      ? 'max-md:z-20 max-md:-rotate-1'
-      : 'max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95'
+      ? open
+        ? 'max-md:z-20 max-md:-translate-x-2 max-md:-translate-y-6 max-md:-rotate-3 max-md:scale-90'
+        : 'max-md:z-20 max-md:-rotate-1'
+      : open
+        ? 'max-md:z-0 max-md:translate-x-5 max-md:translate-y-24 max-md:rotate-3 max-md:scale-90'
+        : 'max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95'
 
   return `max-md:absolute max-md:inset-0 motion-safe:max-md:transition-transform motion-safe:max-md:duration-200 md:relative md:w-full md:max-w-sm ${position}`
 }
@@ -320,10 +324,11 @@ export function Game() {
 
   // Chrome can drop the first tap when a deck card is still moving through its
   // swap transition. Select on pointerup from the side captured on pointerdown
-  // instead of relying on the click target.
+  // instead of relying on the click target. Keep the selected card on top while
+  // the deck opens for the reveal.
   const selectCard = useCallback((side: Side) => {
     unlockAudio()
-    setFrontSide('right')
+    setFrontSide(side)
     dispatch({ type: 'guess', side })
   }, [])
 
@@ -396,6 +401,11 @@ export function Game() {
   const { left, right } = state.round
   const revealed = state.phase !== 'answering' && state.phase !== 'boot'
   const disabled = state.phase !== 'answering'
+  // Open the mobile deck during reveal so both counters and verdict ribbons are
+  // visible. Close it as the slide starts, bringing the staying card back to its
+  // original front position while the leaving card fades.
+  const deckOpen = revealed && state.phase !== 'sliding'
+  const deckFrontSide = state.phase === 'sliding' ? 'right' : frontSide
   const winner = left.count > right.count ? left : right
   const recordRun = state.streak > state.bestAtStart
   const newBest =
@@ -438,7 +448,7 @@ export function Game() {
           >
             <div aria-hidden="true" className="card-ratio w-full md:hidden" />
             <div
-              className={deckClasses('left', frontSide)}
+              className={deckClasses('left', deckFrontSide, deckOpen)}
               data-side="left"
               key={`left-${left.id}`}
               ref={leftRef}
@@ -453,7 +463,7 @@ export function Game() {
               />
             </div>
             <div
-              className={`card-enter ${deckClasses('right', frontSide)}`}
+              className={`card-enter ${deckClasses('right', deckFrontSide, deckOpen)}`}
               data-side="right"
               key={`right-${right.id}`}
               ref={rightRef}
