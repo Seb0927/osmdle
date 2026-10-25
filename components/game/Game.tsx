@@ -408,7 +408,7 @@ export function Game() {
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 pt-7 pb-8 sm:px-6">
       <div className="flex justify-center">
-        <div className={recordRun ? 'streak-aura streak-aura-gold' : 'streak-aura'}>
+        <div className={recordRun ? 'streak-aura streak-aura-fire' : 'streak-aura'}>
           <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-muted text-xs tracking-wide shadow-sm">
             <span data-testid="streak">Streak {state.streak}</span>
             <span aria-hidden="true">·</span>
