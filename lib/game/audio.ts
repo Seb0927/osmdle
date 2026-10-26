@@ -1,12 +1,30 @@
-export type SoundName = 'correct' | 'wrong' | 'slide' | 'gameover' | 'tick' | 'hover' | 'best'
+export type SoundName =
+  | 'correct'
+  | 'wrong'
+  | 'slide'
+  | 'gameover'
+  | 'new-best'
+  | 'tick'
+  | 'hover'
+  | 'best'
 
-const SOUND_NAMES: SoundName[] = ['correct', 'wrong', 'slide', 'gameover', 'tick', 'hover', 'best']
+const SOUND_NAMES: SoundName[] = [
+  'correct',
+  'wrong',
+  'slide',
+  'gameover',
+  'new-best',
+  'tick',
+  'hover',
+  'best',
+]
 
 const SOUND_PATHS: Record<SoundName, string> = {
   correct: '/sounds/correct.wav',
   wrong: '/sounds/wrong.wav',
   slide: '/sounds/slide.wav',
   gameover: '/sounds/gameover.wav',
+  'new-best': '/sounds/new-best.wav',
   tick: '/sounds/tick.wav',
   hover: '/sounds/hover.wav',
   best: '/sounds/best.wav',
@@ -17,6 +35,7 @@ const SOUND_VOLUMES: Record<SoundName, number> = {
   wrong: 1.7,
   slide: 0.9,
   gameover: 0.5,
+  'new-best': 0.5,
   tick: 0.95,
   hover: 0.25,
   best: 0.65,

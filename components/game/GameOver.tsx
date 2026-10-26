@@ -5,10 +5,18 @@ import { useEffect, useRef, useState } from 'react'
 interface GameOverProps {
   streak: number
   bestStreak: number
+  previousBest: number
+  newRecord: boolean
   onRestart: () => void
 }
 
-export function GameOver({ streak, bestStreak, onRestart }: GameOverProps) {
+export function GameOver({
+  streak,
+  bestStreak,
+  previousBest,
+  newRecord,
+  onRestart,
+}: GameOverProps) {
   const [copied, setCopied] = useState(false)
   const playAgainRef = useRef<HTMLButtonElement>(null)
   const timeoutRef = useRef<number | null>(null)
@@ -65,10 +73,16 @@ export function GameOver({ streak, bestStreak, onRestart }: GameOverProps) {
     >
       <div className="w-full max-w-sm rounded-xl border border-border bg-surface p-6 text-center shadow-xl">
         <h2 className="font-heading font-semibold text-2xl tracking-tight" id="game-over-title">
-          Game over
+          {newRecord ? 'Best streak!' : 'Game over'}
         </h2>
         <p className="mt-4 font-semibold text-3xl tracking-tight">Streak {streak}</p>
-        <p className="mt-1 text-muted text-sm">Best streak {bestStreak}</p>
+        {newRecord ? (
+          previousBest > 0 ? (
+            <p className="mt-1 text-muted text-sm">Previous best {previousBest}</p>
+          ) : null
+        ) : (
+          <p className="mt-1 text-muted text-sm">Best streak {bestStreak}</p>
+        )}
         <div className="mt-6 flex flex-col gap-2">
           <button
             className="rounded-md bg-accent px-4 py-2 font-medium text-accent-foreground text-sm hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"

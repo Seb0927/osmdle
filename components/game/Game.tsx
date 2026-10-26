@@ -183,6 +183,7 @@ export function Game() {
   // moving card ends up after the browser retargets the synthesized click.
   const swipeStartRef = useRef<{ x: number; y: number; side: Side | null } | null>(null)
   const suppressClickRef = useRef(false)
+  const newRecord = state.phase === 'gameover' && state.streak > state.bestAtStart
 
   useEffect(() => {
     if (startedRef.current) {
@@ -214,9 +215,9 @@ export function Game() {
 
   useEffect(() => {
     if (state.phase === 'gameover') {
-      playSound('gameover')
+      playSound(newRecord ? 'new-best' : 'gameover')
     }
-  }, [state.phase])
+  }, [newRecord, state.phase])
 
   useEffect(() => {
     if (state.streak === state.bestAtStart + 1) {
@@ -410,9 +411,10 @@ export function Game() {
   const recordRun = state.streak > state.bestAtStart
   const newBest =
     state.phase === 'holding' && state.result === 'correct' && state.streak === state.bestAtStart
+  const recordNotice = newBest || newRecord ? ' New best streak!' : ''
   const announcement =
     (state.phase === 'holding' || state.phase === 'gameover') && state.result
-      ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.${newBest ? ' New best streak!' : ''}`
+      ? `${state.result === 'correct' ? 'Correct' : 'Wrong'}. ${winner.title} has ${formatCount(winner.count)} elements.${recordNotice}`
       : ''
 
   return (
@@ -488,7 +490,13 @@ export function Game() {
           </div>
         </div>
         {state.phase === 'gameover' ? (
-          <GameOver bestStreak={state.bestStreak} onRestart={restart} streak={state.streak} />
+          <GameOver
+            bestStreak={state.bestStreak}
+            newRecord={newRecord}
+            onRestart={restart}
+            previousBest={state.bestAtStart}
+            streak={state.streak}
+          />
         ) : null}
       </div>
     </div>
