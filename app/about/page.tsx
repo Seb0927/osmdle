@@ -32,7 +32,10 @@ export default function AboutPage() {
             real-world totals. Under-mapped regions and features mapped more than once can skew the
             numbers.
           </p>
-          <p>Guess correctly to build your streak, and try to beat your best.</p>
+          <p>
+            Guess correctly to build your streak, and try to beat your best{' '}
+            <span aria-hidden="true">(ﾉ◕ヮ◕)ﾉ</span>.
+          </p>
         </div>
         <Link className="mt-8 inline-flex font-medium text-accent text-sm hover:underline" href="/">
           Back to the game
