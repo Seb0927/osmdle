@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { ContentCard } from '@/components/layout/ContentCard'
+import { Disclosure } from '@/components/layout/Disclosure'
 import data from '@/data/elements.json'
 import { formatSnapshot } from '@/lib/game/format.ts'
 import { absoluteUrl } from '@/lib/site'
@@ -100,10 +101,7 @@ export default function AttributionsPage() {
           </p>
         </div>
 
-        <details className="mt-8 rounded-lg border border-border p-4">
-          <summary className="cursor-pointer font-medium text-sm">
-            Image credits ({creditedImages.length})
-          </summary>
+        <Disclosure className="mt-8" summary={`Image credits (${creditedImages.length})`}>
           <ul className="mt-4 space-y-3">
             {creditedImages.map(({ id, title, image }) => (
               <li className="text-muted text-xs leading-5" key={id}>
@@ -126,12 +124,9 @@ export default function AttributionsPage() {
               </li>
             ))}
           </ul>
-        </details>
+        </Disclosure>
 
-        <details className="mt-4 rounded-lg border border-border p-4">
-          <summary className="cursor-pointer font-medium text-sm">
-            Sound credits ({creditedSounds.length})
-          </summary>
+        <Disclosure className="mt-4" summary={`Sound credits (${creditedSounds.length})`}>
           <p className="mt-4 text-muted text-xs leading-5">
             Sound effects are from{' '}
             <a
@@ -159,7 +154,7 @@ export default function AttributionsPage() {
               </li>
             ))}
           </ul>
-        </details>
+        </Disclosure>
       </ContentCard>
     </div>
   )
