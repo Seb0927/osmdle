@@ -5,7 +5,9 @@ two features from around the world, and you pick the one you think is mapped
 more often worldwide. Guess correctly to build your streak, and try to beat your
 best.
 
-<img src="docs/assets/demo.gif" width="800" alt="Animated demo: a player picks between two OpenStreetMap features, builds a streak, and reaches the game-over screen">
+<p align="center">
+  <img src="docs/assets/demo.gif" width="600" alt="Animated demo: a player picks between two OpenStreetMap features, builds a streak, and reaches the game-over screen">
+</p>
 
 ## Requirements
 
