@@ -70,6 +70,6 @@ See [SECURITY.md](./SECURITY.md) to report a vulnerability.
 
 ## Development with coding agents
 
-`opencode.json` wires the Next.js devtools MCP server, which connects to the
-running dev server to expose live errors, logs, routes, and compile
-diagnostics. Start `npm run dev` first, then restart your agent.
+Agent guidance lives in [`AGENTS.md`](./AGENTS.md). Ask agents to verify their
+changes with the same checks CI runs: `npm run lint`, `npm run typecheck`,
+`npm test`, `npm run data:validate`, and `npm run build`.
