@@ -17,10 +17,20 @@ export default function AboutPage() {
         <h1 className="font-heading font-semibold text-3xl tracking-tight">About Osmdle</h1>
         <div className="mt-6 space-y-4 text-muted text-sm leading-6">
           <p>
-            Osmdle is a higher/lower game where each round shows you two features from around the
-            world, and you pick the one you think is mapped more often worldwide. The game is built
-            on OpenStreetMap (OSM) data, and because that data is edited constantly, counts change
-            over time.
+            Osmdle is a higher/lower{' '}
+            <a
+              aria-label="View the Osmdle source code on GitHub"
+              className="text-accent hover:underline"
+              href="https://github.com/Seb0927/osmdle"
+              rel="noreferrer"
+              target="_blank"
+            >
+              open-source
+            </a>{' '}
+            game under the AGPL-3.0. Each round shows you two features from around the world, and
+            you pick the one you think is mapped more often worldwide. The game is built on
+            OpenStreetMap (OSM) data, and because that data is edited constantly, counts change over
+            time.
           </p>
           <p>
             Osmdle uses a periodic Taginfo snapshot that captures the current count of{' '}
