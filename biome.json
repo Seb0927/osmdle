@@ -70,6 +70,18 @@
       }
     }
   },
+  "overrides": [
+    {
+      "includes": ["app/manifest.ts"],
+      "linter": {
+        "rules": {
+          "style": {
+            "useNamingConvention": "off"
+          }
+        }
+      }
+    }
+  ],
   "assist": {
     "actions": {
       "source": {
