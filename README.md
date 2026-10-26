@@ -1,4 +1,4 @@
-# osmdle
+# Osmdle
 
 Osmdle is a higher/lower game built on OpenStreetMap data. Each round shows you
 two features from around the world, and you pick the one you think is mapped
