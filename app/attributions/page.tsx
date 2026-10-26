@@ -6,13 +6,36 @@ import { absoluteUrl } from '@/lib/site'
 
 export const metadata: Metadata = {
   title: 'Attributions',
-  description: 'Data sources, map imagery, and image credits for Osmdle.',
+  description: 'Data sources, map imagery, and image and sound credits for Osmdle.',
   alternates: { canonical: absoluteUrl('/attributions/') },
 }
 
 const creditedImages = data.elements.flatMap((element) =>
   element.image ? [{ id: element.id, title: element.title, image: element.image }] : [],
 )
+
+const creditedSounds = [
+  {
+    author: 'LittleRainySeasons',
+    title: 'Correct',
+    url: 'https://freesound.org/people/LittleRainySeasons/sounds/335908/',
+  },
+  {
+    author: 'LaurenPonder',
+    title: 'Correct and Incorrect Chime',
+    url: 'https://freesound.org/people/LaurenPonder/sounds/639432/',
+  },
+  {
+    author: 'NenadSimic',
+    title: 'Menu Selection Click',
+    url: 'https://freesound.org/people/NenadSimic/sounds/171697/',
+  },
+  {
+    author: 'Werra',
+    title: 'Vintage Camera Flash Powder and Shutter',
+    url: 'https://freesound.org/people/Werra/sounds/232130/',
+  },
+]
 
 export default function AttributionsPage() {
   return (
@@ -100,6 +123,39 @@ export default function AttributionsPage() {
                   {' '}
                   Credit: {image.author ?? 'Unknown author'} · {image.license ?? 'See source page'}
                 </span>
+              </li>
+            ))}
+          </ul>
+        </details>
+
+        <details className="mt-4 rounded-lg border border-border p-4">
+          <summary className="cursor-pointer font-medium text-sm">
+            Sound credits ({creditedSounds.length})
+          </summary>
+          <p className="mt-4 text-muted text-xs leading-5">
+            Sound effects are from{' '}
+            <a
+              className="text-accent hover:underline"
+              href="https://freesound.org"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Freesound
+            </a>
+            .
+          </p>
+          <ul className="mt-3 space-y-3">
+            {creditedSounds.map(({ author, title, url }) => (
+              <li className="text-muted text-xs leading-5" key={url}>
+                <a
+                  className="font-medium text-foreground hover:underline"
+                  href={url}
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  {title}
+                </a>
+                <span> by {author}</span>
               </li>
             ))}
           </ul>
