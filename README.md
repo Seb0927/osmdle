@@ -6,7 +6,7 @@ more often worldwide. Guess correctly to build your streak, and try to beat your
 best.
 
 <p align="center">
-  <img src="docs/assets/demo.gif" width="600" alt="Animated demo: a player picks between two OpenStreetMap features, builds a streak, and reaches the game-over screen">
+  <img src="docs/assets/demo.gif" width="650" alt="Animated demo: a player picks between two OpenStreetMap features, builds a streak, and reaches the game-over screen">
 </p>
 
 ## Requirements
