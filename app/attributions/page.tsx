@@ -2,9 +2,12 @@ import type { Metadata } from 'next'
 import { ContentCard } from '@/components/layout/ContentCard'
 import data from '@/data/elements.json'
 import { formatSnapshot } from '@/lib/game/format.ts'
+import { absoluteUrl } from '@/lib/site'
 
 export const metadata: Metadata = {
   title: 'Attributions',
+  description: 'Data sources, map imagery, and image credits for Osmdle.',
+  alternates: { canonical: absoluteUrl('/attributions/') },
 }
 
 const creditedImages = data.elements.flatMap((element) =>

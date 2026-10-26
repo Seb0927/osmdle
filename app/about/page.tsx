@@ -1,9 +1,12 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ContentCard } from '@/components/layout/ContentCard'
+import { absoluteUrl } from '@/lib/site'
 
 export const metadata: Metadata = {
   title: 'About',
+  description: 'How Osmdle works and what the OpenStreetMap element counts actually measure.',
+  alternates: { canonical: absoluteUrl('/about/') },
 }
 
 export default function AboutPage() {

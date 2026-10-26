@@ -1,6 +1,7 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Fredoka, Geist, Geist_Mono } from 'next/font/google'
 import { SiteHeader } from '@/components/layout/SiteHeader'
+import { SITE_DESCRIPTION, SITE_NAME, SITE_TITLE, SITE_URL } from '@/lib/site'
 import './globals.css'
 
 const geistSans = Geist({
@@ -20,11 +21,30 @@ const fredoka = Fredoka({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: 'Osmdle',
-    template: '%s · Osmdle',
+    default: SITE_TITLE,
+    template: `%s · ${SITE_NAME}`,
   },
-  description: 'Which OpenStreetMap feature is more common? A higher/lower game.',
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: 'en_US',
+    url: './',
+  },
+  twitter: {
+    card: 'summary_large_image',
+  },
+}
+
+export const viewport: Viewport = {
+  colorScheme: 'light dark',
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#ffffff' },
+    { media: '(prefers-color-scheme: dark)', color: '#0a0a0a' },
+  ],
 }
 
 export default function RootLayout({ children }: LayoutProps<'/'>) {
