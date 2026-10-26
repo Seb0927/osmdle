@@ -1,7 +1,11 @@
 # osmdle
 
-A higher/lower game where players guess which OpenStreetMap feature is more
-common in the real world.
+Osmdle is a higher/lower game built on OpenStreetMap data. Each round shows you
+two features from around the world, and you pick the one you think is mapped
+more often worldwide. Guess correctly to build your streak, and try to beat your
+best.
+
+![Animated demo: a player picks between two OpenStreetMap features, builds a streak, and reaches the game-over screen](docs/assets/demo.gif)
 
 ## Requirements
 
