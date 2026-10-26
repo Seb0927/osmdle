@@ -34,8 +34,3 @@ Tailwind v4.
 - Do not add dependencies with install-lifecycle scripts without an explicit
   allowlist decision.
 
-## Dev MCP
-
-`opencode.json` wires the Next.js devtools MCP server (`next-devtools-mcp`).
-It connects to the running dev server for live errors, logs, routes, and
-compile diagnostics. Run `npm run dev` before relying on it.
