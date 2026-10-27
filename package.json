@@ -1,6 +1,6 @@
 {
   "name": "osmdle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "type": "module",
   "description": "A higher/lower game where players guess which OpenStreetMap feature is more common.",
