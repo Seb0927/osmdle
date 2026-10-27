@@ -157,8 +157,9 @@ function GameSkeleton() {
         <div className="h-6 w-40 animate-pulse rounded-full border border-border bg-surface shadow-sm" />
       </div>
       <div className="mx-auto mt-4 h-8 w-72 animate-pulse rounded bg-subtle" />
+      <div className="mx-auto mt-2 h-4 w-64 animate-pulse rounded bg-subtle sm:h-5 sm:w-80" />
       <div className="max-md:pr-5">
-        <div className="mx-auto mt-4 w-full max-w-xs sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16">
+        <div className="relative mx-auto mt-8 w-full max-w-xs sm:max-w-sm md:flex md:max-w-none md:flex-row md:items-start md:justify-center md:gap-8 lg:gap-16">
           <div aria-hidden="true" className="card-ratio w-full md:hidden" />
           <div className="max-md:absolute max-md:inset-0 max-md:z-20 max-md:-rotate-1 md:relative md:w-full md:max-w-sm">
             <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
