@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "A higher/lower game where players guess which OpenStreetMap feature is more common.",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Seb0927/osmdle.git"

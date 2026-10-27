@@ -27,7 +27,7 @@ export default function AboutPage() {
             >
               open-source
             </a>{' '}
-            game under the AGPL-3.0. Each round shows you two features from around the world, and
+            game under the MIT license. Each round shows you two features from around the world, and
             you pick the one you think is mapped more often worldwide. The game is built on
             OpenStreetMap (OSM) data, and because that data is edited constantly, counts change over
             time.
