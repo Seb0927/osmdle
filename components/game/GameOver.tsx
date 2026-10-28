@@ -7,7 +7,7 @@ interface GameOverProps {
   bestStreak: number
   previousBest: number
   newRecord: boolean
-  onRestart: () => void
+  onRestart: (fromKeyboard: boolean) => void
 }
 
 export function GameOver({
@@ -93,7 +93,7 @@ export function GameOver({
           </button>
           <button
             className="rounded-md border border-border px-4 py-2 font-medium text-foreground text-sm hover:bg-subtle focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
-            onClick={onRestart}
+            onClick={(event) => onRestart(event.detail === 0)}
             ref={playAgainRef}
             type="button"
           >

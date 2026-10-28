@@ -309,12 +309,15 @@ export function Game() {
     }
   }, [commitSlide, state.phase])
 
-  const restart = useCallback(() => {
-    focusAfterRestartRef.current = true
-    setFrontSide('left')
-    const { round, nextRound, usedIds } = makeInitialGame()
-    dispatch({ type: 'start', round, nextRound, usedIds, bestStreak: state.bestStreak })
-  }, [state.bestStreak])
+  const restart = useCallback(
+    (fromKeyboard: boolean) => {
+      focusAfterRestartRef.current = fromKeyboard
+      setFrontSide('left')
+      const { round, nextRound, usedIds } = makeInitialGame()
+      dispatch({ type: 'start', round, nextRound, usedIds, bestStreak: state.bestStreak })
+    },
+    [state.bestStreak],
+  )
 
   useEffect(() => {
     if (state.phase !== 'answering' || !focusAfterRestartRef.current) {
