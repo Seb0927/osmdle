@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { playSound } from '@/lib/game/audio.ts'
-import { COUNT_UP_MS, COUNT_UP_TICK_MS } from '@/lib/game/config.ts'
+import { COUNT_UP_MS } from '@/lib/game/config.ts'
 import { countAtTime, formatCount } from '@/lib/game/format.ts'
 
 interface CountUpProps {
@@ -20,9 +20,10 @@ export function CountUp({ value, durationMs = COUNT_UP_MS }: CountUpProps) {
       return
     }
 
+    const sound = playSound('count-up')
+
     let frame = 0
-    let lastTick = performance.now()
-    const startedAt = lastTick
+    const startedAt = performance.now()
 
     function tick(now: number) {
       const elapsed = now - startedAt
@@ -31,17 +32,15 @@ export function CountUp({ value, durationMs = COUNT_UP_MS }: CountUpProps) {
         return
       }
 
-      if (now - lastTick >= COUNT_UP_TICK_MS) {
-        playSound('tick')
-        lastTick = now
-      }
-
       setDisplayValue(countAtTime(0, value, elapsed, durationMs))
       frame = requestAnimationFrame(tick)
     }
 
     frame = requestAnimationFrame(tick)
-    return () => cancelAnimationFrame(frame)
+    return () => {
+      cancelAnimationFrame(frame)
+      sound?.stop()
+    }
   }, [durationMs, value])
 
   return <span className="tabular-nums">{formatCount(displayValue)}</span>

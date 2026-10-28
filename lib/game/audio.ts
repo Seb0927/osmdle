@@ -4,7 +4,7 @@ export type SoundName =
   | 'slide'
   | 'gameover'
   | 'new-best'
-  | 'tick'
+  | 'count-up'
   | 'hover'
   | 'best'
 
@@ -14,7 +14,7 @@ const SOUND_NAMES: SoundName[] = [
   'slide',
   'gameover',
   'new-best',
-  'tick',
+  'count-up',
   'hover',
   'best',
 ]
@@ -25,7 +25,7 @@ const SOUND_PATHS: Record<SoundName, string> = {
   slide: '/sounds/slide.wav',
   gameover: '/sounds/gameover.wav',
   'new-best': '/sounds/new-best.wav',
-  tick: '/sounds/tick.wav',
+  'count-up': '/sounds/count-up.wav',
   hover: '/sounds/hover.wav',
   best: '/sounds/best.wav',
 }
@@ -36,7 +36,7 @@ const SOUND_VOLUMES: Record<SoundName, number> = {
   slide: 0.9,
   gameover: 0.5,
   'new-best': 0.5,
-  tick: 0.95,
+  'count-up': 0.95,
   hover: 0.25,
   best: 0.65,
 }
@@ -202,26 +202,46 @@ export function unlockAudio(): void {
   }
 }
 
-export function playSound(name: SoundName): void {
+export interface SoundHandle {
+  stop: () => void
+}
+
+export function playSound(name: SoundName): SoundHandle | null {
   if (isMuted()) {
-    return
+    return null
   }
   const audioContext = getContext()
   if (!audioContext) {
-    return
+    return null
   }
   if (audioContext.state === 'suspended') {
     void audioContext.resume()
   }
+  let source: AudioBufferSourceNode | null = null
+  let stopped = false
   void loadSound(name).then((buffer) => {
-    if (!buffer || isMuted()) {
+    if (!buffer || stopped || isMuted()) {
       return
     }
-    const source = audioContext.createBufferSource()
+    const node = audioContext.createBufferSource()
     const gain = audioContext.createGain()
-    source.buffer = buffer
+    node.buffer = buffer
     gain.gain.value = SOUND_VOLUMES[name]
-    source.connect(gain).connect(audioContext.destination)
-    source.start()
+    node.connect(gain).connect(audioContext.destination)
+    node.start()
+    source = node
   })
+  return {
+    stop: () => {
+      stopped = true
+      if (!source) {
+        return
+      }
+      try {
+        source.stop()
+      } catch {
+        return
+      }
+    },
+  }
 }
