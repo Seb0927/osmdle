@@ -1,4 +1,8 @@
-MIT License
+Osmdle
+
+This repository contains code and data under different licenses.
+
+# Source code: MIT License
 
 Copyright (c) 2026 Sebastian Idrobo
 
@@ -19,3 +23,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Data: Open Database License 1.0
+
+Counts in data/elements.json come from Taginfo and are © OpenStreetMap
+contributors. They are available under the Open Database License 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+# Data: CC BY-SA 2.0
+
+Descriptions in data/elements.json come from OpenStreetMap Wiki tag pages and
+are © OpenStreetMap Wiki contributors. They are available under CC BY-SA 2.0:
+https://creativecommons.org/licenses/by-sa/2.0/
+
+# Images
+
+Image files are not included in this repository. Each image is credited with
+its source, author, and license in the image metadata stored in
+data/elements.json, and keeps the license stated there. The images are hosted
+by Wikimedia Commons and the OpenStreetMap Wiki.
