@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "snapshot": "2026-10",
-  "generatedAt": "2026-10-20T00:53:40.522Z",
+  "snapshot": "2026-11",
+  "generatedAt": "2026-11-01T11:41:33.275Z",
   "source": {
     "name": "Taginfo",
     "url": "https://taginfo.openstreetmap.org",
-    "dataUntil": "2026-10-19T00:59:35Z"
+    "dataUntil": "2026-11-01T00:59:19Z"
   },
   "elements": [
     {
@@ -29,11 +29,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Praca wykonana na zlecenie"
       },
-      "count": 1451104,
+      "count": 1452531,
       "breakdown": {
-        "nodes": 547497,
-        "ways": 874447,
-        "relations": 29160
+        "nodes": 547511,
+        "ways": 875853,
+        "relations": 29167
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=school"
     },
@@ -58,11 +58,11 @@
         "licenseUrl": null,
         "credit": "USAID - Out of the Shadows: Women in Afghan Society"
       },
-      "count": 340391,
+      "count": 340808,
       "breakdown": {
-        "nodes": 158158,
-        "ways": 176140,
-        "relations": 6093
+        "nodes": 158216,
+        "ways": 176498,
+        "relations": 6094
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=kindergarten"
     },
@@ -87,11 +87,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 72075,
+      "count": 72179,
       "breakdown": {
-        "nodes": 29132,
-        "ways": 40561,
-        "relations": 2382
+        "nodes": 29178,
+        "ways": 40618,
+        "relations": 2383
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=college"
     },
@@ -116,11 +116,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "https://www.flickr.com/photos/189410688@N07/50140147893/"
       },
-      "count": 58263,
+      "count": 58322,
       "breakdown": {
-        "nodes": 16329,
-        "ways": 37513,
-        "relations": 4421
+        "nodes": 16361,
+        "ways": 37526,
+        "relations": 4435
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=university"
     },
@@ -145,11 +145,11 @@
         "licenseUrl": null,
         "credit": "http://www.defenselink.mil/pubs/pdfs/App12_Pt10.pdf"
       },
-      "count": 113435,
+      "count": 113567,
       "breakdown": {
-        "nodes": 69415,
-        "ways": 43011,
-        "relations": 1009
+        "nodes": 69492,
+        "ways": 43060,
+        "relations": 1015
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=library"
     },
@@ -174,11 +174,11 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 178486,
+      "count": 178544,
       "breakdown": {
-        "nodes": 76748,
-        "ways": 99775,
-        "relations": 1963
+        "nodes": 76709,
+        "ways": 99867,
+        "relations": 1968
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=townhall"
     },
@@ -203,10 +203,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 32195,
+      "count": 31770,
       "breakdown": {
-        "nodes": 14435,
-        "ways": 16842,
+        "nodes": 13981,
+        "ways": 16871,
         "relations": 918
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=courthouse"
@@ -232,11 +232,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 218117,
+      "count": 218278,
       "breakdown": {
-        "nodes": 174558,
-        "ways": 43327,
-        "relations": 232
+        "nodes": 174662,
+        "ways": 43383,
+        "relations": 233
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=post_office"
     },
@@ -261,9 +261,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 414115,
+      "count": 414799,
       "breakdown": {
-        "nodes": 413986,
+        "nodes": 414670,
         "ways": 129,
         "relations": 0
       },
@@ -290,11 +290,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 163347,
+      "count": 163519,
       "breakdown": {
-        "nodes": 92982,
-        "ways": 68840,
-        "relations": 1525
+        "nodes": 93013,
+        "ways": 68978,
+        "relations": 1528
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=police"
     },
@@ -319,11 +319,11 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 148719,
+      "count": 148876,
       "breakdown": {
-        "nodes": 60068,
-        "ways": 87931,
-        "relations": 720
+        "nodes": 60051,
+        "ways": 88101,
+        "relations": 724
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fire_station"
     },
@@ -348,11 +348,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 222754,
+      "count": 223481,
       "breakdown": {
-        "nodes": 86338,
-        "ways": 134747,
-        "relations": 1669
+        "nodes": 86622,
+        "ways": 135182,
+        "relations": 1677
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=community_centre"
     },
@@ -373,11 +373,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APlace_of_worship.png",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 1628320,
+      "count": 1630965,
       "breakdown": {
-        "nodes": 601229,
-        "ways": 1017122,
-        "relations": 9969
+        "nodes": 601647,
+        "ways": 1019325,
+        "relations": 9993
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=place_of_worship"
     },
@@ -402,11 +402,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 412832,
+      "count": 413128,
       "breakdown": {
-        "nodes": 312411,
-        "ways": 99559,
-        "relations": 862
+        "nodes": 312578,
+        "ways": 99685,
+        "relations": 865
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bank"
     },
@@ -431,10 +431,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": null
       },
-      "count": 244153,
+      "count": 244495,
       "breakdown": {
-        "nodes": 243514,
-        "ways": 627,
+        "nodes": 243857,
+        "ways": 626,
         "relations": 12
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=atm"
@@ -460,11 +460,11 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 603628,
+      "count": 605117,
       "breakdown": {
-        "nodes": 6025,
-        "ways": 583299,
-        "relations": 14304
+        "nodes": 6034,
+        "ways": 584759,
+        "relations": 14324
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=cemetery"
     },
@@ -485,11 +485,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AOdenbuell_Nordstrand_St_Vinzenz_IMGP2940_wp_crop.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 160208,
+      "count": 160349,
       "breakdown": {
-        "nodes": 35659,
-        "ways": 120317,
-        "relations": 4232
+        "nodes": 35592,
+        "ways": 120519,
+        "relations": 4238
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=grave_yard"
     },
@@ -514,11 +514,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 12088,
+      "count": 12082,
       "breakdown": {
-        "nodes": 7341,
-        "ways": 4395,
-        "relations": 352
+        "nodes": 7347,
+        "ways": 4384,
+        "relations": 351
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=nursing_home"
     },
@@ -543,11 +543,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 35724,
+      "count": 35804,
       "breakdown": {
-        "nodes": 29005,
-        "ways": 6592,
-        "relations": 127
+        "nodes": 29076,
+        "ways": 6600,
+        "relations": 128
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=driving_school"
     },
@@ -572,11 +572,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 181552,
+      "count": 182046,
       "breakdown": {
-        "nodes": 88490,
-        "ways": 87795,
-        "relations": 5267
+        "nodes": 88714,
+        "ways": 88048,
+        "relations": 5284
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=social_facility"
     },
@@ -601,11 +601,11 @@
         "licenseUrl": null,
         "credit": "http://www.marines.mil/unit/mcbquantico/PublishingImages/2005/CHILDCARE.jpg"
       },
-      "count": 76807,
+      "count": 76927,
       "breakdown": {
-        "nodes": 49842,
-        "ways": 26751,
-        "relations": 214
+        "nodes": 49930,
+        "ways": 26782,
+        "relations": 215
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=childcare"
     },
@@ -630,11 +630,11 @@
         "licenseUrl": null,
         "credit": "whitehouse.gov (Originally uploaded on en.wikipedia)"
       },
-      "count": 309549,
+      "count": 310148,
       "breakdown": {
-        "nodes": 175703,
-        "ways": 129759,
-        "relations": 4087
+        "nodes": 176104,
+        "ways": 129942,
+        "relations": 4102
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/office=government"
     },
@@ -659,11 +659,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 7475,
+      "count": 7514,
       "breakdown": {
-        "nodes": 2742,
-        "ways": 4579,
-        "relations": 154
+        "nodes": 2761,
+        "ways": 4598,
+        "relations": 155
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=conference_centre"
     },
@@ -688,11 +688,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 15330,
+      "count": 15360,
       "breakdown": {
-        "nodes": 6719,
-        "ways": 8486,
-        "relations": 125
+        "nodes": 6717,
+        "ways": 8519,
+        "relations": 124
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=social_centre"
     },
@@ -717,10 +717,10 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 36887,
+      "count": 37080,
       "breakdown": {
-        "nodes": 17262,
-        "ways": 19321,
+        "nodes": 17371,
+        "ways": 19405,
         "relations": 304
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=events_venue"
@@ -746,11 +746,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Music school from Rabnita (1980)."
       },
-      "count": 13924,
+      "count": 13976,
       "breakdown": {
-        "nodes": 9847,
-        "ways": 3957,
-        "relations": 120
+        "nodes": 9885,
+        "ways": 3969,
+        "relations": 122
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=music_school"
     },
@@ -775,10 +775,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 10756,
+      "count": 10822,
       "breakdown": {
-        "nodes": 9242,
-        "ways": 1489,
+        "nodes": 9304,
+        "ways": 1493,
         "relations": 25
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=language_school"
@@ -804,10 +804,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 5109,
+      "count": 5131,
       "breakdown": {
-        "nodes": 1452,
-        "ways": 3625,
+        "nodes": 1460,
+        "ways": 3639,
         "relations": 32
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ranger_station"
@@ -833,11 +833,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 15580,
+      "count": 15601,
       "breakdown": {
-        "nodes": 1889,
-        "ways": 12976,
-        "relations": 715
+        "nodes": 1887,
+        "ways": 12995,
+        "relations": 719
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=prison"
     },
@@ -858,11 +858,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AKennel_2.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 8438,
+      "count": 8461,
       "breakdown": {
-        "nodes": 2543,
-        "ways": 5803,
-        "relations": 92
+        "nodes": 2559,
+        "ways": 5809,
+        "relations": 93
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=animal_shelter"
     },
@@ -887,11 +887,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 217685,
+      "count": 217840,
       "breakdown": {
-        "nodes": 113957,
-        "ways": 99328,
-        "relations": 4400
+        "nodes": 113998,
+        "ways": 99432,
+        "relations": 4410
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=hospital"
     },
@@ -912,11 +912,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AClinic_de.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 221638,
+      "count": 222128,
       "breakdown": {
-        "nodes": 148821,
-        "ways": 71034,
-        "relations": 1783
+        "nodes": 149168,
+        "ways": 71176,
+        "relations": 1784
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=clinic"
     },
@@ -941,11 +941,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 209688,
+      "count": 210651,
       "breakdown": {
-        "nodes": 174493,
-        "ways": 34758,
-        "relations": 437
+        "nodes": 175425,
+        "ways": 34790,
+        "relations": 436
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=doctors"
     },
@@ -970,10 +970,10 @@
         "licenseUrl": null,
         "credit": "http://www.offutt.af.mil/shared/media/photodb/photos/050426-F-9999Z-001.jpg"
       },
-      "count": 161816,
+      "count": 162403,
       "breakdown": {
-        "nodes": 139714,
-        "ways": 21972,
+        "nodes": 140251,
+        "ways": 22022,
         "relations": 130
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=dentist"
@@ -999,10 +999,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Own work"
       },
-      "count": 443135,
+      "count": 443914,
       "breakdown": {
-        "nodes": 396777,
-        "ways": 46139,
+        "nodes": 397479,
+        "ways": 46216,
         "relations": 219
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=pharmacy"
@@ -1028,10 +1028,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "http://www.andrewdunnphoto.com/"
       },
-      "count": 65766,
+      "count": 65933,
       "breakdown": {
-        "nodes": 48655,
-        "ways": 16984,
+        "nodes": 48787,
+        "ways": 17019,
         "relations": 127
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=veterinary"
@@ -1057,10 +1057,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "https://www.flickr.com/photos/deltamike/751707089/"
       },
-      "count": 10791,
+      "count": 10859,
       "breakdown": {
-        "nodes": 9958,
-        "ways": 818,
+        "nodes": 10022,
+        "ways": 822,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=psychotherapist"
@@ -1086,10 +1086,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 177056,
+      "count": 178184,
       "breakdown": {
-        "nodes": 177018,
-        "ways": 37,
+        "nodes": 178147,
+        "ways": 36,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=defibrillator"
@@ -1115,10 +1115,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "credit": "Own work"
       },
-      "count": 2567544,
+      "count": 2573773,
       "breakdown": {
-        "nodes": 2567495,
-        "ways": 46,
+        "nodes": 2573723,
+        "ways": 47,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant"
@@ -1144,10 +1144,10 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 74392,
+      "count": 74459,
       "breakdown": {
-        "nodes": 74345,
-        "ways": 46,
+        "nodes": 74411,
+        "ways": 47,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=phone"
@@ -1173,11 +1173,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 16384,
+      "count": 16394,
       "breakdown": {
-        "nodes": 7215,
-        "ways": 9054,
-        "relations": 115
+        "nodes": 7216,
+        "ways": 9060,
+        "relations": 118
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=ambulance_station"
     },
@@ -1202,10 +1202,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "photo taken by rmk"
       },
-      "count": 1114,
+      "count": 1126,
       "breakdown": {
-        "nodes": 557,
-        "ways": 555,
+        "nodes": 561,
+        "ways": 563,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=mountain_rescue"
@@ -1231,10 +1231,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 6347,
+      "count": 6352,
       "breakdown": {
-        "nodes": 3940,
-        "ways": 2395,
+        "nodes": 3939,
+        "ways": 2401,
         "relations": 12
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=lifeguard"
@@ -1260,10 +1260,10 @@
         "licenseUrl": null,
         "credit": "This image was released by the United States Air Force with the ID 090812-F-6188A-002 (next) . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing . العربية ∙ বাংলা ∙ Bahasa Indonesia ∙ Bahaso Jambi ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−"
       },
-      "count": 6873,
+      "count": 6894,
       "breakdown": {
-        "nodes": 5593,
-        "ways": 1277,
+        "nodes": 5616,
+        "ways": 1275,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=optometrist"
@@ -1289,9 +1289,9 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 21087,
+      "count": 21173,
       "breakdown": {
-        "nodes": 21019,
+        "nodes": 21105,
         "ways": 68,
         "relations": 0
       },
@@ -1318,9 +1318,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Flickr"
       },
-      "count": 20081,
+      "count": 20133,
       "breakdown": {
-        "nodes": 20010,
+        "nodes": 20062,
         "ways": 69,
         "relations": 2
       },
@@ -1347,10 +1347,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 22777,
+      "count": 22877,
       "breakdown": {
-        "nodes": 16336,
-        "ways": 5688,
+        "nodes": 16429,
+        "ways": 5695,
         "relations": 753
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=assembly_point"
@@ -1376,9 +1376,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
         "credit": "This image was provided to Wikimedia Commons by the German Federal Archive (Deutsches Bundesarchiv) as part of a cooperation project . The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the Digital Image Archive ."
       },
-      "count": 26038,
+      "count": 26133,
       "breakdown": {
-        "nodes": 26008,
+        "nodes": 26103,
         "ways": 30,
         "relations": 0
       },
@@ -1405,9 +1405,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 195314,
+      "count": 195478,
       "breakdown": {
-        "nodes": 195281,
+        "nodes": 195445,
         "ways": 28,
         "relations": 5
       },
@@ -1434,10 +1434,10 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 28705,
+      "count": 28868,
       "breakdown": {
-        "nodes": 26066,
-        "ways": 2624,
+        "nodes": 26219,
+        "ways": 2634,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=physiotherapist"
@@ -1463,11 +1463,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 1626557,
+      "count": 1629562,
       "breakdown": {
-        "nodes": 1328847,
-        "ways": 295867,
-        "relations": 1843
+        "nodes": 1331523,
+        "ways": 296190,
+        "relations": 1849
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=restaurant"
     },
@@ -1492,11 +1492,11 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "File:SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port 蘭亭國際名園 Lanting Guoji Mingyuan mall shop Burger King n McDonald's Restaurant May 2024 R12S 01.jpg"
       },
-      "count": 668249,
+      "count": 669983,
       "breakdown": {
-        "nodes": 517208,
-        "ways": 150129,
-        "relations": 912
+        "nodes": 518670,
+        "ways": 150399,
+        "relations": 914
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fast_food"
     },
@@ -1521,10 +1521,10 @@
         "licenseUrl": null,
         "credit": "Transferred from en.wikipedia by SreeBot"
       },
-      "count": 654216,
+      "count": 655859,
       "breakdown": {
-        "nodes": 565586,
-        "ways": 88042,
+        "nodes": 567038,
+        "ways": 88233,
         "relations": 588
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=cafe"
@@ -1550,11 +1550,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 246439,
+      "count": 246798,
       "breakdown": {
-        "nodes": 212900,
-        "ways": 33373,
-        "relations": 166
+        "nodes": 213223,
+        "ways": 33407,
+        "relations": 168
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bar"
     },
@@ -1579,11 +1579,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "my websire"
       },
-      "count": 200193,
+      "count": 200394,
       "breakdown": {
-        "nodes": 154137,
-        "ways": 45811,
-        "relations": 245
+        "nodes": 154282,
+        "ways": 45866,
+        "relations": 246
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=pub"
     },
@@ -1608,11 +1608,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
         "credit": "Own work"
       },
-      "count": 10354,
+      "count": 10353,
       "breakdown": {
-        "nodes": 5587,
-        "ways": 4718,
-        "relations": 49
+        "nodes": 5591,
+        "ways": 4714,
+        "relations": 48
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=biergarten"
     },
@@ -1637,10 +1637,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 67310,
+      "count": 67510,
       "breakdown": {
-        "nodes": 57905,
-        "ways": 9357,
+        "nodes": 58081,
+        "ways": 9381,
         "relations": 48
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ice_cream"
@@ -1666,11 +1666,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": null
       },
-      "count": 256049,
+      "count": 256567,
       "breakdown": {
-        "nodes": 224844,
-        "ways": 31087,
-        "relations": 118
+        "nodes": 225327,
+        "ways": 31124,
+        "relations": 116
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=bakery"
     },
@@ -1695,11 +1695,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "https://www.flickr.com/photos/inferis/8977472/"
       },
-      "count": 105484,
+      "count": 105679,
       "breakdown": {
-        "nodes": 92161,
-        "ways": 13241,
-        "relations": 82
+        "nodes": 92340,
+        "ways": 13258,
+        "relations": 81
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=butcher"
     },
@@ -1724,10 +1724,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 67242,
+      "count": 67437,
       "breakdown": {
-        "nodes": 57838,
-        "ways": 9247,
+        "nodes": 58035,
+        "ways": 9245,
         "relations": 157
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=greengrocer"
@@ -1753,11 +1753,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "credit": "Own work"
       },
-      "count": 496094,
+      "count": 496596,
       "breakdown": {
-        "nodes": 338100,
-        "ways": 156823,
-        "relations": 1171
+        "nodes": 338468,
+        "ways": 156956,
+        "relations": 1172
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=supermarket"
     },
@@ -1778,10 +1778,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFood_and_wine_shop.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 844604,
+      "count": 847358,
       "breakdown": {
-        "nodes": 642463,
-        "ways": 201463,
+        "nodes": 644903,
+        "ways": 201777,
         "relations": 678
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=convenience"
@@ -1807,11 +1807,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 104185,
+      "count": 104229,
       "breakdown": {
-        "nodes": 74355,
-        "ways": 29723,
-        "relations": 107
+        "nodes": 74396,
+        "ways": 29727,
+        "relations": 106
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=kiosk"
     },
@@ -1836,10 +1836,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 98998,
+      "count": 99191,
       "breakdown": {
-        "nodes": 40363,
-        "ways": 57289,
+        "nodes": 40436,
+        "ways": 57409,
         "relations": 1346
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=marketplace"
@@ -1865,11 +1865,11 @@
         "licenseUrl": null,
         "credit": "https://en.wikipedia.org/wiki/Special:Log?page=File%3ACevahir.jpg"
       },
-      "count": 78852,
+      "count": 78976,
       "breakdown": {
-        "nodes": 13851,
-        "ways": 62071,
-        "relations": 2930
+        "nodes": 13867,
+        "ways": 62170,
+        "relations": 2939
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=mall"
     },
@@ -1894,11 +1894,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 52648,
+      "count": 52673,
       "breakdown": {
-        "nodes": 35286,
-        "ways": 17045,
-        "relations": 317
+        "nodes": 35308,
+        "ways": 17049,
+        "relations": 316
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=department_store"
     },
@@ -1923,11 +1923,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 467470,
+      "count": 468676,
       "breakdown": {
-        "nodes": 413834,
-        "ways": 52500,
-        "relations": 1136
+        "nodes": 414954,
+        "ways": 52585,
+        "relations": 1137
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=clothes"
     },
@@ -1952,11 +1952,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Photo by Joe Mabel"
       },
-      "count": 107813,
+      "count": 108008,
       "breakdown": {
-        "nodes": 84118,
-        "ways": 23504,
-        "relations": 191
+        "nodes": 84272,
+        "ways": 23543,
+        "relations": 193
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=hardware"
     },
@@ -1981,11 +1981,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 84220,
+      "count": 84294,
       "breakdown": {
-        "nodes": 71970,
-        "ways": 12127,
-        "relations": 123
+        "nodes": 72044,
+        "ways": 12126,
+        "relations": 124
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=electronics"
     },
@@ -2010,10 +2010,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 88313,
+      "count": 88490,
       "breakdown": {
-        "nodes": 75720,
-        "ways": 12521,
+        "nodes": 75893,
+        "ways": 12525,
         "relations": 72
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=florist"
@@ -2039,10 +2039,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 58797,
+      "count": 58879,
       "breakdown": {
-        "nodes": 52093,
-        "ways": 6626,
+        "nodes": 52172,
+        "ways": 6629,
         "relations": 78
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=books"
@@ -2068,11 +2068,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 102005,
+      "count": 102164,
       "breakdown": {
-        "nodes": 77902,
-        "ways": 23889,
-        "relations": 214
+        "nodes": 78041,
+        "ways": 23910,
+        "relations": 213
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=furniture"
     },
@@ -2097,10 +2097,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 46564,
+      "count": 46618,
       "breakdown": {
-        "nodes": 39245,
-        "ways": 7247,
+        "nodes": 39296,
+        "ways": 7250,
         "relations": 72
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=sports"
@@ -2126,10 +2126,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 24859,
+      "count": 24913,
       "breakdown": {
-        "nodes": 21967,
-        "ways": 2850,
+        "nodes": 22016,
+        "ways": 2855,
         "relations": 42
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=toys"
@@ -2155,10 +2155,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 84251,
+      "count": 84524,
       "breakdown": {
-        "nodes": 75671,
-        "ways": 8460,
+        "nodes": 75934,
+        "ways": 8470,
         "relations": 120
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=jewelry"
@@ -2184,11 +2184,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work (投稿者撮影)"
       },
-      "count": 84741,
+      "count": 84961,
       "breakdown": {
-        "nodes": 76832,
-        "ways": 7831,
-        "relations": 78
+        "nodes": 77037,
+        "ways": 7847,
+        "relations": 77
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=optician"
     },
@@ -2213,11 +2213,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 416789,
+      "count": 417800,
       "breakdown": {
-        "nodes": 380181,
-        "ways": 36472,
-        "relations": 136
+        "nodes": 381133,
+        "ways": 36530,
+        "relations": 137
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=hairdresser"
     },
@@ -2238,11 +2238,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AH_and_J_nails.JPG",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 192306,
+      "count": 193041,
       "breakdown": {
-        "nodes": 176057,
-        "ways": 16123,
-        "relations": 126
+        "nodes": 176749,
+        "ways": 16165,
+        "relations": 127
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=beauty"
     },
@@ -2267,10 +2267,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 59663,
+      "count": 59936,
       "breakdown": {
-        "nodes": 51360,
-        "ways": 8281,
+        "nodes": 51580,
+        "ways": 8334,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=laundry"
@@ -2296,10 +2296,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 34460,
+      "count": 34511,
       "breakdown": {
-        "nodes": 30341,
-        "ways": 4106,
+        "nodes": 30384,
+        "ways": 4114,
         "relations": 13
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=dry_cleaning"
@@ -2325,11 +2325,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 296045,
+      "count": 296802,
       "breakdown": {
-        "nodes": 191776,
-        "ways": 103586,
-        "relations": 683
+        "nodes": 192334,
+        "ways": 103783,
+        "relations": 685
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=car_repair"
     },
@@ -2354,11 +2354,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 97443,
+      "count": 97612,
       "breakdown": {
-        "nodes": 70956,
-        "ways": 26370,
-        "relations": 117
+        "nodes": 71087,
+        "ways": 26407,
+        "relations": 118
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=car_parts"
     },
@@ -2383,10 +2383,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Own work"
       },
-      "count": 33089,
+      "count": 33153,
       "breakdown": {
-        "nodes": 26976,
-        "ways": 6067,
+        "nodes": 27027,
+        "ways": 6080,
         "relations": 46
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=car_rental"
@@ -2412,9 +2412,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 49967,
+      "count": 50097,
       "breakdown": {
-        "nodes": 46673,
+        "nodes": 46803,
         "ways": 3246,
         "relations": 48
       },
@@ -2441,11 +2441,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 569607,
+      "count": 570246,
       "breakdown": {
-        "nodes": 334828,
-        "ways": 231879,
-        "relations": 2900
+        "nodes": 336368,
+        "ways": 230971,
+        "relations": 2907
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fuel"
     },
@@ -2470,10 +2470,10 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 50746,
+      "count": 50854,
       "breakdown": {
-        "nodes": 42676,
-        "ways": 7998,
+        "nodes": 42763,
+        "ways": 8019,
         "relations": 72
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=pet"
@@ -2499,11 +2499,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "https://web.archive.org/web/20161020120846/http://www.panoramio.com/photo/65631793"
       },
-      "count": 455108,
+      "count": 455723,
       "breakdown": {
-        "nodes": 257425,
-        "ways": 191445,
-        "relations": 6238
+        "nodes": 257850,
+        "ways": 191613,
+        "relations": 6260
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=hotel"
     },
@@ -2528,11 +2528,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Bruno's Country Club, Gerlach, Nevada"
       },
-      "count": 49631,
+      "count": 49657,
       "breakdown": {
-        "nodes": 24979,
-        "ways": 23617,
-        "relations": 1035
+        "nodes": 24934,
+        "ways": 23691,
+        "relations": 1032
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=motel"
     },
@@ -2557,11 +2557,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 200860,
+      "count": 201192,
       "breakdown": {
-        "nodes": 140994,
-        "ways": 59223,
-        "relations": 643
+        "nodes": 141244,
+        "ways": 59302,
+        "relations": 646
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=guest_house"
     },
@@ -2586,11 +2586,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from en.wikipedia to Commons."
       },
-      "count": 62842,
+      "count": 62893,
       "breakdown": {
-        "nodes": 44523,
-        "ways": 17756,
-        "relations": 563
+        "nodes": 44552,
+        "ways": 17761,
+        "relations": 580
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=hostel"
     },
@@ -2615,11 +2615,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "credit": "Own work"
       },
-      "count": 4203021,
+      "count": 4212275,
       "breakdown": {
-        "nodes": 4189514,
-        "ways": 12457,
-        "relations": 1050
+        "nodes": 4198842,
+        "ways": 12382,
+        "relations": 1051
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=bus_stop"
     },
@@ -2644,11 +2644,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 67807,
+      "count": 67854,
       "breakdown": {
-        "nodes": 36987,
-        "ways": 29887,
-        "relations": 933
+        "nodes": 36973,
+        "ways": 29940,
+        "relations": 941
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bus_station"
     },
@@ -2673,10 +2673,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 104124,
+      "count": 104135,
       "breakdown": {
-        "nodes": 97063,
-        "ways": 6586,
+        "nodes": 97094,
+        "ways": 6566,
         "relations": 475
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=station"
@@ -2702,10 +2702,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 34737,
+      "count": 34745,
       "breakdown": {
-        "nodes": 34425,
-        "ways": 279,
+        "nodes": 34452,
+        "ways": 260,
         "relations": 33
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=halt"
@@ -2731,9 +2731,9 @@
         "licenseUrl": "http://artlibre.org/licence/lal/en",
         "credit": "Own work"
       },
-      "count": 54968,
+      "count": 54989,
       "breakdown": {
-        "nodes": 54803,
+        "nodes": 54824,
         "ways": 135,
         "relations": 30
       },
@@ -2760,9 +2760,9 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Personal snapshot by Montréalais . Transferred from en.wikipedia"
       },
-      "count": 53770,
+      "count": 53822,
       "breakdown": {
-        "nodes": 53664,
+        "nodes": 53716,
         "ways": 106,
         "relations": 0
       },
@@ -2789,11 +2789,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "credit": "由上傳者拍攝。Captured by uploader."
       },
-      "count": 52235,
+      "count": 52334,
       "breakdown": {
-        "nodes": 44553,
-        "ways": 7619,
-        "relations": 63
+        "nodes": 44617,
+        "ways": 7655,
+        "relations": 62
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=taxi"
     },
@@ -2818,11 +2818,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 6913214,
+      "count": 6935069,
       "breakdown": {
-        "nodes": 432309,
-        "ways": 6396456,
-        "relations": 84449
+        "nodes": 432876,
+        "ways": 6417474,
+        "relations": 84719
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking"
     },
@@ -2847,10 +2847,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Linzwiki: Tiefgarage Hauptplatz.jpg"
       },
-      "count": 285196,
+      "count": 286459,
       "breakdown": {
-        "nodes": 284529,
-        "ways": 658,
+        "nodes": 285797,
+        "ways": 653,
         "relations": 9
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking_entrance"
@@ -2876,11 +2876,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Geograph Britain and Ireland"
       },
-      "count": 5078146,
+      "count": 5123792,
       "breakdown": {
-        "nodes": 201333,
-        "ways": 4862736,
-        "relations": 14077
+        "nodes": 202213,
+        "ways": 4907503,
+        "relations": 14076
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking_space"
     },
@@ -2905,11 +2905,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 950036,
+      "count": 954094,
       "breakdown": {
-        "nodes": 806729,
-        "ways": 142725,
-        "relations": 582
+        "nodes": 810198,
+        "ways": 143312,
+        "relations": 584
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bicycle_parking"
     },
@@ -2934,11 +2934,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "originally posted to Flickr as Quick getaway"
       },
-      "count": 47727,
+      "count": 47867,
       "breakdown": {
-        "nodes": 26962,
-        "ways": 20625,
-        "relations": 140
+        "nodes": 27000,
+        "ways": 20725,
+        "relations": 142
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=motorcycle_parking"
     },
@@ -2963,10 +2963,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "City of Bremen"
       },
-      "count": 12582,
+      "count": 12614,
       "breakdown": {
-        "nodes": 11205,
-        "ways": 1356,
+        "nodes": 11229,
+        "ways": 1364,
         "relations": 21
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=car_sharing"
@@ -2992,11 +2992,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 94690,
+      "count": 94808,
       "breakdown": {
-        "nodes": 91099,
-        "ways": 3505,
-        "relations": 86
+        "nodes": 91200,
+        "ways": 3518,
+        "relations": 90
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bicycle_rental"
     },
@@ -3017,11 +3017,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ARecharge_Vigra_charging_station.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 207948,
+      "count": 209443,
       "breakdown": {
-        "nodes": 193766,
-        "ways": 13792,
-        "relations": 390
+        "nodes": 195006,
+        "ways": 14038,
+        "relations": 399
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=charging_station"
     },
@@ -3046,11 +3046,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 37491,
+      "count": 37556,
       "breakdown": {
-        "nodes": 34836,
-        "ways": 2548,
-        "relations": 107
+        "nodes": 34897,
+        "ways": 2551,
+        "relations": 108
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ferry_terminal"
     },
@@ -3075,11 +3075,11 @@
         "licenseUrl": null,
         "credit": "http://www.usaid.gov/iraq/photogallery/gallery_30/photo06.html"
       },
-      "count": 10394,
+      "count": 10397,
       "breakdown": {
         "nodes": 518,
-        "ways": 9405,
-        "relations": 471
+        "ways": 9409,
+        "relations": 470
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=terminal"
     },
@@ -3104,10 +3104,10 @@
         "licenseUrl": null,
         "credit": "U.S. Navy NewsStand photo ID 031107-N-6378F-003.jpg http://en.wikipedia.org/wiki/Image:Oryx_helicopter.jpg ( en:User:RadicalBender )"
       },
-      "count": 70941,
+      "count": 71105,
       "breakdown": {
-        "nodes": 9695,
-        "ways": 61086,
+        "nodes": 9735,
+        "ways": 61210,
         "relations": 160
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=helipad"
@@ -3133,11 +3133,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 5938,
+      "count": 5939,
       "breakdown": {
-        "nodes": 4320,
-        "ways": 1605,
-        "relations": 13
+        "nodes": 4321,
+        "ways": 1604,
+        "relations": 14
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=airstrip"
     },
@@ -3162,10 +3162,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 31914,
+      "count": 31932,
       "breakdown": {
-        "nodes": 14981,
-        "ways": 15633,
+        "nodes": 14982,
+        "ways": 15650,
         "relations": 1300
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=marina"
@@ -3187,10 +3187,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASlipway.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 68909,
+      "count": 69058,
       "breakdown": {
-        "nodes": 47985,
-        "ways": 20909,
+        "nodes": 48054,
+        "ways": 20989,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=slipway"
@@ -3216,10 +3216,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 63722,
+      "count": 63912,
       "breakdown": {
-        "nodes": 58300,
-        "ways": 5419,
+        "nodes": 58386,
+        "ways": 5523,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=toll_booth"
@@ -3245,10 +3245,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 12514,
+      "count": 12587,
       "breakdown": {
-        "nodes": 9229,
-        "ways": 3281,
+        "nodes": 9276,
+        "ways": 3307,
         "relations": 4
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=weighbridge"
@@ -3274,9 +3274,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 78493,
+      "count": 78831,
       "breakdown": {
-        "nodes": 78433,
+        "nodes": 78771,
         "ways": 4,
         "relations": 56
       },
@@ -3303,9 +3303,9 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 2025940,
+      "count": 2030412,
       "breakdown": {
-        "nodes": 2025923,
+        "nodes": 2030395,
         "ways": 14,
         "relations": 3
       },
@@ -3332,9 +3332,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Own work"
       },
-      "count": 2529164,
+      "count": 2539169,
       "breakdown": {
-        "nodes": 2529158,
+        "nodes": 2539163,
         "ways": 6,
         "relations": 0
       },
@@ -3357,10 +3357,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AZebra-crossing_sm.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 13662008,
+      "count": 13718900,
       "breakdown": {
-        "nodes": 13661523,
-        "ways": 485,
+        "nodes": 13718413,
+        "ways": 487,
         "relations": 0
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=crossing"
@@ -3386,10 +3386,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
         "credit": "Own work"
       },
-      "count": 6578515,
+      "count": 6811013,
       "breakdown": {
-        "nodes": 6578446,
-        "ways": 67,
+        "nodes": 6810945,
+        "ways": 66,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=street_lamp"
@@ -3415,9 +3415,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 245489,
+      "count": 246451,
       "breakdown": {
-        "nodes": 245483,
+        "nodes": 246445,
         "ways": 3,
         "relations": 3
       },
@@ -3444,11 +3444,11 @@
         "licenseUrl": null,
         "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/objects-public-domain-images-pictures/signs-public-domain-images-pictures/signpost.jpg"
       },
-      "count": 680389,
+      "count": 682156,
       "breakdown": {
-        "nodes": 680172,
-        "ways": 166,
-        "relations": 51
+        "nodes": 681938,
+        "ways": 168,
+        "relations": 50
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/information=guidepost"
     },
@@ -3473,10 +3473,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from en.wikipedia to Commons by chazchaz101 ."
       },
-      "count": 1004595,
+      "count": 1004984,
       "breakdown": {
-        "nodes": 1004541,
-        "ways": 52,
+        "nodes": 1004929,
+        "ways": 53,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=level_crossing"
@@ -3502,9 +3502,9 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 227464,
+      "count": 227849,
       "breakdown": {
-        "nodes": 227311,
+        "nodes": 227696,
         "ways": 153,
         "relations": 0
       },
@@ -3531,11 +3531,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Own work"
       },
-      "count": 196177,
+      "count": 196429,
       "breakdown": {
-        "nodes": 2202,
-        "ways": 186421,
-        "relations": 7554
+        "nodes": 2200,
+        "ways": 186645,
+        "relations": 7584
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=platform"
     },
@@ -3560,10 +3560,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Portmadoc Harbour"
       },
-      "count": 8701,
+      "count": 8747,
       "breakdown": {
         "nodes": 96,
-        "ways": 8393,
+        "ways": 8439,
         "relations": 212
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=quay"
@@ -3589,11 +3589,11 @@
         "licenseUrl": null,
         "credit": "Moi"
       },
-      "count": 65379,
+      "count": 65551,
       "breakdown": {
         "nodes": 5,
-        "ways": 63669,
-        "relations": 1705
+        "ways": 63821,
+        "relations": 1725
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=breakwater"
     },
@@ -3618,9 +3618,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 23772,
+      "count": 23872,
       "breakdown": {
-        "nodes": 23597,
+        "nodes": 23697,
         "ways": 175,
         "relations": 0
       },
@@ -3647,11 +3647,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "HammWiki ( http://www.hammwiki.de/ )"
       },
-      "count": 33308,
+      "count": 33465,
       "breakdown": {
-        "nodes": 4274,
-        "ways": 28359,
-        "relations": 675
+        "nodes": 4291,
+        "ways": 28496,
+        "relations": 678
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=services"
     },
@@ -3676,10 +3676,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 42504,
+      "count": 42546,
       "breakdown": {
-        "nodes": 22693,
-        "ways": 19413,
+        "nodes": 22730,
+        "ways": 19418,
         "relations": 398
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=rest_area"
@@ -3705,9 +3705,9 @@
         "licenseUrl": null,
         "credit": "Self-photographed"
       },
-      "count": 239543,
+      "count": 240330,
       "breakdown": {
-        "nodes": 239541,
+        "nodes": 240328,
         "ways": 1,
         "relations": 1
       },
@@ -3734,11 +3734,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
         "credit": "Own work"
       },
-      "count": 753976,
+      "count": 755521,
       "breakdown": {
-        "nodes": 6331,
-        "ways": 745406,
-        "relations": 2239
+        "nodes": 6334,
+        "ways": 746947,
+        "relations": 2240
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=pier"
     },
@@ -3763,11 +3763,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "https://web.archive.org/web/20161102234649/http://www.panoramio.com/photo/46699604"
       },
-      "count": 1377739,
+      "count": 1379526,
       "breakdown": {
         "nodes": 10,
-        "ways": 1377724,
-        "relations": 5
+        "ways": 1379510,
+        "relations": 6
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=motorway"
     },
@@ -3792,11 +3792,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 2017404,
+      "count": 2021338,
       "breakdown": {
         "nodes": 10,
-        "ways": 2017383,
-        "relations": 11
+        "ways": 2021315,
+        "relations": 13
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=trunk"
     },
@@ -3817,10 +3817,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APrimary-photo.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 4135964,
+      "count": 4144568,
       "breakdown": {
         "nodes": 9,
-        "ways": 4135954,
+        "ways": 4144558,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=primary"
@@ -3842,10 +3842,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMeyenburg-L134.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 5886317,
+      "count": 5895334,
       "breakdown": {
         "nodes": 40,
-        "ways": 5885595,
+        "ways": 5894612,
         "relations": 682
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=secondary"
@@ -3867,11 +3867,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AOHZ-K3-Werschenrege.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 9195237,
+      "count": 9209185,
       "breakdown": {
-        "nodes": 87,
-        "ways": 9193866,
-        "relations": 1284
+        "nodes": 88,
+        "ways": 9207811,
+        "relations": 1286
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=tertiary"
     },
@@ -3892,10 +3892,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AHighway_unclassified-photo.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 18571271,
+      "count": 18585757,
       "breakdown": {
         "nodes": 277,
-        "ways": 18570870,
+        "ways": 18585356,
         "relations": 124
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=unclassified"
@@ -3921,10 +3921,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "https://www.flickr.com/photos/53301297@N00/19541531423/"
       },
-      "count": 70046174,
+      "count": 70099094,
       "breakdown": {
-        "nodes": 220,
-        "ways": 70045859,
+        "nodes": 219,
+        "ways": 70098780,
         "relations": 95
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=residential"
@@ -3946,10 +3946,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASpielstrasse.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 2349589,
+      "count": 2354697,
       "breakdown": {
         "nodes": 65,
-        "ways": 2349291,
+        "ways": 2354399,
         "relations": 233
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=living_street"
@@ -3975,11 +3975,11 @@
         "licenseUrl": null,
         "credit": "Own work This file was uploaded with Commonist ."
       },
-      "count": 66228456,
+      "count": 66375436,
       "breakdown": {
-        "nodes": 194,
-        "ways": 66224437,
-        "relations": 3825
+        "nodes": 193,
+        "ways": 66371422,
+        "relations": 3821
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=service"
     },
@@ -4004,11 +4004,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work – FreePiP (Free Pictures Project)"
       },
-      "count": 30121804,
+      "count": 30167080,
       "breakdown": {
-        "nodes": 692,
-        "ways": 30120911,
-        "relations": 201
+        "nodes": 694,
+        "ways": 30166183,
+        "relations": 203
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=track"
     },
@@ -4033,11 +4033,11 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 33061873,
+      "count": 33218190,
       "breakdown": {
-        "nodes": 1747,
-        "ways": 33049167,
-        "relations": 10959
+        "nodes": 1739,
+        "ways": 33205478,
+        "relations": 10973
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=footway"
     },
@@ -4062,10 +4062,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 2255707,
+      "count": 2262939,
       "breakdown": {
-        "nodes": 261,
-        "ways": 2255397,
+        "nodes": 262,
+        "ways": 2262628,
         "relations": 49
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=cycleway"
@@ -4091,10 +4091,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 16581885,
+      "count": 16622338,
       "breakdown": {
-        "nodes": 655,
-        "ways": 16580860,
+        "nodes": 659,
+        "ways": 16621309,
         "relations": 370
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=path"
@@ -4120,10 +4120,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Geograph Britain and Ireland"
       },
-      "count": 2144799,
+      "count": 2151820,
       "breakdown": {
-        "nodes": 2795,
-        "ways": 2141804,
+        "nodes": 2800,
+        "ways": 2148820,
         "relations": 200
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=steps"
@@ -4145,10 +4145,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AGeograph-439361-by-Roger--Kidd.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 122865,
+      "count": 123031,
       "breakdown": {
         "nodes": 9,
-        "ways": 122834,
+        "ways": 123000,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=bridleway"
@@ -4174,11 +4174,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 893481,
+      "count": 895050,
       "breakdown": {
         "nodes": 91,
-        "ways": 840958,
-        "relations": 52432
+        "ways": 842352,
+        "relations": 52607
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=pedestrian"
     },
@@ -4203,9 +4203,9 @@
         "licenseUrl": null,
         "credit": "Own work based on File:Zeichen 209-20.svg (which is PD ) and using this font's question mark (similar to the road signs one) and This W3C-unspecified vector image was created with Inkscape ."
       },
-      "count": 39729,
+      "count": 39730,
       "breakdown": {
-        "nodes": 197,
+        "nodes": 198,
         "ways": 39531,
         "relations": 1
       },
@@ -4232,10 +4232,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Geograph Britain and Ireland"
       },
-      "count": 443270,
+      "count": 444894,
       "breakdown": {
-        "nodes": 1674,
-        "ways": 441555,
+        "nodes": 1616,
+        "ways": 443237,
         "relations": 41
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=construction"
@@ -4261,10 +4261,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Fuji Speedway Pit Walk"
       },
-      "count": 46282,
+      "count": 46365,
       "breakdown": {
         "nodes": 135,
-        "ways": 45812,
+        "ways": 45895,
         "relations": 335
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=raceway"
@@ -4290,10 +4290,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 40073,
+      "count": 40142,
       "breakdown": {
         "nodes": 0,
-        "ways": 40073,
+        "ways": 40142,
         "relations": 0
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=busway"
@@ -4319,9 +4319,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 70329,
+      "count": 70488,
       "breakdown": {
-        "nodes": 70257,
+        "nodes": 70416,
         "ways": 72,
         "relations": 0
       },
@@ -4348,10 +4348,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 81477,
+      "count": 81949,
       "breakdown": {
         "nodes": 21,
-        "ways": 81428,
+        "ways": 81900,
         "relations": 28
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=corridor"
@@ -4377,10 +4377,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 58624,
+      "count": 58914,
       "breakdown": {
-        "nodes": 50206,
-        "ways": 8278,
+        "nodes": 50451,
+        "ways": 8323,
         "relations": 140
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=elevator"
@@ -4406,9 +4406,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "https://web.archive.org/web/20161031144644/http://www.panoramio.com/photo/90478220"
       },
-      "count": 18772,
+      "count": 18846,
       "breakdown": {
-        "nodes": 18652,
+        "nodes": 18726,
         "ways": 117,
         "relations": 3
       },
@@ -4435,10 +4435,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "https://web.archive.org/web/20161028100744/http://www.panoramio.com/photo/93423500"
       },
-      "count": 5002,
+      "count": 5127,
       "breakdown": {
-        "nodes": 105,
-        "ways": 4893,
+        "nodes": 106,
+        "ways": 5017,
         "relations": 4
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=via_ferrata"
@@ -4464,11 +4464,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "https://www.flickr.com/photos/mfoubister/41735199974/"
       },
-      "count": 2068929,
+      "count": 2070966,
       "breakdown": {
-        "nodes": 2612,
-        "ways": 2018407,
-        "relations": 47910
+        "nodes": 2560,
+        "ways": 2020407,
+        "relations": 47999
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=river"
     },
@@ -4497,7 +4497,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 528662,
+      "count": 530549,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4522,11 +4522,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Flickr : Stream"
       },
-      "count": 29677417,
+      "count": 29720266,
       "breakdown": {
         "nodes": 5458,
-        "ways": 29590581,
-        "relations": 81378
+        "ways": 29633139,
+        "relations": 81669
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=stream"
     },
@@ -4551,11 +4551,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Geograph Britain and Ireland"
       },
-      "count": 809402,
+      "count": 811622,
       "breakdown": {
         "nodes": 294,
-        "ways": 805438,
-        "relations": 3670
+        "ways": 807647,
+        "relations": 3681
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=canal"
     },
@@ -4580,11 +4580,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from nl.wikipedia to Commons."
       },
-      "count": 5000778,
+      "count": 5017030,
       "breakdown": {
-        "nodes": 751,
-        "ways": 4994947,
-        "relations": 5080
+        "nodes": 753,
+        "ways": 5011195,
+        "relations": 5082
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=ditch"
     },
@@ -4609,11 +4609,11 @@
         "licenseUrl": null,
         "credit": "Transferred from en.wikipedia to Commons by Scott5114 using CommonsHelper ."
       },
-      "count": 1906675,
+      "count": 1911524,
       "breakdown": {
         "nodes": 270,
-        "ways": 1902230,
-        "relations": 4175
+        "ways": 1907066,
+        "relations": 4188
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=drain"
     },
@@ -4638,11 +4638,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Self-photographed"
       },
-      "count": 273033,
+      "count": 273533,
       "breakdown": {
-        "nodes": 42064,
-        "ways": 227243,
-        "relations": 3726
+        "nodes": 42013,
+        "ways": 227783,
+        "relations": 3737
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=dam"
     },
@@ -4667,10 +4667,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 154989,
+      "count": 155378,
       "breakdown": {
-        "nodes": 62174,
-        "ways": 92741,
+        "nodes": 62290,
+        "ways": 93014,
         "relations": 74
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=weir"
@@ -4696,10 +4696,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 89693,
+      "count": 89987,
       "breakdown": {
-        "nodes": 86737,
-        "ways": 2935,
+        "nodes": 87045,
+        "ways": 2921,
         "relations": 21
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=waterfall"
@@ -4721,10 +4721,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASalfeinsSpring.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 284960,
+      "count": 285336,
       "breakdown": {
-        "nodes": 282103,
-        "ways": 2785,
+        "nodes": 282476,
+        "ways": 2788,
         "relations": 72
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=spring"
@@ -4754,7 +4754,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/ca/deed.en",
         "credit": "Own work"
       },
-      "count": 914592,
+      "count": 934869,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4783,7 +4783,7 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from en.wikipedia to Commons."
       },
-      "count": 2415006,
+      "count": 2422901,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4812,7 +4812,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work ( Sean the Spook )"
       },
-      "count": 895372,
+      "count": 897495,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4839,9 +4839,9 @@
         "author": "The original uploader was Dergreg: at German Wikipedia .",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Own work by the original uploader"
+        "credit": "own work by the original uploader"
       },
-      "count": 340227,
+      "count": 341976,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4866,11 +4866,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 4840486,
+      "count": 4896930,
       "breakdown": {
-        "nodes": 13278,
-        "ways": 3926627,
-        "relations": 900581
+        "nodes": 13289,
+        "ways": 3954113,
+        "relations": 929528
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=wetland"
     },
@@ -4899,7 +4899,7 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 12931,
+      "count": 12948,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4928,7 +4928,7 @@
         "licenseUrl": null,
         "credit": "Flickr : Kanuti River"
       },
-      "count": 54884,
+      "count": 55006,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4953,11 +4953,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 250239,
+      "count": 250652,
       "breakdown": {
-        "nodes": 13299,
-        "ways": 205592,
-        "relations": 31348
+        "nodes": 13309,
+        "ways": 205943,
+        "relations": 31400
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=beach"
     },
@@ -4982,11 +4982,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 94661,
+      "count": 94715,
       "breakdown": {
-        "nodes": 67924,
-        "ways": 6162,
-        "relations": 20575
+        "nodes": 67967,
+        "ways": 6168,
+        "relations": 20580
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=bay"
     },
@@ -5011,10 +5011,10 @@
         "licenseUrl": null,
         "credit": "Transferred from en.wikipedia to Commons. ( Original text: self-made )"
       },
-      "count": 10331,
+      "count": 10352,
       "breakdown": {
-        "nodes": 4246,
-        "ways": 3442,
+        "nodes": 4260,
+        "ways": 3449,
         "relations": 2643
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=strait"
@@ -5040,10 +5040,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "Geograph https://www.geograph.org.uk/photo/249487"
       },
-      "count": 1292296,
+      "count": 1292664,
       "breakdown": {
         "nodes": 0,
-        "ways": 1292102,
+        "ways": 1292470,
         "relations": 194
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=coastline"
@@ -5069,10 +5069,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
         "credit": "Transfered from de.wikipedia were it was uploaded by the author"
       },
-      "count": 169549,
+      "count": 169795,
       "breakdown": {
-        "nodes": 116336,
-        "ways": 53142,
+        "nodes": 116532,
+        "ways": 53192,
         "relations": 71
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_tower"
@@ -5098,11 +5098,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 46632,
+      "count": 46694,
       "breakdown": {
-        "nodes": 8461,
-        "ways": 37259,
-        "relations": 912
+        "nodes": 8460,
+        "ways": 37319,
+        "relations": 915
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_works"
     },
@@ -5127,11 +5127,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
         "credit": "Own work"
       },
-      "count": 93354,
+      "count": 93484,
       "breakdown": {
-        "nodes": 4035,
-        "ways": 87362,
-        "relations": 1957
+        "nodes": 4028,
+        "ways": 87496,
+        "relations": 1960
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=wastewater_plant"
     },
@@ -5156,10 +5156,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 369427,
+      "count": 371352,
       "breakdown": {
-        "nodes": 219667,
-        "ways": 149723,
+        "nodes": 221479,
+        "ways": 149836,
         "relations": 37
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_well"
@@ -5187,8 +5187,8 @@
       },
       "count": 24636,
       "breakdown": {
-        "nodes": 17006,
-        "ways": 7593,
+        "nodes": 16983,
+        "ways": 7616,
         "relations": 37
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=lock_gate"
@@ -5214,10 +5214,10 @@
         "licenseUrl": null,
         "credit": "Transferred from en.wikipedia to Commons by Anonymous101 ."
       },
-      "count": 5232,
+      "count": 5252,
       "breakdown": {
-        "nodes": 4424,
-        "ways": 805,
+        "nodes": 4445,
+        "ways": 804,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=sluice_gate"
@@ -5247,7 +5247,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 10896,
+      "count": 10910,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -5272,10 +5272,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 5633,
+      "count": 5640,
       "breakdown": {
-        "nodes": 1788,
-        "ways": 3737,
+        "nodes": 1790,
+        "ways": 3742,
         "relations": 108
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=boatyard"
@@ -5301,10 +5301,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "The mudflats in Turnagain Arm at low tide (IMG_1189a)"
       },
-      "count": 29777,
+      "count": 29829,
       "breakdown": {
         "nodes": 66,
-        "ways": 29648,
+        "ways": 29700,
         "relations": 63
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=tidal_channel"
@@ -5330,11 +5330,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 12797128,
+      "count": 12781142,
       "breakdown": {
-        "nodes": 29155,
-        "ways": 11789517,
-        "relations": 978456
+        "nodes": 29157,
+        "ways": 11771424,
+        "relations": 980561
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=wood"
     },
@@ -5359,11 +5359,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Plants of Hawaii, Image 010831-0015 from http://www.starrenvironmental.com/plants/images/image/?q=010831-0015"
       },
-      "count": 5772568,
+      "count": 5801553,
       "breakdown": {
-        "nodes": 1916,
-        "ways": 5383803,
-        "relations": 386849
+        "nodes": 1915,
+        "ways": 5411387,
+        "relations": 388251
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=scrub"
     },
@@ -5388,11 +5388,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "Own work"
       },
-      "count": 682152,
+      "count": 685012,
       "breakdown": {
         "nodes": 460,
-        "ways": 609095,
-        "relations": 72597
+        "ways": 610738,
+        "relations": 73814
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=heath"
     },
@@ -5417,11 +5417,11 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 2427274,
+      "count": 2440958,
       "breakdown": {
-        "nodes": 167,
-        "ways": 2207575,
-        "relations": 219532
+        "nodes": 170,
+        "ways": 2219594,
+        "relations": 221194
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=grassland"
     },
@@ -5446,11 +5446,11 @@
         "licenseUrl": null,
         "credit": "Photographed by the uploader - James Loach"
       },
-      "count": 5604808,
+      "count": 5622158,
       "breakdown": {
         "nodes": 265,
-        "ways": 5198353,
-        "relations": 406190
+        "ways": 5214734,
+        "relations": 407159
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=meadow"
     },
@@ -5475,11 +5475,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 11801208,
+      "count": 11839527,
       "breakdown": {
         "nodes": 1974,
-        "ways": 11178080,
-        "relations": 621154
+        "ways": 11214227,
+        "relations": 623326
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=farmland"
     },
@@ -5504,11 +5504,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "Nissan Lev-Ran via the PikiWiki - Israel free image collection project"
       },
-      "count": 1889685,
+      "count": 1897914,
       "breakdown": {
         "nodes": 615,
-        "ways": 1811305,
-        "relations": 77765
+        "ways": 1819323,
+        "relations": 77976
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=orchard"
     },
@@ -5533,11 +5533,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
         "credit": "own work, made out of 4 Pictures (2x2)"
       },
-      "count": 878563,
+      "count": 880053,
       "breakdown": {
         "nodes": 183,
-        "ways": 859930,
-        "relations": 18450
+        "ways": 861338,
+        "relations": 18532
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=vineyard"
     },
@@ -5558,11 +5558,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAllotments.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 493516,
+      "count": 495503,
       "breakdown": {
         "nodes": 327,
-        "ways": 450549,
-        "relations": 42640
+        "ways": 452363,
+        "relations": 42813
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=allotments"
     },
@@ -5587,11 +5587,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "snty - tact ( Talk )'s file. Taken at Japanese Tea Garden, in San Francisco, California, U.S."
       },
-      "count": 1585425,
+      "count": 1591855,
       "breakdown": {
-        "nodes": 14090,
-        "ways": 1534517,
-        "relations": 36818
+        "nodes": 14114,
+        "ways": 1540815,
+        "relations": 36926
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=garden"
     },
@@ -5616,11 +5616,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 1304783,
+      "count": 1306251,
       "breakdown": {
-        "nodes": 46643,
-        "ways": 1216856,
-        "relations": 41284
+        "nodes": 46698,
+        "ways": 1218180,
+        "relations": 41373
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=park"
     },
@@ -5645,11 +5645,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 150688,
+      "count": 151040,
       "breakdown": {
-        "nodes": 4936,
-        "ways": 102590,
-        "relations": 43162
+        "nodes": 4938,
+        "ways": 102838,
+        "relations": 43264
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=nature_reserve"
     },
@@ -5674,11 +5674,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": null
       },
-      "count": 136492,
+      "count": 136856,
       "breakdown": {
-        "nodes": 5654,
-        "ways": 83179,
-        "relations": 47659
+        "nodes": 5655,
+        "ways": 83417,
+        "relations": 47784
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/boundary=protected_area"
     },
@@ -5703,11 +5703,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 1111226,
+      "count": 1113486,
       "breakdown": {
-        "nodes": 1111092,
+        "nodes": 1113350,
         "ways": 110,
-        "relations": 24
+        "relations": 26
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=peak"
     },
@@ -5732,10 +5732,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "California Coastal Records Project (More info about project at en:California Coastal Records Project .)"
       },
-      "count": 1049297,
+      "count": 1052585,
       "breakdown": {
-        "nodes": 19047,
-        "ways": 1029941,
+        "nodes": 19044,
+        "ways": 1033232,
         "relations": 309
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=cliff"
@@ -5761,10 +5761,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from bg.wikipedia to Commons."
       },
-      "count": 73335,
+      "count": 73438,
       "breakdown": {
-        "nodes": 72589,
-        "ways": 738,
+        "nodes": 72689,
+        "ways": 741,
         "relations": 8
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=cave_entrance"
@@ -5786,11 +5786,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AGainfarn_froschstein.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 249837,
+      "count": 250239,
       "breakdown": {
-        "nodes": 219131,
-        "ways": 29904,
-        "relations": 802
+        "nodes": 219454,
+        "ways": 29976,
+        "relations": 809
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=rock"
     },
@@ -5815,11 +5815,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 403517,
+      "count": 406826,
       "breakdown": {
         "nodes": 248,
-        "ways": 367925,
-        "relations": 35344
+        "ways": 370466,
+        "relations": 36112
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=scree"
     },
@@ -5844,11 +5844,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 599376,
+      "count": 599251,
       "breakdown": {
-        "nodes": 674,
-        "ways": 568415,
-        "relations": 30287
+        "nodes": 673,
+        "ways": 568196,
+        "relations": 30382
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=sand"
     },
@@ -5873,11 +5873,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 118146,
+      "count": 118305,
       "breakdown": {
         "nodes": 1420,
-        "ways": 104286,
-        "relations": 12440
+        "ways": 104357,
+        "relations": 12528
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=glacier"
     },
@@ -5902,9 +5902,9 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "File:Colima volcano aero.jpg"
       },
-      "count": 10368,
+      "count": 10383,
       "breakdown": {
-        "nodes": 10290,
+        "nodes": 10305,
         "ways": 70,
         "relations": 8
       },
@@ -5931,10 +5931,10 @@
         "licenseUrl": null,
         "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/mountain-public-domain-images-pictures/aerial-view-of-a-mountain-ridgeline-.jpg"
       },
-      "count": 270514,
+      "count": 271926,
       "breakdown": {
-        "nodes": 5393,
-        "ways": 264956,
+        "nodes": 5389,
+        "ways": 266372,
         "relations": 165
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=ridge"
@@ -5960,9 +5960,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 80852,
+      "count": 81060,
       "breakdown": {
-        "nodes": 80785,
+        "nodes": 80993,
         "ways": 62,
         "relations": 5
       },
@@ -5989,9 +5989,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 34629851,
+      "count": 34843568,
       "breakdown": {
-        "nodes": 34629846,
+        "nodes": 34843563,
         "ways": 0,
         "relations": 5
       },
@@ -6018,10 +6018,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 2132685,
+      "count": 2142437,
       "breakdown": {
-        "nodes": 268,
-        "ways": 2132320,
+        "nodes": 269,
+        "ways": 2142071,
         "relations": 97
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=tree_row"
@@ -6047,11 +6047,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 1336727,
+      "count": 1341011,
       "breakdown": {
-        "nodes": 1181,
-        "ways": 1226400,
-        "relations": 109146
+        "nodes": 1180,
+        "ways": 1230425,
+        "relations": 109406
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=bare_rock"
     },
@@ -6076,11 +6076,11 @@
         "licenseUrl": null,
         "credit": "NASA Earth Observatory"
       },
-      "count": 96965,
+      "count": 104346,
       "breakdown": {
-        "nodes": 4492,
-        "ways": 80022,
-        "relations": 12451
+        "nodes": 4495,
+        "ways": 87378,
+        "relations": 12473
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=reef"
     },
@@ -6105,11 +6105,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "Own work"
       },
-      "count": 88461,
+      "count": 88834,
       "breakdown": {
         "nodes": 18,
-        "ways": 78815,
-        "relations": 9628
+        "ways": 79142,
+        "relations": 9674
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=shingle"
     },
@@ -6134,10 +6134,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from de.wikipedia to Commons."
       },
-      "count": 28602,
+      "count": 28616,
       "breakdown": {
         "nodes": 542,
-        "ways": 24772,
+        "ways": 24786,
         "relations": 3288
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=fell"
@@ -6163,10 +6163,10 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 64352,
+      "count": 64439,
       "breakdown": {
-        "nodes": 16258,
-        "ways": 47873,
+        "nodes": 16278,
+        "ways": 47940,
         "relations": 221
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=valley"
@@ -6192,11 +6192,11 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "https://unsplash.com/photos/T0vd4uCvSH8"
       },
-      "count": 10762766,
+      "count": 10788641,
       "breakdown": {
-        "nodes": 19597,
-        "ways": 10379644,
-        "relations": 363525
+        "nodes": 19346,
+        "ways": 10404837,
+        "relations": 364458
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=residential"
     },
@@ -6221,11 +6221,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Transferred from en.wikipedia to Commons by Teratornis using CommonsHelper ."
       },
-      "count": 1453961,
+      "count": 1458413,
       "breakdown": {
-        "nodes": 5334,
-        "ways": 1384462,
-        "relations": 64165
+        "nodes": 5344,
+        "ways": 1388753,
+        "relations": 64316
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=industrial"
     },
@@ -6250,11 +6250,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 602979,
+      "count": 605223,
       "breakdown": {
-        "nodes": 777,
-        "ways": 578149,
-        "relations": 24053
+        "nodes": 773,
+        "ways": 580317,
+        "relations": 24133
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=commercial"
     },
@@ -6279,11 +6279,11 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 422183,
+      "count": 423651,
       "breakdown": {
-        "nodes": 1011,
-        "ways": 408056,
-        "relations": 13116
+        "nodes": 1003,
+        "ways": 409507,
+        "relations": 13141
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=retail"
     },
@@ -6308,11 +6308,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "https://web.archive.org/web/20161010194234/http://www.panoramio.com/photo/8752991 via File:ALİ EKSİ ONYX1 - panoramio.jpg"
       },
-      "count": 254416,
+      "count": 254681,
       "breakdown": {
-        "nodes": 30980,
-        "ways": 212579,
-        "relations": 10857
+        "nodes": 30976,
+        "ways": 212826,
+        "relations": 10879
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=quarry"
     },
@@ -6337,11 +6337,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 58727,
+      "count": 58788,
       "breakdown": {
-        "nodes": 457,
-        "ways": 56401,
-        "relations": 1869
+        "nodes": 456,
+        "ways": 56462,
+        "relations": 1870
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=landfill"
     },
@@ -6366,11 +6366,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 276036,
+      "count": 276826,
       "breakdown": {
-        "nodes": 136,
-        "ways": 267922,
-        "relations": 7978
+        "nodes": 137,
+        "ways": 268691,
+        "relations": 7998
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=construction"
     },
@@ -6391,11 +6391,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AIllustration_of_Rail.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 100494,
+      "count": 100862,
       "breakdown": {
         "nodes": 22,
-        "ways": 92669,
-        "relations": 7803
+        "ways": 93029,
+        "relations": 7811
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=railway"
     },
@@ -6416,11 +6416,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMilitary_land.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 96692,
+      "count": 96849,
       "breakdown": {
-        "nodes": 8971,
-        "ways": 82682,
-        "relations": 5039
+        "nodes": 8975,
+        "ways": 82822,
+        "relations": 5052
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=military"
     },
@@ -6445,11 +6445,11 @@
         "licenseUrl": null,
         "credit": "Self-photographed"
       },
-      "count": 164991,
+      "count": 166514,
       "breakdown": {
-        "nodes": 546,
-        "ways": 145749,
-        "relations": 18696
+        "nodes": 545,
+        "ways": 147189,
+        "relations": 18780
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=plant"
     },
@@ -6474,11 +6474,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 889843,
+      "count": 892585,
       "breakdown": {
-        "nodes": 171115,
-        "ways": 714083,
-        "relations": 4645
+        "nodes": 171568,
+        "ways": 716360,
+        "relations": 4657
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=substation"
     },
@@ -6503,9 +6503,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "Prywatne zdjęcia"
       },
-      "count": 18619733,
+      "count": 18647844,
       "breakdown": {
-        "nodes": 18619446,
+        "nodes": 18647557,
         "ways": 286,
         "relations": 1
       },
@@ -6532,10 +6532,10 @@
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "credit": "Own work"
       },
-      "count": 21046189,
+      "count": 21106779,
       "breakdown": {
-        "nodes": 21046018,
-        "ways": 169,
+        "nodes": 21106610,
+        "ways": 167,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=pole"
@@ -6565,7 +6565,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 473175,
+      "count": 474714,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -6594,7 +6594,7 @@
         "licenseUrl": null,
         "credit": "NELLIS AIR FORCE BASE website - Solar panels connect to base electric grid – orignial image"
       },
-      "count": 6237870,
+      "count": 6287052,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -6623,7 +6623,7 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "selbst fotografiert 2003"
       },
-      "count": 13965,
+      "count": 13973,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -6648,10 +6648,10 @@
         "licenseUrl": null,
         "credit": "http://www.jpo.doi.gov/Photo%20Gallery/index.htm"
       },
-      "count": 384159,
+      "count": 384986,
       "breakdown": {
-        "nodes": 806,
-        "ways": 383220,
+        "nodes": 812,
+        "ways": 384041,
         "relations": 133
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=pipeline"
@@ -6677,9 +6677,9 @@
         "licenseUrl": null,
         "credit": "Transferred from en.wikipedia to Commons by User:Bramfab using CommonsHelper ."
       },
-      "count": 340991,
+      "count": 341535,
       "breakdown": {
-        "nodes": 328905,
+        "nodes": 329449,
         "ways": 11727,
         "relations": 359
       },
@@ -6706,10 +6706,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Self-photographed"
       },
-      "count": 118363,
+      "count": 118548,
       "breakdown": {
-        "nodes": 101600,
-        "ways": 16694,
+        "nodes": 101733,
+        "ways": 16746,
         "relations": 69
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=chimney"
@@ -6735,10 +6735,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 15075,
+      "count": 15083,
       "breakdown": {
-        "nodes": 11521,
-        "ways": 3530,
+        "nodes": 11528,
+        "ways": 3531,
         "relations": 24
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=lighthouse"
@@ -6768,7 +6768,7 @@
         "licenseUrl": null,
         "credit": "Wilson Delgado"
       },
-      "count": 633662,
+      "count": 634847,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6797,7 +6797,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Nuggets/Mavericks Game 5 action"
       },
-      "count": 344437,
+      "count": 347284,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6826,7 +6826,7 @@
         "licenseUrl": null,
         "credit": "Own work ( Original text: I created this work entirely by myself. )"
       },
-      "count": 582993,
+      "count": 583849,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6855,7 +6855,7 @@
         "licenseUrl": null,
         "credit": null
       },
-      "count": 174639,
+      "count": 174745,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6884,7 +6884,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "https://www.flickr.com/photos/zoonabar/154354933/"
       },
-      "count": 22447,
+      "count": 22465,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6909,10 +6909,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 7996,
+      "count": 8011,
       "breakdown": {
         "nodes": 221,
-        "ways": 7744,
+        "ways": 7759,
         "relations": 31
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=rugby_union"
@@ -6942,7 +6942,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "Own work"
       },
-      "count": 15927,
+      "count": 15956,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6971,7 +6971,7 @@
         "licenseUrl": null,
         "credit": "navy.mil"
       },
-      "count": 34507,
+      "count": 34766,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6996,10 +6996,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 7762,
+      "count": 7779,
       "breakdown": {
-        "nodes": 258,
-        "ways": 7487,
+        "nodes": 260,
+        "ways": 7502,
         "relations": 17
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=handball"
@@ -7025,10 +7025,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Shielding the ball"
       },
-      "count": 6233,
+      "count": 6247,
       "breakdown": {
         "nodes": 241,
-        "ways": 5975,
+        "ways": 5989,
         "relations": 17
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=field_hockey"
@@ -7050,11 +7050,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APool_i.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 3072347,
+      "count": 3084155,
       "breakdown": {
-        "nodes": 302925,
-        "ways": 2766220,
-        "relations": 3202
+        "nodes": 302827,
+        "ways": 2778119,
+        "relations": 3209
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=swimming_pool"
     },
@@ -7079,11 +7079,11 @@
         "licenseUrl": null,
         "credit": "I ( Welsh leprechaun ) created this work entirely by myself."
       },
-      "count": 269790,
+      "count": 270318,
       "breakdown": {
-        "nodes": 52395,
-        "ways": 210925,
-        "relations": 6470
+        "nodes": 52544,
+        "ways": 211293,
+        "relations": 6481
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=sports_centre"
     },
@@ -7108,11 +7108,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 52013,
+      "count": 52102,
       "breakdown": {
-        "nodes": 3607,
-        "ways": 45794,
-        "relations": 2612
+        "nodes": 3632,
+        "ways": 45860,
+        "relations": 2610
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=stadium"
     },
@@ -7137,11 +7137,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 166620,
+      "count": 167106,
       "breakdown": {
-        "nodes": 2616,
-        "ways": 120364,
-        "relations": 43640
+        "nodes": 2620,
+        "ways": 120732,
+        "relations": 43754
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=track"
     },
@@ -7166,11 +7166,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Perfect view of golf hole course"
       },
-      "count": 39644,
+      "count": 39677,
       "breakdown": {
-        "nodes": 1649,
-        "ways": 30905,
-        "relations": 7090
+        "nodes": 1660,
+        "ways": 30914,
+        "relations": 7103
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=golf_course"
     },
@@ -7195,11 +7195,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "DSC09349 - Dinosaur Adventure Golf"
       },
-      "count": 10979,
+      "count": 10997,
       "breakdown": {
-        "nodes": 1874,
-        "ways": 8976,
-        "relations": 129
+        "nodes": 1882,
+        "ways": 8987,
+        "relations": 128
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=miniature_golf"
     },
@@ -7228,7 +7228,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "originally posted to Flickr as IMG_7437"
       },
-      "count": 28465,
+      "count": 28531,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -7253,11 +7253,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "Thanksgiving on Cocoa Beach FL"
       },
-      "count": 1016879,
+      "count": 1019069,
       "breakdown": {
-        "nodes": 218280,
-        "ways": 792023,
-        "relations": 6576
+        "nodes": 218361,
+        "ways": 794111,
+        "relations": 6597
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=playground"
     },
@@ -7278,11 +7278,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ADogPark.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 31083,
+      "count": 31184,
       "breakdown": {
-        "nodes": 3568,
-        "ways": 26937,
-        "relations": 578
+        "nodes": 3567,
+        "ways": 27035,
+        "relations": 582
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=dog_park"
     },
@@ -7307,11 +7307,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 103975,
+      "count": 104465,
       "breakdown": {
-        "nodes": 63571,
-        "ways": 39725,
-        "relations": 679
+        "nodes": 63859,
+        "ways": 39924,
+        "relations": 682
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=fitness_station"
     },
@@ -7336,11 +7336,11 @@
         "licenseUrl": null,
         "credit": "Image propre"
       },
-      "count": 13360,
+      "count": 13352,
       "breakdown": {
-        "nodes": 2917,
-        "ways": 9919,
-        "relations": 524
+        "nodes": 2913,
+        "ways": 9916,
+        "relations": 523
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=water_park"
     },
@@ -7365,10 +7365,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "North Korea 048"
       },
-      "count": 6466,
+      "count": 6482,
       "breakdown": {
-        "nodes": 3425,
-        "ways": 3032,
+        "nodes": 3437,
+        "ways": 3036,
         "relations": 9
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=bowling_alley"
@@ -7394,10 +7394,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 22045,
+      "count": 22143,
       "breakdown": {
-        "nodes": 5355,
-        "ways": 16177,
+        "nodes": 5379,
+        "ways": 16251,
         "relations": 513
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=horse_riding"
@@ -7423,11 +7423,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "credit": "https://www.flickr.com/photos/steveganz/11559175/"
       },
-      "count": 2824,
+      "count": 2834,
       "breakdown": {
-        "nodes": 1752,
-        "ways": 889,
-        "relations": 183
+        "nodes": 1755,
+        "ways": 894,
+        "relations": 185
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=disc_golf_course"
     },
@@ -7452,10 +7452,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 163449,
+      "count": 163525,
       "breakdown": {
-        "nodes": 105319,
-        "ways": 54994,
+        "nodes": 105314,
+        "ways": 55075,
         "relations": 3136
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=camp_site"
@@ -7481,11 +7481,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "credit": "Own work"
       },
-      "count": 111562,
+      "count": 111758,
       "breakdown": {
-        "nodes": 57267,
-        "ways": 51777,
-        "relations": 2518
+        "nodes": 57380,
+        "ways": 51845,
+        "relations": 2533
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=museum"
     },
@@ -7506,11 +7506,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMalba_Buenos_Aires.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 22634,
+      "count": 22710,
       "breakdown": {
-        "nodes": 17756,
-        "ways": 4737,
-        "relations": 141
+        "nodes": 17812,
+        "ways": 4756,
+        "relations": 142
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=gallery"
     },
@@ -7535,11 +7535,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "credit": "photo taken by Rüdiger Wölk, Münster, Germany"
       },
-      "count": 255683,
+      "count": 255869,
       "breakdown": {
-        "nodes": 172157,
-        "ways": 77769,
-        "relations": 5757
+        "nodes": 172236,
+        "ways": 77866,
+        "relations": 5767
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=attraction"
     },
@@ -7564,10 +7564,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 265136,
+      "count": 265812,
       "breakdown": {
-        "nodes": 257785,
-        "ways": 7167,
+        "nodes": 258410,
+        "ways": 7218,
         "relations": 184
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=viewpoint"
@@ -7593,11 +7593,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 371104,
+      "count": 372854,
       "breakdown": {
-        "nodes": 347920,
-        "ways": 22032,
-        "relations": 1152
+        "nodes": 349587,
+        "ways": 22112,
+        "relations": 1155
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=artwork"
     },
@@ -7622,10 +7622,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 1527451,
+      "count": 1532176,
       "breakdown": {
-        "nodes": 1512875,
-        "ways": 14339,
+        "nodes": 1517575,
+        "ways": 14364,
         "relations": 237
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=information"
@@ -7651,11 +7651,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 72026,
+      "count": 72107,
       "breakdown": {
-        "nodes": 59081,
-        "ways": 12552,
-        "relations": 393
+        "nodes": 59142,
+        "ways": 12573,
+        "relations": 392
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=monument"
     },
@@ -7680,11 +7680,11 @@
         "licenseUrl": null,
         "credit": "Uploaded as en:Image:Canal Memorial.jpg on April 11 2006"
       },
-      "count": 517614,
+      "count": 519176,
       "breakdown": {
-        "nodes": 494465,
-        "ways": 22653,
-        "relations": 496
+        "nodes": 495981,
+        "ways": 22698,
+        "relations": 497
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=memorial"
     },
@@ -7709,11 +7709,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Self-photographed"
       },
-      "count": 54618,
+      "count": 54736,
       "breakdown": {
-        "nodes": 14575,
-        "ways": 35670,
-        "relations": 4373
+        "nodes": 14573,
+        "ways": 35791,
+        "relations": 4372
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=castle"
     },
@@ -7738,11 +7738,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
         "credit": "Own work"
       },
-      "count": 187517,
+      "count": 188524,
       "breakdown": {
-        "nodes": 59049,
-        "ways": 127256,
-        "relations": 1212
+        "nodes": 59375,
+        "ways": 127934,
+        "relations": 1215
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=ruins"
     },
@@ -7767,11 +7767,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
         "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website ."
       },
-      "count": 230280,
+      "count": 230633,
       "breakdown": {
-        "nodes": 164051,
-        "ways": 64231,
-        "relations": 1998
+        "nodes": 164258,
+        "ways": 64370,
+        "relations": 2005
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=archaeological_site"
     },
@@ -7796,11 +7796,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from en.wikipedia to Commons."
       },
-      "count": 31627,
+      "count": 31665,
       "breakdown": {
-        "nodes": 19429,
-        "ways": 12063,
-        "relations": 135
+        "nodes": 19459,
+        "ways": 12070,
+        "relations": 136
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=cinema"
     },
@@ -7825,11 +7825,11 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work Photo taken by Tagishsimon. Uploaded to en.wikipedia 15:29, 25 Apr 2004 by en:User:Tagishsimon and marked GFDL."
       },
-      "count": 53541,
+      "count": 53658,
       "breakdown": {
-        "nodes": 23737,
-        "ways": 29134,
-        "relations": 670
+        "nodes": 23778,
+        "ways": 29209,
+        "relations": 671
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=theatre"
     },
@@ -7854,11 +7854,11 @@
         "licenseUrl": null,
         "credit": "Transfered from en.wikipedia"
       },
-      "count": 24374,
+      "count": 24384,
       "breakdown": {
-        "nodes": 18677,
-        "ways": 5643,
-        "relations": 54
+        "nodes": 18691,
+        "ways": 5638,
+        "relations": 55
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=nightclub"
     },
@@ -7883,11 +7883,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 28653,
+      "count": 28718,
       "breakdown": {
-        "nodes": 14111,
-        "ways": 14044,
-        "relations": 498
+        "nodes": 14154,
+        "ways": 14062,
+        "relations": 502
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=arts_centre"
     },
@@ -7912,11 +7912,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "credit": "From geograph.org.uk"
       },
-      "count": 9403,
+      "count": 9426,
       "breakdown": {
-        "nodes": 2208,
-        "ways": 6733,
-        "relations": 462
+        "nodes": 2218,
+        "ways": 6744,
+        "relations": 464
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=fort"
     },
@@ -7941,10 +7941,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 7607,
+      "count": 7609,
       "breakdown": {
-        "nodes": 5162,
-        "ways": 2394,
+        "nodes": 5159,
+        "ways": 2399,
         "relations": 51
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=casino"
@@ -7970,10 +7970,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 9317,
+      "count": 9309,
       "breakdown": {
-        "nodes": 2776,
-        "ways": 6161,
+        "nodes": 2769,
+        "ways": 6160,
         "relations": 380
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=zoo"
@@ -7999,10 +7999,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Transferred from en.wikipedia to Commons."
       },
-      "count": 11148,
+      "count": 11145,
       "breakdown": {
-        "nodes": 3490,
-        "ways": 7227,
+        "nodes": 3481,
+        "ways": 7233,
         "relations": 431
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=theme_park"
@@ -8028,11 +8028,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 169055,
+      "count": 169237,
       "breakdown": {
-        "nodes": 137917,
-        "ways": 30686,
-        "relations": 452
+        "nodes": 138014,
+        "ways": 30769,
+        "relations": 454
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=picnic_site"
     },
@@ -8057,11 +8057,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 563364899,
+      "count": 564146747,
       "breakdown": {
-        "nodes": 294571,
-        "ways": 562317427,
-        "relations": 752901
+        "nodes": 293028,
+        "ways": 563099437,
+        "relations": 754282
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=yes"
     },
@@ -8086,11 +8086,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 68727651,
+      "count": 68891324,
       "breakdown": {
-        "nodes": 262604,
-        "ways": 68349217,
-        "relations": 115830
+        "nodes": 262503,
+        "ways": 68512847,
+        "relations": 115974
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=house"
     },
@@ -8115,11 +8115,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 8111583,
+      "count": 8134866,
       "breakdown": {
-        "nodes": 28393,
-        "ways": 7960201,
-        "relations": 122989
+        "nodes": 28706,
+        "ways": 7982911,
+        "relations": 123249
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=apartments"
     },
@@ -8144,11 +8144,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Photo by User:Fb78"
       },
-      "count": 4638795,
+      "count": 4650559,
       "breakdown": {
-        "nodes": 1970,
-        "ways": 4636022,
-        "relations": 803
+        "nodes": 1978,
+        "ways": 4647766,
+        "relations": 815
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=shed"
     },
@@ -8173,10 +8173,10 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 8329055,
+      "count": 8349533,
       "breakdown": {
-        "nodes": 2344,
-        "ways": 8323895,
+        "nodes": 2343,
+        "ways": 8344374,
         "relations": 2816
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=garage"
@@ -8202,11 +8202,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 1087590,
+      "count": 1089509,
       "breakdown": {
         "nodes": 498,
-        "ways": 1083187,
-        "relations": 3905
+        "ways": 1085110,
+        "relations": 3901
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=garages"
     },
@@ -8231,11 +8231,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 337364,
+      "count": 338987,
       "breakdown": {
-        "nodes": 269,
-        "ways": 330656,
-        "relations": 6439
+        "nodes": 268,
+        "ways": 332268,
+        "relations": 6451
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=bridge"
     },
@@ -8260,11 +8260,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "credit": "Own work"
       },
-      "count": 461161,
+      "count": 462456,
       "breakdown": {
-        "nodes": 350859,
-        "ways": 109218,
-        "relations": 1084
+        "nodes": 351702,
+        "ways": 109667,
+        "relations": 1087
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=tower"
     },
@@ -8289,11 +8289,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "credit": "Own work"
       },
-      "count": 6243957,
+      "count": 6262047,
       "breakdown": {
-        "nodes": 2026,
-        "ways": 6237469,
-        "relations": 4462
+        "nodes": 2025,
+        "ways": 6255545,
+        "relations": 4477
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=wall"
     },
@@ -8318,11 +8318,11 @@
         "licenseUrl": null,
         "credit": "Own work"
       },
-      "count": 9737375,
+      "count": 9767412,
       "breakdown": {
-        "nodes": 10969,
-        "ways": 9721106,
-        "relations": 5300
+        "nodes": 11008,
+        "ways": 9751082,
+        "relations": 5322
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=fence"
     },
@@ -8347,10 +8347,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 3443164,
+      "count": 3457991,
       "breakdown": {
-        "nodes": 3391666,
-        "ways": 51381,
+        "nodes": 3406203,
+        "ways": 51671,
         "relations": 117
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bench"
@@ -8376,9 +8376,9 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "credit": "uploaded by author"
       },
-      "count": 1266683,
+      "count": 1272639,
       "breakdown": {
-        "nodes": 1266260,
+        "nodes": 1272216,
         "ways": 419,
         "relations": 4
       },
@@ -8401,11 +8401,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAltglas.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 590953,
+      "count": 592878,
       "breakdown": {
-        "nodes": 549443,
-        "ways": 41089,
-        "relations": 421
+        "nodes": 551168,
+        "ways": 41292,
+        "relations": 418
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=recycling"
     },
@@ -8430,11 +8430,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "credit": "Own work"
       },
-      "count": 692755,
+      "count": 695636,
       "breakdown": {
-        "nodes": 243173,
-        "ways": 448915,
-        "relations": 667
+        "nodes": 243875,
+        "ways": 451086,
+        "relations": 675
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=shelter"
     },
@@ -8455,11 +8455,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFountain_at_Milan_citadel.JPG",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 203279,
+      "count": 203700,
       "breakdown": {
-        "nodes": 142342,
-        "ways": 59967,
-        "relations": 970
+        "nodes": 142597,
+        "ways": 60131,
+        "relations": 972
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fountain"
     },
@@ -8480,10 +8480,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AClock-1.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 35911,
+      "count": 36020,
       "breakdown": {
-        "nodes": 35462,
-        "ways": 442,
+        "nodes": 35569,
+        "ways": 444,
         "relations": 7
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=clock"
@@ -8509,10 +8509,10 @@
         "licenseUrl": null,
         "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
       },
-      "count": 372499,
+      "count": 374100,
       "breakdown": {
-        "nodes": 372158,
-        "ways": 319,
+        "nodes": 373758,
+        "ways": 320,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=vending_machine"
@@ -8538,10 +8538,10 @@
         "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "credit": "Own work"
       },
-      "count": 370129,
+      "count": 370879,
       "breakdown": {
-        "nodes": 369323,
-        "ways": 801,
+        "nodes": 370070,
+        "ways": 804,
         "relations": 5
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=drinking_water"
@@ -8563,10 +8563,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAmenity_toilets.svg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 525827,
+      "count": 527206,
       "breakdown": {
-        "nodes": 376227,
-        "ways": 148679,
+        "nodes": 377118,
+        "ways": 149167,
         "relations": 921
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=toilets"
@@ -8592,10 +8592,10 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
         "credit": "Own work"
       },
-      "count": 47513,
+      "count": 47653,
       "breakdown": {
-        "nodes": 44956,
-        "ways": 2543,
+        "nodes": 45089,
+        "ways": 2550,
         "relations": 14
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bbq"
