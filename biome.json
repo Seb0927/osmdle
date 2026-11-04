@@ -1,5 +1,5 @@
 {
-  "$schema": "https://biomejs.dev/schemas/2.5.15/schema.json",
+  "$schema": "https://biomejs.dev/schemas/2.6.3/schema.json",
   "vcs": {
     "enabled": true,
     "clientKind": "git",
@@ -7,7 +7,18 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!node_modules", "!.next", "!dist", "!build", "!types", "!public"]
+    "includes": [
+      "**",
+      "!node_modules",
+      "!.next",
+      "!dist",
+      "!build",
+      "!types",
+      "!public",
+      "!**/*.md",
+      "!**/*.yml",
+      "!**/*.yaml"
+    ]
   },
   "formatter": {
     "enabled": true,
@@ -58,15 +69,9 @@
         "useLiteralKeys": "error"
       },
       "nursery": {
-        "useSortedClasses": {
-          "level": "warn",
-          "options": {
-            "attributes": ["classList"],
-            "functions": ["clsx", "cva", "tw", "tw.*"]
-          }
-        },
         "useTailwindShorthandClasses": "warn",
-        "noTailwindArbitraryValue": "warn"
+        "noTailwindArbitraryValue": "warn",
+        "useTailwindSortedClasses": "warn"
       }
     }
   },
@@ -88,5 +93,10 @@
         "organizeImports": "on"
       }
     }
+  },
+  "tailwind": {
+    "attributes": ["class", "className", "classList"],
+    "mergeFunctions": ["clsx", "tw"],
+    "variantFunctions": ["cva"]
   }
 }
