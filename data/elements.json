@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "snapshot": "2026-10",
-  "generatedAt": "2026-10-20T00:53:40.522Z",
+  "snapshot": "2026-11",
+  "generatedAt": "2026-11-04T20:33:10.112Z",
   "source": {
     "name": "Taginfo",
     "url": "https://taginfo.openstreetmap.org",
-    "dataUntil": "2026-10-19T00:59:35Z"
+    "dataUntil": "2026-11-04T00:59:30Z"
   },
   "elements": [
     {
@@ -755,35 +755,6 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=music_school"
     },
     {
-      "id": "language-school",
-      "title": "Language School",
-      "family": "civic",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "language_school"
-        }
-      ],
-      "description": "An educational institution where one studies a foreign language.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sede_de_Berlitz_al_norte_de_Bogot%C3%A1.jpeg/500px-Sede_de_Berlitz_al_norte_de_Bogot%C3%A1.jpeg",
-        "title": "File:Sede de Berlitz al norte de Bogotá.jpeg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASede_de_Berlitz_al_norte_de_Bogot%C3%A1.jpeg",
-        "source": "Wikimedia Commons",
-        "author": "EEIM",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
-      },
-      "count": 10756,
-      "breakdown": {
-        "nodes": 9242,
-        "ways": 1489,
-        "relations": 25
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=language_school"
-    },
-    {
       "id": "ranger-station",
       "title": "Ranger Station",
       "family": "civic",
@@ -1068,7 +1039,7 @@
     {
       "id": "defibrillator",
       "title": "Defibrillator",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1097,7 +1068,7 @@
     {
       "id": "fire-hydrant",
       "title": "Fire Hydrant",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1126,7 +1097,7 @@
     {
       "id": "emergency-phone",
       "title": "Emergency Phone",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1155,7 +1126,7 @@
     {
       "id": "ambulance-station",
       "title": "Ambulance Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1184,7 +1155,7 @@
     {
       "id": "mountain-rescue",
       "title": "Mountain Rescue Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1213,7 +1184,7 @@
     {
       "id": "lifeguard",
       "title": "Lifeguard Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1271,7 +1242,7 @@
     {
       "id": "fire-extinguisher",
       "title": "Fire Extinguisher",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1298,38 +1269,9 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=fire_extinguisher"
     },
     {
-      "id": "emergency-suction-point",
-      "title": "Emergency Suction Point",
-      "family": "health",
-      "tags": [
-        {
-          "key": "emergency",
-          "value": "suction_point"
-        }
-      ],
-      "description": "A preferred point to pump water off a river or other waters for a fire department.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fire-fighting-facility_node-5793842430.jpg/500px-Fire-fighting-facility_node-5793842430.jpg",
-        "title": "File:Fire-fighting-facility node-5793842430.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFire-fighting-facility_node-5793842430.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Pernas",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Flickr"
-      },
-      "count": 20081,
-      "breakdown": {
-        "nodes": 20010,
-        "ways": 69,
-        "relations": 2
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=suction_point"
-    },
-    {
       "id": "assembly-point",
       "title": "Emergency Assembly Point",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1358,7 +1300,7 @@
     {
       "id": "emergency-siren",
       "title": "Emergency Siren",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1387,7 +1329,7 @@
     {
       "id": "emergency-access-point",
       "title": "Emergency Access Point",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -1847,7 +1789,7 @@
     {
       "id": "mall",
       "title": "Shopping Mall",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -1876,7 +1818,7 @@
     {
       "id": "department-store",
       "title": "Department Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -1905,7 +1847,7 @@
     {
       "id": "clothes-shop",
       "title": "Clothing Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -1934,7 +1876,7 @@
     {
       "id": "hardware-store",
       "title": "Hardware Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -1963,7 +1905,7 @@
     {
       "id": "electronics-store",
       "title": "Electronics Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -1992,7 +1934,7 @@
     {
       "id": "florist",
       "title": "Florist",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2021,7 +1963,7 @@
     {
       "id": "bookshop",
       "title": "Bookshop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2050,7 +1992,7 @@
     {
       "id": "furniture-store",
       "title": "Furniture Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2079,7 +2021,7 @@
     {
       "id": "sports-shop",
       "title": "Sports Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2108,7 +2050,7 @@
     {
       "id": "toy-shop",
       "title": "Toy Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2137,7 +2079,7 @@
     {
       "id": "jewelry-shop",
       "title": "Jewelry Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2166,7 +2108,7 @@
     {
       "id": "optician",
       "title": "Optician",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2195,7 +2137,7 @@
     {
       "id": "hairdresser",
       "title": "Hairdresser",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2224,7 +2166,7 @@
     {
       "id": "beauty-shop",
       "title": "Beauty Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2249,7 +2191,7 @@
     {
       "id": "laundry",
       "title": "Laundry",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2278,7 +2220,7 @@
     {
       "id": "dry-cleaning",
       "title": "Dry Cleaner",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2307,7 +2249,7 @@
     {
       "id": "car-repair",
       "title": "Car Repair Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2336,7 +2278,7 @@
     {
       "id": "car-parts",
       "title": "Car Parts Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2365,7 +2307,7 @@
     {
       "id": "car-rental",
       "title": "Car Rental",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "amenity",
@@ -2394,7 +2336,7 @@
     {
       "id": "travel-agency",
       "title": "Travel Agency",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -2423,7 +2365,7 @@
     {
       "id": "fuel-station",
       "title": "Fuel Station",
-      "family": "food",
+      "family": "transport",
       "tags": [
         {
           "key": "amenity",
@@ -2450,38 +2392,9 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fuel"
     },
     {
-      "id": "pet-shop",
-      "title": "Pet Shop",
-      "family": "food",
-      "tags": [
-        {
-          "key": "shop",
-          "value": "pet"
-        }
-      ],
-      "description": "A shop selling pets and/or pet supplies",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pet_Centre_shopfront%2C_St_Nicholas_Street%2C_Truro%2C_Cornwall_-_December_2023.jpg/500px-Pet_Centre_shopfront%2C_St_Nicholas_Street%2C_Truro%2C_Cornwall_-_December_2023.jpg",
-        "title": "File:Pet Centre shopfront, St Nicholas Street, Truro, Cornwall - December 2023.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3APet_Centre_shopfront%2C_St_Nicholas_Street%2C_Truro%2C_Cornwall_-_December_2023.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Mutney",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
-      },
-      "count": 50746,
-      "breakdown": {
-        "nodes": 42676,
-        "ways": 7998,
-        "relations": 72
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=pet"
-    },
-    {
       "id": "hotel",
       "title": "Hotel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -2510,7 +2423,7 @@
     {
       "id": "motel",
       "title": "Motel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -2539,7 +2452,7 @@
     {
       "id": "guest-house",
       "title": "Guest House",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -2568,7 +2481,7 @@
     {
       "id": "hostel",
       "title": "Hostel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -3571,7 +3484,7 @@
     {
       "id": "breakwater",
       "title": "Breakwater",
-      "family": "transport",
+      "family": "water",
       "tags": [
         {
           "key": "man_made",
@@ -3625,35 +3538,6 @@
         "relations": 0
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bicycle_repair_station"
-    },
-    {
-      "id": "services",
-      "title": "Motorway Services",
-      "family": "transport",
-      "tags": [
-        {
-          "key": "highway",
-          "value": "services"
-        }
-      ],
-      "description": "Place where drivers can leave a road to refuel, rest, or take refreshments.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rasthof_Rhynern.jpg/500px-Rasthof_Rhynern.jpg",
-        "title": "File:Rasthof Rhynern.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARasthof_Rhynern.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Tim Reckmann",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "HammWiki ( http://www.hammwiki.de/ )"
-      },
-      "count": 33308,
-      "breakdown": {
-        "nodes": 4274,
-        "ways": 28359,
-        "relations": 675
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=services"
     },
     {
       "id": "rest-area",
@@ -3745,7 +3629,7 @@
     {
       "id": "motorway",
       "title": "Motorway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3774,7 +3658,7 @@
     {
       "id": "trunk-road",
       "title": "Trunk Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3803,7 +3687,7 @@
     {
       "id": "primary-road",
       "title": "Primary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3828,7 +3712,7 @@
     {
       "id": "secondary-road",
       "title": "Secondary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3853,7 +3737,7 @@
     {
       "id": "tertiary-road",
       "title": "Tertiary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3878,7 +3762,7 @@
     {
       "id": "unclassified-road",
       "title": "Unclassified Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3903,7 +3787,7 @@
     {
       "id": "residential-road",
       "title": "Residential Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3932,7 +3816,7 @@
     {
       "id": "living-street",
       "title": "Living Street",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3957,7 +3841,7 @@
     {
       "id": "service-road",
       "title": "Service Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -3986,7 +3870,7 @@
     {
       "id": "track",
       "title": "Track",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4015,7 +3899,7 @@
     {
       "id": "footway",
       "title": "Footway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4044,7 +3928,7 @@
     {
       "id": "cycleway",
       "title": "Cycleway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4073,7 +3957,7 @@
     {
       "id": "path",
       "title": "Path",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4102,7 +3986,7 @@
     {
       "id": "steps",
       "title": "Steps",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4131,7 +4015,7 @@
     {
       "id": "bridleway",
       "title": "Bridleway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4156,7 +4040,7 @@
     {
       "id": "pedestrian-street",
       "title": "Pedestrian Street",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4185,7 +4069,7 @@
     {
       "id": "road",
       "title": "Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4214,7 +4098,7 @@
     {
       "id": "construction-road",
       "title": "Road Under Construction",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4243,7 +4127,7 @@
     {
       "id": "raceway",
       "title": "Raceway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4272,7 +4156,7 @@
     {
       "id": "busway",
       "title": "Busway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4301,7 +4185,7 @@
     {
       "id": "passing-place",
       "title": "Passing Place",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4330,7 +4214,7 @@
     {
       "id": "corridor",
       "title": "Corridor",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4359,7 +4243,7 @@
     {
       "id": "elevator",
       "title": "Elevator",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4388,7 +4272,7 @@
     {
       "id": "trailhead",
       "title": "Trailhead",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -4417,7 +4301,7 @@
     {
       "id": "via-ferrata",
       "title": "Via Ferrata",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -5254,7 +5138,7 @@
     {
       "id": "boatyard",
       "title": "Boatyard",
-      "family": "water",
+      "family": "transport",
       "tags": [
         {
           "key": "waterway",
@@ -5428,7 +5312,7 @@
     {
       "id": "meadow",
       "title": "Meadow",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -5457,7 +5341,7 @@
     {
       "id": "farmland",
       "title": "Farmland",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -5486,7 +5370,7 @@
     {
       "id": "orchard",
       "title": "Orchard",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -5515,7 +5399,7 @@
     {
       "id": "vineyard",
       "title": "Vineyard",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -5544,7 +5428,7 @@
     {
       "id": "allotments",
       "title": "Allotments",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -5567,38 +5451,9 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=allotments"
     },
     {
-      "id": "garden",
-      "title": "Garden",
-      "family": "nature",
-      "tags": [
-        {
-          "key": "leisure",
-          "value": "garden"
-        }
-      ],
-      "description": "A place where flowers and other plants are grown in a decorative and structured manner or for scientific purposes.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SF_Japanese_Garden.JPG/500px-SF_Japanese_Garden.JPG",
-        "title": "File:SF Japanese Garden.JPG",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASF_Japanese_Garden.JPG",
-        "source": "Wikimedia Commons",
-        "author": "snty - tact ( Talk )",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "snty - tact ( Talk )'s file. Taken at Japanese Tea Garden, in San Francisco, California, U.S."
-      },
-      "count": 1585425,
-      "breakdown": {
-        "nodes": 14090,
-        "ways": 1534517,
-        "relations": 36818
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=garden"
-    },
-    {
       "id": "park",
       "title": "Park",
-      "family": "nature",
+      "family": "civic",
       "tags": [
         {
           "key": "leisure",
@@ -6483,64 +6338,6 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=substation"
     },
     {
-      "id": "power-tower",
-      "title": "Power Tower",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "power",
-          "value": "tower"
-        }
-      ],
-      "description": "A tower or pylon carrying high voltage electricity cables. Often constructed from steel latticework but tubular or solid pylons are also used.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Electricity_pylon_DSCI0402.jpg/500px-Electricity_pylon_DSCI0402.jpg",
-        "title": "File:DSCI0402.JPG",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADSCI0402.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Cent9",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "Prywatne zdjęcia"
-      },
-      "count": 18619733,
-      "breakdown": {
-        "nodes": 18619446,
-        "ways": 286,
-        "relations": 1
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=tower"
-    },
-    {
-      "id": "power-pole",
-      "title": "Power Pole",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "power",
-          "value": "pole"
-        }
-      ],
-      "description": "A single pole supporting power lines, often a wood, steel, or concrete mast designed to carry minor power lines.",
-      "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/07335jfPuregold_Estero_Maypajo_Market_J._P._Rizal_Mabini_Streets_Casili_Bridge_Caloocan_Cityfvf_26.jpg/500px-07335jfPuregold_Estero_Maypajo_Market_J._P._Rizal_Mabini_Streets_Casili_Bridge_Caloocan_Cityfvf_26.jpg",
-        "title": "File:07335jfPuregold Estero Maypajo Market J. P. Rizal Mabini Streets Casili Bridge Caloocan Cityfvf 26.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3A07335jfPuregold_Estero_Maypajo_Market_J._P._Rizal_Mabini_Streets_Casili_Bridge_Caloocan_Cityfvf_26.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Judgefloro",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
-      },
-      "count": 21046189,
-      "breakdown": {
-        "nodes": 21046018,
-        "ways": 169,
-        "relations": 2
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=pole"
-    },
-    {
       "id": "wind-turbine",
       "title": "Wind Turbine",
       "family": "landuse",
@@ -6626,122 +6423,6 @@
       "count": 13965,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
-    },
-    {
-      "id": "pipeline",
-      "title": "Pipeline",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "pipeline"
-        }
-      ],
-      "description": "A major pipeline carrying gas, water, oil, etc.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trans-Alaska_Pipeline.jpg/500px-Trans-Alaska_Pipeline.jpg",
-        "title": "File:Trans-Alaska Pipeline.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrans-Alaska_Pipeline.jpg",
-        "source": "Wikimedia Commons",
-        "author": "US Government agent",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.jpo.doi.gov/Photo%20Gallery/index.htm"
-      },
-      "count": 384159,
-      "breakdown": {
-        "nodes": 806,
-        "ways": 383220,
-        "relations": 133
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=pipeline"
-    },
-    {
-      "id": "petroleum-well",
-      "title": "Petroleum Well",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "petroleum_well"
-        }
-      ],
-      "description": "A hole bored in the earth, designed to bring petroleum oil or gas to the surface",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wellhead-dual_completion.jpg/500px-Wellhead-dual_completion.jpg",
-        "title": "File:Wellhead-dual completion.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWellhead-dual_completion.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Dexcel at en.wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transferred from en.wikipedia to Commons by User:Bramfab using CommonsHelper ."
-      },
-      "count": 340991,
-      "breakdown": {
-        "nodes": 328905,
-        "ways": 11727,
-        "relations": 359
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=petroleum_well"
-    },
-    {
-      "id": "chimney",
-      "title": "Chimney",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "chimney"
-        }
-      ],
-      "description": "A tall distinctive vertical conduit for venting hot gases or smoke, normally found near power stations or large factories.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Schwerin_Wuestmark_Heizkraftwerk_Schwerin-Sued.JPG/500px-Schwerin_Wuestmark_Heizkraftwerk_Schwerin-Sued.JPG",
-        "title": "File:Schwerin Wuestmark Heizkraftwerk Schwerin-Sued.JPG",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASchwerin_Wuestmark_Heizkraftwerk_Schwerin-Sued.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Niteshift ( talk )",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Self-photographed"
-      },
-      "count": 118363,
-      "breakdown": {
-        "nodes": 101600,
-        "ways": 16694,
-        "relations": 69
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=chimney"
-    },
-    {
-      "id": "lighthouse",
-      "title": "Lighthouse",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "lighthouse"
-        }
-      ],
-      "description": "Tower that emits light to serve as a navigational aid at sea or on inland waterway",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leuchtturm_roter_sand.jpg/500px-Leuchtturm_roter_sand.jpg",
-        "title": "File:Leuchtturm roter sand.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALeuchtturm_roter_sand.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Markus Jastroch",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
-      },
-      "count": 15075,
-      "breakdown": {
-        "nodes": 11521,
-        "ways": 3530,
-        "relations": 24
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=lighthouse"
     },
     {
       "id": "soccer-pitch",
@@ -7432,35 +7113,6 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=disc_golf_course"
     },
     {
-      "id": "camp-site",
-      "title": "Camp Site",
-      "family": "sports",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "camp_site"
-        }
-      ],
-      "description": "An area where people can camp overnight using tents, camper vans, or caravans.",
-      "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2009-07-26_Ekeberg_Camping.JPG/500px-2009-07-26_Ekeberg_Camping.JPG",
-        "title": "File:2009-07-26 Ekeberg Camping.JPG",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2009-07-26_Ekeberg_Camping.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Nsaa",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
-      },
-      "count": 163449,
-      "breakdown": {
-        "nodes": 105319,
-        "ways": 54994,
-        "relations": 3136
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=camp_site"
-    },
-    {
       "id": "museum",
       "title": "Museum",
       "family": "tourism",
@@ -7834,35 +7486,6 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=theatre"
     },
     {
-      "id": "nightclub",
-      "title": "Nightclub",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "nightclub"
-        }
-      ],
-      "description": "A place to dance and drink at night. Also known as a disco.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gatecrasher.jpg/500px-Gatecrasher.jpg",
-        "title": "File:Gatecrasher.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGatecrasher.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Original uploader was Mushin at en.wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transfered from en.wikipedia"
-      },
-      "count": 24374,
-      "breakdown": {
-        "nodes": 18677,
-        "ways": 5643,
-        "relations": 54
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=nightclub"
-    },
-    {
       "id": "arts-centre",
       "title": "Arts Centre",
       "family": "tourism",
@@ -7921,35 +7544,6 @@
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=fort"
     },
     {
-      "id": "casino",
-      "title": "Casino",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "casino"
-        }
-      ],
-      "description": "A gambling venue with at least one table game.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sahara_Hotel_and_Casino.jpg/500px-Sahara_Hotel_and_Casino.jpg",
-        "title": "File:Sahara Hotel and Casino.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASahara_Hotel_and_Casino.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Antoine Taveneaux",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
-      },
-      "count": 7607,
-      "breakdown": {
-        "nodes": 5162,
-        "ways": 2394,
-        "relations": 51
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=casino"
-    },
-    {
       "id": "zoo",
       "title": "Zoo",
       "family": "tourism",
@@ -7977,64 +7571,6 @@
         "relations": 380
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=zoo"
-    },
-    {
-      "id": "theme-park",
-      "title": "Theme Park",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "theme_park"
-        }
-      ],
-      "description": "An amusement park where entertainment is provided by rides, games, concessions.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sleepingbeautycastle50.jpg",
-        "title": "File:Sleepingbeautycastle50.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASleepingbeautycastle50.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Lyght",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from en.wikipedia to Commons."
-      },
-      "count": 11148,
-      "breakdown": {
-        "nodes": 3490,
-        "ways": 7227,
-        "relations": 431
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=theme_park"
-    },
-    {
-      "id": "picnic-site",
-      "title": "Picnic Site",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "picnic_site"
-        }
-      ],
-      "description": "A locality that is suitable for outdoors eating, with facilities to aid a picnic such as tables and benches.",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Resting_place_at_Nagy-H%C3%A1rs_Hill.jpg/500px-Resting_place_at_Nagy-H%C3%A1rs_Hill.jpg",
-        "title": "File:Resting place at Nagy-Hárs Hill.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AResting_place_at_Nagy-H%C3%A1rs_Hill.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Antissimo",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
-      },
-      "count": 169055,
-      "breakdown": {
-        "nodes": 137917,
-        "ways": 30686,
-        "relations": 452
-      },
-      "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=picnic_site"
     },
     {
       "id": "building",
@@ -8599,6 +8135,470 @@
         "relations": 14
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bbq"
+    },
+    {
+      "id": "food-court",
+      "title": "Food Court",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "food_court"
+        }
+      ],
+      "description": "A place with sit-down facilities shared by multiple self-service food vendors.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FoodCourtVaughanMills.JPG/500px-FoodCourtVaughanMills.JPG",
+        "title": "File:FoodCourtVaughanMills.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFoodCourtVaughanMills.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "credit": "Own work"
+      },
+      "count": 17655,
+      "breakdown": {
+        "nodes": 10318,
+        "ways": 7205,
+        "relations": 132
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=food_court"
+    },
+    {
+      "id": "deli",
+      "title": "Deli",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "deli"
+        }
+      ],
+      "description": "A shop selling delicatessen (fine foods), e.g. cured meat and fish, expensive cheeses, luxury confectionery, etc.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rome_Italian_deli.jpg/500px-Rome_Italian_deli.jpg",
+        "title": "File:Rome Italian deli.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARome_Italian_deli.jpg",
+        "source": "Wikimedia Commons",
+        "author": null,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": null
+      },
+      "count": 27112,
+      "breakdown": {
+        "nodes": 23963,
+        "ways": 3084,
+        "relations": 65
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=deli"
+    },
+    {
+      "id": "confectionery",
+      "title": "Confectionery Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "confectionery"
+        }
+      ],
+      "description": "A shop selling sweets and candies.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sweet_Shop%2C_Chester.JPG/500px-Sweet_Shop%2C_Chester.JPG",
+        "title": "File:Sweet Shop, Chester.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASweet_Shop%2C_Chester.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Rept0n1x",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "credit": "Own work"
+      },
+      "count": 42629,
+      "breakdown": {
+        "nodes": 38102,
+        "ways": 4465,
+        "relations": 62
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=confectionery"
+    },
+    {
+      "id": "cheese-shop",
+      "title": "Cheese Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "cheese"
+        }
+      ],
+      "description": "A shop mainly selling cheese.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cheese_shop_P1010071.JPG/500px-Cheese_shop_P1010071.JPG",
+        "title": "File:Cheese shop P1010071.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACheese_shop_P1010071.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Gizmodesign",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "credit": "Own work"
+      },
+      "count": 7958,
+      "breakdown": {
+        "nodes": 6783,
+        "ways": 1171,
+        "relations": 4
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=cheese"
+    },
+    {
+      "id": "wine-shop",
+      "title": "Wine Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "wine"
+        }
+      ],
+      "description": "Shop selling bottled wine.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wine_retail_area_-_Enoteca_Vino_Bar.jpg/500px-Wine_retail_area_-_Enoteca_Vino_Bar.jpg",
+        "title": "File:Wine retail area - Enoteca Vino Bar.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWine_retail_area_-_Enoteca_Vino_Bar.jpg",
+        "source": "Wikimedia Commons",
+        "author": "Alpha",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "credit": "originally posted to Flickr as Wine retail area - Enoteca Vino Bar"
+      },
+      "count": 22361,
+      "breakdown": {
+        "nodes": 19612,
+        "ways": 2717,
+        "relations": 32
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=wine"
+    },
+    {
+      "id": "pastry-shop",
+      "title": "Pastry Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "pastry"
+        }
+      ],
+      "description": "A shop where sweet bakery products are sold.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lille_Meert2.JPG/500px-Lille_Meert2.JPG",
+        "title": "File:Lille Meert2.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALille_Meert2.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Welleschik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "credit": "Own work"
+      },
+      "count": 35321,
+      "breakdown": {
+        "nodes": 32133,
+        "ways": 3177,
+        "relations": 11
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=pastry"
+    },
+    {
+      "id": "recreation-ground",
+      "title": "Recreation Ground",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "recreation_ground"
+        }
+      ],
+      "description": "An open green space for general recreation, which often includes formal or informal pitches, nets and so on. Often municipally owned, sometimes part of colleges / companies or commercially operated.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG/500px-Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
+        "title": "File:Outdoor gym in Parque de Bateria, Torremolinos.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOutdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Hans Olav Lien",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "credit": "Own work"
+      },
+      "count": 196438,
+      "breakdown": {
+        "nodes": 520,
+        "ways": 190346,
+        "relations": 5572
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=recreation_ground"
+    },
+    {
+      "id": "village-green",
+      "title": "Village Green",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "village_green"
+        }
+      ],
+      "description": "A village green is a distinctive area of grassy public land in a village centre. Not a generic tag for urban greenery.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Village_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg/500px-Village_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg",
+        "title": "File:Village green at Beddgelert - geograph.org.uk - 2945117.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVillage_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg",
+        "source": "Wikimedia Commons",
+        "author": "Trevor Rickard",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "credit": "Geograph Britain and Ireland"
+      },
+      "count": 91476,
+      "breakdown": {
+        "nodes": 166,
+        "ways": 88568,
+        "relations": 2742
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=village_green"
+    },
+    {
+      "id": "farmyard",
+      "title": "Farmyard",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "farmyard"
+        }
+      ],
+      "description": "Area of land with farm buildings (farmhouse, sheds, stables, barns, etc.).",
+      "image": {
+        "url": "https://wiki.openstreetmap.org/w/images/c/c1/Farmyard.jpg",
+        "title": "File:Farmyard.jpg",
+        "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFarmyard.jpg",
+        "source": "OpenStreetMap Wiki",
+        "author": "Allan Walton (1891-1948)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "credit": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=10654"
+      },
+      "count": 1645310,
+      "breakdown": {
+        "nodes": 2141,
+        "ways": 1589343,
+        "relations": 53826
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=farmyard"
+    },
+    {
+      "id": "plant-nursery",
+      "title": "Plant Nursery",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "plant_nursery"
+        }
+      ],
+      "description": "Represents land that is used solely for plant nurseries, which grow live plants.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cutchogue_-_Oregon_Road_-_Plant_Nursery.jpg/500px-Cutchogue_-_Oregon_Road_-_Plant_Nursery.jpg",
+        "title": "File:Cutchogue - Oregon Road - Plant Nursery.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACutchogue_-_Oregon_Road_-_Plant_Nursery.jpg",
+        "source": "Wikimedia Commons",
+        "author": "C. G. P. Grey",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "credit": "[1]"
+      },
+      "count": 79148,
+      "breakdown": {
+        "nodes": 194,
+        "ways": 76661,
+        "relations": 2293
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=plant_nursery"
+    },
+    {
+      "id": "flowerbed",
+      "title": "Flowerbed",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "flowerbed"
+        }
+      ],
+      "description": "An area designated for flowers.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flower_Garden_Kromeriz.jpg/500px-Flower_Garden_Kromeriz.jpg",
+        "title": "File:Flower Garden Kromeriz.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFlower_Garden_Kromeriz.jpg",
+        "source": "Wikimedia Commons",
+        "author": "P.matel",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "credit": "Own work"
+      },
+      "count": 162671,
+      "breakdown": {
+        "nodes": 171,
+        "ways": 160312,
+        "relations": 2188
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=flowerbed"
+    },
+    {
+      "id": "greenfield",
+      "title": "Greenfield",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "greenfield"
+        }
+      ],
+      "description": "Undeveloped land scheduled to turn into a construction site",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Greenfields_-_geograph.org.uk_-_1202824.jpg/500px-Greenfields_-_geograph.org.uk_-_1202824.jpg",
+        "title": "File:Greenfields - geograph.org.uk - 1202824.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGreenfields_-_geograph.org.uk_-_1202824.jpg",
+        "source": "Wikimedia Commons",
+        "author": "Simon Carey",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "credit": "From geograph.org.uk"
+      },
+      "count": 94257,
+      "breakdown": {
+        "nodes": 54,
+        "ways": 91960,
+        "relations": 2243
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=greenfield"
+    },
+    {
+      "id": "ice-rink",
+      "title": "Ice Rink",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "ice_rink"
+        }
+      ],
+      "description": "An artificially created place where you can skate and play bandy or ice hockey.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pista_hielo_bakh.jpg/500px-Pista_hielo_bakh.jpg",
+        "title": "File:Pista hielo bakh.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3APista_hielo_bakh.jpg",
+        "source": "Wikimedia Commons",
+        "author": "Ardo Beltz",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "credit": "Own work"
+      },
+      "count": 10088,
+      "breakdown": {
+        "nodes": 1418,
+        "ways": 8516,
+        "relations": 154
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=ice_rink"
+    },
+    {
+      "id": "rehabilitation-centre",
+      "title": "Rehabilitation Centre",
+      "family": "health",
+      "tags": [
+        {
+          "key": "healthcare",
+          "value": "rehabilitation"
+        }
+      ],
+      "description": "Medical rehabilitation facility, usually inpatient or residential",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Physical_Rehabilitation.png/500px-Physical_Rehabilitation.png",
+        "title": "File:Physical Rehabilitation.png",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3APhysical_Rehabilitation.png",
+        "source": "Wikimedia Commons",
+        "author": "Cabblow",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "credit": "Own work"
+      },
+      "count": 6142,
+      "breakdown": {
+        "nodes": 2950,
+        "ways": 2966,
+        "relations": 226
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=rehabilitation"
+    },
+    {
+      "id": "cape",
+      "title": "Cape",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "cape"
+        }
+      ],
+      "description": "A piece of elevated land sticking out into the sea or large lake.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Provincetown_Spit_Cape_Cod.jpg/500px-Provincetown_Spit_Cape_Cod.jpg",
+        "title": "File:Provincetown Spit Cape Cod.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AProvincetown_Spit_Cape_Cod.jpg",
+        "source": "Wikimedia Commons",
+        "author": "NASA",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "credit": "http://www.nasa.gov/multimedia/imagegallery/image_feature_440.html"
+      },
+      "count": 64749,
+      "breakdown": {
+        "nodes": 63779,
+        "ways": 168,
+        "relations": 802
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=cape"
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "dune"
+        }
+      ],
+      "description": "A hill of sand formed by wind, covered with no or very little vegetation",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/D%C3%BCne_S-Schlag_Sossusvlei.JPG/500px-D%C3%BCne_S-Schlag_Sossusvlei.JPG",
+        "title": "File:Düne S-Schlag Sossusvlei.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File%3AD%C3%BCne_S-Schlag_Sossusvlei.JPG",
+        "source": "Wikimedia Commons",
+        "author": "Harald Süpfle",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "credit": "Own work"
+      },
+      "count": 3681,
+      "breakdown": {
+        "nodes": 2661,
+        "ways": 994,
+        "relations": 26
+      },
+      "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=dune"
     }
   ]
 }

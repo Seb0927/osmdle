@@ -1,9 +1,11 @@
 export type Family =
   | 'civic'
   | 'health'
+  | 'emergency'
   | 'food'
+  | 'shop'
   | 'transport'
-  | 'roads'
+  | 'highway'
   | 'water'
   | 'nature'
   | 'landuse'

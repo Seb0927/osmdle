@@ -288,17 +288,6 @@
       ]
     },
     {
-      "id": "language-school",
-      "title": "Language School",
-      "family": "civic",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "language_school"
-        }
-      ]
-    },
-    {
       "id": "ranger-station",
       "title": "Ranger Station",
       "family": "civic",
@@ -411,7 +400,7 @@
     {
       "id": "defibrillator",
       "title": "Defibrillator",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -422,7 +411,7 @@
     {
       "id": "fire-hydrant",
       "title": "Fire Hydrant",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -433,7 +422,7 @@
     {
       "id": "emergency-phone",
       "title": "Emergency Phone",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -444,7 +433,7 @@
     {
       "id": "ambulance-station",
       "title": "Ambulance Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -455,7 +444,7 @@
     {
       "id": "mountain-rescue",
       "title": "Mountain Rescue Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -466,7 +455,7 @@
     {
       "id": "lifeguard",
       "title": "Lifeguard Station",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -488,7 +477,7 @@
     {
       "id": "fire-extinguisher",
       "title": "Fire Extinguisher",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -497,20 +486,9 @@
       ]
     },
     {
-      "id": "emergency-suction-point",
-      "title": "Emergency Suction Point",
-      "family": "health",
-      "tags": [
-        {
-          "key": "emergency",
-          "value": "suction_point"
-        }
-      ]
-    },
-    {
       "id": "assembly-point",
       "title": "Emergency Assembly Point",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -521,7 +499,7 @@
     {
       "id": "emergency-siren",
       "title": "Emergency Siren",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -532,7 +510,7 @@
     {
       "id": "emergency-access-point",
       "title": "Emergency Access Point",
-      "family": "health",
+      "family": "emergency",
       "tags": [
         {
           "key": "emergency",
@@ -710,7 +688,7 @@
     {
       "id": "mall",
       "title": "Shopping Mall",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -721,7 +699,7 @@
     {
       "id": "department-store",
       "title": "Department Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -732,7 +710,7 @@
     {
       "id": "clothes-shop",
       "title": "Clothing Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -743,7 +721,7 @@
     {
       "id": "hardware-store",
       "title": "Hardware Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -754,7 +732,7 @@
     {
       "id": "electronics-store",
       "title": "Electronics Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -765,7 +743,7 @@
     {
       "id": "florist",
       "title": "Florist",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -776,7 +754,7 @@
     {
       "id": "bookshop",
       "title": "Bookshop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -787,7 +765,7 @@
     {
       "id": "furniture-store",
       "title": "Furniture Store",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -798,7 +776,7 @@
     {
       "id": "sports-shop",
       "title": "Sports Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -809,7 +787,7 @@
     {
       "id": "toy-shop",
       "title": "Toy Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -820,7 +798,7 @@
     {
       "id": "jewelry-shop",
       "title": "Jewelry Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -831,7 +809,7 @@
     {
       "id": "optician",
       "title": "Optician",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -842,7 +820,7 @@
     {
       "id": "hairdresser",
       "title": "Hairdresser",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -853,7 +831,7 @@
     {
       "id": "beauty-shop",
       "title": "Beauty Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -864,7 +842,7 @@
     {
       "id": "laundry",
       "title": "Laundry",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -875,7 +853,7 @@
     {
       "id": "dry-cleaning",
       "title": "Dry Cleaner",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -886,7 +864,7 @@
     {
       "id": "car-repair",
       "title": "Car Repair Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -897,7 +875,7 @@
     {
       "id": "car-parts",
       "title": "Car Parts Shop",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -908,7 +886,7 @@
     {
       "id": "car-rental",
       "title": "Car Rental",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "amenity",
@@ -919,7 +897,7 @@
     {
       "id": "travel-agency",
       "title": "Travel Agency",
-      "family": "food",
+      "family": "shop",
       "tags": [
         {
           "key": "shop",
@@ -930,7 +908,7 @@
     {
       "id": "fuel-station",
       "title": "Fuel Station",
-      "family": "food",
+      "family": "transport",
       "tags": [
         {
           "key": "amenity",
@@ -939,20 +917,9 @@
       ]
     },
     {
-      "id": "pet-shop",
-      "title": "Pet Shop",
-      "family": "food",
-      "tags": [
-        {
-          "key": "shop",
-          "value": "pet"
-        }
-      ]
-    },
-    {
       "id": "hotel",
       "title": "Hotel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -963,7 +930,7 @@
     {
       "id": "motel",
       "title": "Motel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -974,7 +941,7 @@
     {
       "id": "guest-house",
       "title": "Guest House",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -985,7 +952,7 @@
     {
       "id": "hostel",
       "title": "Hostel",
-      "family": "food",
+      "family": "tourism",
       "tags": [
         {
           "key": "tourism",
@@ -1370,7 +1337,7 @@
     {
       "id": "breakwater",
       "title": "Breakwater",
-      "family": "transport",
+      "family": "water",
       "tags": [
         {
           "key": "man_made",
@@ -1386,17 +1353,6 @@
         {
           "key": "amenity",
           "value": "bicycle_repair_station"
-        }
-      ]
-    },
-    {
-      "id": "services",
-      "title": "Motorway Services",
-      "family": "transport",
-      "tags": [
-        {
-          "key": "highway",
-          "value": "services"
         }
       ]
     },
@@ -1436,7 +1392,7 @@
     {
       "id": "motorway",
       "title": "Motorway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1447,7 +1403,7 @@
     {
       "id": "trunk-road",
       "title": "Trunk Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1458,7 +1414,7 @@
     {
       "id": "primary-road",
       "title": "Primary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1469,7 +1425,7 @@
     {
       "id": "secondary-road",
       "title": "Secondary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1480,7 +1436,7 @@
     {
       "id": "tertiary-road",
       "title": "Tertiary Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1491,7 +1447,7 @@
     {
       "id": "unclassified-road",
       "title": "Unclassified Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1502,7 +1458,7 @@
     {
       "id": "residential-road",
       "title": "Residential Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1513,7 +1469,7 @@
     {
       "id": "living-street",
       "title": "Living Street",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1524,7 +1480,7 @@
     {
       "id": "service-road",
       "title": "Service Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1535,7 +1491,7 @@
     {
       "id": "track",
       "title": "Track",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1546,7 +1502,7 @@
     {
       "id": "footway",
       "title": "Footway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1557,7 +1513,7 @@
     {
       "id": "cycleway",
       "title": "Cycleway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1568,7 +1524,7 @@
     {
       "id": "path",
       "title": "Path",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1579,7 +1535,7 @@
     {
       "id": "steps",
       "title": "Steps",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1590,7 +1546,7 @@
     {
       "id": "bridleway",
       "title": "Bridleway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1601,7 +1557,7 @@
     {
       "id": "pedestrian-street",
       "title": "Pedestrian Street",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1612,7 +1568,7 @@
     {
       "id": "road",
       "title": "Road",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1623,7 +1579,7 @@
     {
       "id": "construction-road",
       "title": "Road Under Construction",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1634,7 +1590,7 @@
     {
       "id": "raceway",
       "title": "Raceway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1645,7 +1601,7 @@
     {
       "id": "busway",
       "title": "Busway",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1656,7 +1612,7 @@
     {
       "id": "passing-place",
       "title": "Passing Place",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1667,7 +1623,7 @@
     {
       "id": "corridor",
       "title": "Corridor",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1678,7 +1634,7 @@
     {
       "id": "elevator",
       "title": "Elevator",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1689,7 +1645,7 @@
     {
       "id": "trailhead",
       "title": "Trailhead",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -1700,7 +1656,7 @@
     {
       "id": "via-ferrata",
       "title": "Via Ferrata",
-      "family": "roads",
+      "family": "highway",
       "tags": [
         {
           "key": "highway",
@@ -2051,7 +2007,7 @@
     {
       "id": "boatyard",
       "title": "Boatyard",
-      "family": "water",
+      "family": "transport",
       "tags": [
         {
           "key": "waterway",
@@ -2117,7 +2073,7 @@
     {
       "id": "meadow",
       "title": "Meadow",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -2128,7 +2084,7 @@
     {
       "id": "farmland",
       "title": "Farmland",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -2139,7 +2095,7 @@
     {
       "id": "orchard",
       "title": "Orchard",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -2150,7 +2106,7 @@
     {
       "id": "vineyard",
       "title": "Vineyard",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -2161,7 +2117,7 @@
     {
       "id": "allotments",
       "title": "Allotments",
-      "family": "nature",
+      "family": "landuse",
       "tags": [
         {
           "key": "landuse",
@@ -2170,20 +2126,9 @@
       ]
     },
     {
-      "id": "garden",
-      "title": "Garden",
-      "family": "nature",
-      "tags": [
-        {
-          "key": "leisure",
-          "value": "garden"
-        }
-      ]
-    },
-    {
       "id": "park",
       "title": "Park",
-      "family": "nature",
+      "family": "civic",
       "tags": [
         {
           "key": "leisure",
@@ -2522,28 +2467,6 @@
       ]
     },
     {
-      "id": "power-tower",
-      "title": "Power Tower",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "power",
-          "value": "tower"
-        }
-      ]
-    },
-    {
-      "id": "power-pole",
-      "title": "Power Pole",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "power",
-          "value": "pole"
-        }
-      ]
-    },
-    {
       "id": "wind-turbine",
       "title": "Wind Turbine",
       "family": "landuse",
@@ -2585,50 +2508,6 @@
         {
           "key": "generator:source",
           "value": "hydro"
-        }
-      ]
-    },
-    {
-      "id": "pipeline",
-      "title": "Pipeline",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "pipeline"
-        }
-      ]
-    },
-    {
-      "id": "petroleum-well",
-      "title": "Petroleum Well",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "petroleum_well"
-        }
-      ]
-    },
-    {
-      "id": "chimney",
-      "title": "Chimney",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "chimney"
-        }
-      ]
-    },
-    {
-      "id": "lighthouse",
-      "title": "Lighthouse",
-      "family": "landuse",
-      "tags": [
-        {
-          "key": "man_made",
-          "value": "lighthouse"
         }
       ]
     },
@@ -2929,17 +2808,6 @@
       ]
     },
     {
-      "id": "camp-site",
-      "title": "Camp Site",
-      "family": "sports",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "camp_site"
-        }
-      ]
-    },
-    {
       "id": "museum",
       "title": "Museum",
       "family": "tourism",
@@ -3083,17 +2951,6 @@
       ]
     },
     {
-      "id": "nightclub",
-      "title": "Nightclub",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "nightclub"
-        }
-      ]
-    },
-    {
       "id": "arts-centre",
       "title": "Arts Centre",
       "family": "tourism",
@@ -3116,17 +2973,6 @@
       ]
     },
     {
-      "id": "casino",
-      "title": "Casino",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "amenity",
-          "value": "casino"
-        }
-      ]
-    },
-    {
       "id": "zoo",
       "title": "Zoo",
       "family": "tourism",
@@ -3134,28 +2980,6 @@
         {
           "key": "tourism",
           "value": "zoo"
-        }
-      ]
-    },
-    {
-      "id": "theme-park",
-      "title": "Theme Park",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "theme_park"
-        }
-      ]
-    },
-    {
-      "id": "picnic-site",
-      "title": "Picnic Site",
-      "family": "tourism",
-      "tags": [
-        {
-          "key": "tourism",
-          "value": "picnic_site"
         }
       ]
     },
@@ -3376,6 +3200,182 @@
         {
           "key": "amenity",
           "value": "bbq"
+        }
+      ]
+    },
+    {
+      "id": "food-court",
+      "title": "Food Court",
+      "family": "food",
+      "tags": [
+        {
+          "key": "amenity",
+          "value": "food_court"
+        }
+      ]
+    },
+    {
+      "id": "deli",
+      "title": "Deli",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "deli"
+        }
+      ]
+    },
+    {
+      "id": "confectionery",
+      "title": "Confectionery Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "confectionery"
+        }
+      ]
+    },
+    {
+      "id": "cheese-shop",
+      "title": "Cheese Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "cheese"
+        }
+      ]
+    },
+    {
+      "id": "wine-shop",
+      "title": "Wine Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "wine"
+        }
+      ]
+    },
+    {
+      "id": "pastry-shop",
+      "title": "Pastry Shop",
+      "family": "food",
+      "tags": [
+        {
+          "key": "shop",
+          "value": "pastry"
+        }
+      ]
+    },
+    {
+      "id": "recreation-ground",
+      "title": "Recreation Ground",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "recreation_ground"
+        }
+      ]
+    },
+    {
+      "id": "village-green",
+      "title": "Village Green",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "village_green"
+        }
+      ]
+    },
+    {
+      "id": "farmyard",
+      "title": "Farmyard",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "farmyard"
+        }
+      ]
+    },
+    {
+      "id": "plant-nursery",
+      "title": "Plant Nursery",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "plant_nursery"
+        }
+      ]
+    },
+    {
+      "id": "flowerbed",
+      "title": "Flowerbed",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "flowerbed"
+        }
+      ]
+    },
+    {
+      "id": "greenfield",
+      "title": "Greenfield",
+      "family": "landuse",
+      "tags": [
+        {
+          "key": "landuse",
+          "value": "greenfield"
+        }
+      ]
+    },
+    {
+      "id": "ice-rink",
+      "title": "Ice Rink",
+      "family": "sports",
+      "tags": [
+        {
+          "key": "leisure",
+          "value": "ice_rink"
+        }
+      ]
+    },
+    {
+      "id": "rehabilitation-centre",
+      "title": "Rehabilitation Centre",
+      "family": "health",
+      "tags": [
+        {
+          "key": "healthcare",
+          "value": "rehabilitation"
+        }
+      ]
+    },
+    {
+      "id": "cape",
+      "title": "Cape",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "cape"
+        }
+      ]
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "family": "nature",
+      "tags": [
+        {
+          "key": "natural",
+          "value": "dune"
         }
       ]
     }

@@ -10,20 +10,23 @@ const OUTPUT_PATH = path.join(ROOT, 'data/elements.json')
 const EXPECTED_COUNT = 300
 const MIN_COUNT = 1000
 const NEAR_TIE_RATIO = 1.1
-const VALID_FAMILIES = new Set([
-  'civic',
-  'health',
-  'food',
-  'transport',
-  'roads',
-  'water',
-  'nature',
-  'landuse',
-  'sports',
-  'tourism',
-  'buildings',
-  'street',
-])
+const EXPECTED_FAMILY_COUNTS = {
+  civic: 30,
+  health: 10,
+  emergency: 10,
+  food: 20,
+  shop: 20,
+  transport: 40,
+  highway: 25,
+  water: 30,
+  nature: 25,
+  landuse: 25,
+  sports: 25,
+  tourism: 20,
+  buildings: 10,
+  street: 10,
+}
+const VALID_FAMILIES = new Set(Object.keys(EXPECTED_FAMILY_COUNTS))
 const VALID_IMAGE_PREFIXES = [
   'https://upload.wikimedia.org/',
   'https://thumb.wikimedia.org/',
@@ -229,6 +232,41 @@ async function main() {
         error(`tags for ${element.id} do not match the catalog`)
       }
     }
+
+    const source = catalogById.get(element.id)
+    if (source && source.family !== element.family) {
+      error(`family for ${element.id} does not match the catalog`)
+    }
+  }
+
+  const catalogFamilyCounts = new Map()
+  for (const element of catalogElements) {
+    catalogFamilyCounts.set(element.family, (catalogFamilyCounts.get(element.family) ?? 0) + 1)
+  }
+
+  const outputFamilyCounts = new Map()
+  for (const element of elements) {
+    outputFamilyCounts.set(element.family, (outputFamilyCounts.get(element.family) ?? 0) + 1)
+  }
+
+  for (const [family, expected] of Object.entries(EXPECTED_FAMILY_COUNTS)) {
+    const catalogCount = catalogFamilyCounts.get(family) ?? 0
+    const outputCount = outputFamilyCounts.get(family) ?? 0
+    if (catalogCount !== expected) {
+      error(`catalog family ${family} has ${catalogCount}, expected ${expected}`)
+    }
+    if (outputCount !== expected) {
+      error(`output family ${family} has ${outputCount}, expected ${expected}`)
+    }
+    catalogFamilyCounts.delete(family)
+    outputFamilyCounts.delete(family)
+  }
+
+  for (const family of catalogFamilyCounts.keys()) {
+    error(`catalog has unexpected family ${family}`)
+  }
+  for (const family of outputFamilyCounts.keys()) {
+    error(`output has unexpected family ${family}`)
   }
 
   for (let a = 0; a < elements.length; a += 1) {

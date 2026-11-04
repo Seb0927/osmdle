@@ -16,7 +16,9 @@
   --family-water: #4d80b3;
   --family-civic: #734a08;
   --family-food: #c77400;
+  --family-shop: #0f766e;
   --family-health: #bf0000;
+  --family-emergency: #cf4813;
   --family-transport: #0092da;
   --family-roads: #545454;
   --family-landuse: #759e6c;
@@ -43,7 +45,9 @@
     --family-water: #82badf;
     --family-civic: #d7a96a;
     --family-food: #f0a94a;
+    --family-shop: #5eead4;
     --family-health: #f07f7f;
+    --family-emergency: #ffbc75;
     --family-transport: #55bdec;
     --family-roads: #b9b9b9;
     --family-landuse: #b7cc8a;
@@ -133,9 +137,19 @@ body {
   --family-icon: url("/images/family/food.svg");
 }
 
+[data-family="shop"] {
+  --family-color: var(--family-shop);
+  --family-icon: url("/images/family/shop.svg");
+}
+
 [data-family="health"] {
   --family-color: var(--family-health);
   --family-icon: url("/images/family/health.svg");
+}
+
+[data-family="emergency"] {
+  --family-color: var(--family-emergency);
+  --family-icon: url("/images/family/emergency.svg");
 }
 
 [data-family="transport"] {
@@ -143,7 +157,7 @@ body {
   --family-icon: url("/images/family/transport.svg");
 }
 
-[data-family="roads"] {
+[data-family="highway"] {
   --family-color: var(--family-roads);
   --family-icon: url("/images/family/roads.svg");
 }
