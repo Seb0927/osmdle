@@ -42,8 +42,8 @@ export default function AttributionsPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
       <ContentCard>
-        <h1 className="font-heading font-semibold text-3xl tracking-tight">Attributions</h1>
-        <div className="mt-6 space-y-4 text-muted text-sm leading-6">
+        <h1 className="font-heading text-3xl font-semibold tracking-tight">Attributions</h1>
+        <div className="mt-6 space-y-4 text-sm leading-6 text-muted">
           <p>
             OpenStreetMap data is © OpenStreetMap contributors, available under the Open Data
             Commons Open Database License (ODbL). The game background uses OpenStreetMap map
@@ -104,7 +104,7 @@ export default function AttributionsPage() {
         <Disclosure className="mt-8" summary={`Image credits (${creditedImages.length})`}>
           <ul className="mt-4 space-y-3">
             {creditedImages.map(({ id, title, image }) => (
-              <li className="text-muted text-xs leading-5" key={id}>
+              <li className="text-xs leading-5 text-muted" key={id}>
                 {image.pageUrl ? (
                   <a
                     className="font-medium text-foreground hover:underline"
@@ -127,7 +127,7 @@ export default function AttributionsPage() {
         </Disclosure>
 
         <Disclosure className="mt-4" summary={`Sound credits (${creditedSounds.length})`}>
-          <p className="mt-4 text-muted text-xs leading-5">
+          <p className="mt-4 text-xs leading-5 text-muted">
             Sound effects are from{' '}
             <a
               className="text-accent hover:underline"
@@ -141,7 +141,7 @@ export default function AttributionsPage() {
           </p>
           <ul className="mt-3 space-y-3">
             {creditedSounds.map(({ author, title, url }) => (
-              <li className="text-muted text-xs leading-5" key={url}>
+              <li className="text-xs leading-5 text-muted" key={url}>
                 <a
                   className="font-medium text-foreground hover:underline"
                   href={url}

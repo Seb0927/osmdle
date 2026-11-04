@@ -14,8 +14,8 @@ export default function AboutPage() {
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
       <ContentCard>
-        <h1 className="font-heading font-semibold text-3xl tracking-tight">About Osmdle</h1>
-        <div className="mt-6 space-y-4 text-muted text-sm leading-6">
+        <h1 className="font-heading text-3xl font-semibold tracking-tight">About Osmdle</h1>
+        <div className="mt-6 space-y-4 text-sm leading-6 text-muted">
           <p>
             Osmdle is a higher/lower{' '}
             <a
@@ -51,7 +51,7 @@ export default function AboutPage() {
             <span aria-hidden="true">(ﾉ◕ヮ◕)ﾉ</span>.
           </p>
         </div>
-        <Link className="mt-8 inline-flex font-medium text-accent text-sm hover:underline" href="/">
+        <Link className="mt-8 inline-flex text-sm font-medium text-accent hover:underline" href="/">
           Back to the game
         </Link>
       </ContentCard>

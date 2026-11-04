@@ -55,7 +55,7 @@ export function SiteHeader() {
             aria-controls="site-menu"
             aria-expanded={isOpen}
             aria-label={isOpen ? 'Close menu' : 'Open menu'}
-            className="inline-flex size-9 items-center justify-center rounded-md text-foreground hover:bg-subtle focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+            className="inline-flex size-9 items-center justify-center rounded-md text-foreground hover:bg-subtle focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none"
             onClick={() => setIsOpen((open) => !open)}
             ref={buttonRef}
             type="button"
@@ -82,7 +82,7 @@ export function SiteHeader() {
             >
               {links.map((link) => (
                 <Link
-                  className="block rounded-md px-3 py-2 text-foreground text-sm hover:bg-subtle"
+                  className="block rounded-md px-3 py-2 text-sm text-foreground hover:bg-subtle"
                   href={link.href}
                   key={link.href}
                   onClick={() => setIsOpen(false)}

@@ -9,7 +9,7 @@ interface DisclosureProps {
 export function Disclosure({ summary, children, className }: DisclosureProps) {
   return (
     <details className={`rounded-lg border border-border p-4 ${className ?? ''}`}>
-      <summary className="cursor-pointer font-medium text-sm">{summary}</summary>
+      <summary className="cursor-pointer text-sm font-medium">{summary}</summary>
       {children}
     </details>
   )

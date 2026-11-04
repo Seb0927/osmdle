@@ -6,12 +6,12 @@ export default function NotFound() {
     <div className="mx-auto flex w-full max-w-2xl flex-1 flex-col items-center justify-center px-4 py-20 text-center">
       <div className="w-full max-w-md">
         <ContentCard>
-          <p className="font-medium text-accent text-sm">404</p>
-          <h1 className="mt-2 font-heading font-semibold text-3xl tracking-tight">
+          <p className="text-sm font-medium text-accent">404</p>
+          <h1 className="font-heading mt-2 text-3xl font-semibold tracking-tight">
             Page not found
           </h1>
-          <p className="mt-3 text-muted text-sm">That page does not exist.</p>
-          <Link className="mt-6 font-medium text-accent text-sm hover:underline" href="/">
+          <p className="mt-3 text-sm text-muted">That page does not exist.</p>
+          <Link className="mt-6 text-sm font-medium text-accent hover:underline" href="/">
             Back to the game
           </Link>
         </ContentCard>

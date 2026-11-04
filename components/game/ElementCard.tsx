@@ -49,7 +49,7 @@ export function ElementCard({
     // for double-tap zoom.
     <button
       aria-label={ariaLabel}
-      className="card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border border-border bg-surface px-4 pt-7 pb-10 text-center shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent enabled:hover:shadow-xl disabled:cursor-default motion-safe:enabled:active:scale-95 motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 sm:px-6 sm:pt-8 sm:pb-12"
+      className="card-grid card-ratio family-frame relative w-full touch-manipulation place-items-center overflow-hidden rounded-2xl border border-border bg-surface px-4 pt-7 pb-10 text-center shadow-sm transition duration-200 ease-out focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none enabled:hover:shadow-xl disabled:cursor-default motion-safe:focus-visible:scale-105 motion-safe:enabled:hover:-translate-y-1 motion-safe:enabled:hover:scale-105 motion-safe:enabled:active:scale-95 sm:px-6 sm:pt-8 sm:pb-12"
       data-family={element.family}
       disabled={disabled}
       onClick={onSelect}
@@ -61,11 +61,11 @@ export function ElementCard({
           {state === 'correct' ? 'Correct' : 'Incorrect'}
         </span>
       ) : null}
-      <h2 className="line-clamp-2 w-full text-balance font-heading font-semibold text-lg tracking-tight sm:text-xl">
+      <h2 className="font-heading line-clamp-2 w-full text-lg font-semibold tracking-tight text-balance sm:text-xl">
         {element.title}
       </h2>
       <div className="mt-4 flex min-h-18 w-full items-center">
-        <p className="line-clamp-3 w-full text-pretty text-muted text-sm leading-6">
+        <p className="line-clamp-3 w-full text-sm leading-6 text-pretty text-muted">
           {element.description}
         </p>
       </div>
@@ -82,18 +82,18 @@ export function ElementCard({
             unoptimized
           />
         ) : (
-          <div className="flex size-full items-center justify-center text-muted text-sm">
+          <div className="flex size-full items-center justify-center text-sm text-muted">
             No image
           </div>
         )}
       </div>
       <div className="flex flex-col items-center pt-4">
-        <div className="font-semibold text-3xl tabular-nums sm:text-4xl">{count}</div>
-        <div className="mt-1 font-medium text-muted text-xs uppercase tracking-widest">
+        <div className="text-3xl font-semibold tabular-nums sm:text-4xl">{count}</div>
+        <div className="mt-1 text-xs font-medium tracking-widest text-muted uppercase">
           Elements
         </div>
         <span
-          className="family-badge mt-4 inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 font-semibold text-xs uppercase tracking-widest"
+          className="family-badge mt-4 inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-xs font-semibold tracking-widest uppercase"
           data-family={element.family}
         >
           <span aria-hidden="true" className="family-badge-icon size-3 shrink-0" />
@@ -102,7 +102,7 @@ export function ElementCard({
       </div>
       <span
         aria-hidden="true"
-        className="pointer-events-none absolute right-4 bottom-3 max-w-48 truncate text-right font-heading font-medium text-muted text-xs tracking-wide opacity-80 sm:right-4 sm:bottom-3 md:hidden"
+        className="font-heading pointer-events-none absolute right-4 bottom-3 max-w-48 truncate text-right text-xs font-medium tracking-wide text-muted opacity-80 sm:right-4 sm:bottom-3 md:hidden"
       >
         {element.title}
       </span>

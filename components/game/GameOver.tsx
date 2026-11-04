@@ -72,27 +72,27 @@ export function GameOver({
       role="dialog"
     >
       <div className="w-full max-w-sm rounded-xl border border-border bg-surface p-6 text-center shadow-xl">
-        <h2 className="font-heading font-semibold text-2xl tracking-tight" id="game-over-title">
+        <h2 className="font-heading text-2xl font-semibold tracking-tight" id="game-over-title">
           {newRecord ? 'Best streak!' : 'Game over'}
         </h2>
-        <p className="mt-4 font-semibold text-3xl tracking-tight">Streak {streak}</p>
+        <p className="mt-4 text-3xl font-semibold tracking-tight">Streak {streak}</p>
         {newRecord ? (
           previousBest > 0 ? (
-            <p className="mt-1 text-muted text-sm">Previous best {previousBest}</p>
+            <p className="mt-1 text-sm text-muted">Previous best {previousBest}</p>
           ) : null
         ) : (
-          <p className="mt-1 text-muted text-sm">Best streak {bestStreak}</p>
+          <p className="mt-1 text-sm text-muted">Best streak {bestStreak}</p>
         )}
         <div className="mt-6 flex flex-col gap-2">
           <button
-            className="rounded-md bg-accent px-4 py-2 font-medium text-accent-foreground text-sm hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+            className="rounded-md bg-accent px-4 py-2 text-sm font-medium text-accent-foreground hover:opacity-90 focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none"
             onClick={handleShare}
             type="button"
           >
             {copied ? 'Copied!' : 'Share result'}
           </button>
           <button
-            className="rounded-md border border-border px-4 py-2 font-medium text-foreground text-sm hover:bg-subtle focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+            className="rounded-md border border-border px-4 py-2 text-sm font-medium text-foreground hover:bg-subtle focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none"
             onClick={(event) => onRestart(event.detail === 0)}
             ref={playAgainRef}
             type="button"

@@ -164,7 +164,7 @@ function GameSkeleton() {
           <div className="max-md:absolute max-md:inset-0 max-md:z-20 max-md:-rotate-1 md:relative md:w-full md:max-w-sm">
             <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
           </div>
-          <div className="max-md:absolute max-md:inset-0 max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:rotate-2 max-md:scale-95 md:relative md:w-full md:max-w-sm">
+          <div className="max-md:absolute max-md:inset-0 max-md:z-0 max-md:translate-x-8 max-md:translate-y-4 max-md:scale-95 max-md:rotate-2 md:relative md:w-full md:max-w-sm">
             <div className="card-ratio size-full animate-pulse rounded-2xl border border-border bg-subtle" />
           </div>
         </div>
@@ -425,17 +425,17 @@ export function Game() {
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col px-4 pt-7 pb-8 sm:px-6">
       <div className="flex justify-center">
         <div className={recordRun ? 'streak-aura streak-aura-fire' : 'streak-aura'}>
-          <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-muted text-xs tracking-wide shadow-sm">
+          <div className="inline-flex items-center gap-3 rounded-full border border-border bg-surface px-3 py-1 text-xs tracking-wide text-muted shadow-sm">
             <span data-testid="streak">Streak {state.streak}</span>
             <span aria-hidden="true">·</span>
             <span data-testid="best-streak">Best {state.bestStreak}</span>
           </div>
         </div>
       </div>
-      <h1 className="mt-4 text-center font-heading font-semibold text-2xl tracking-tight sm:text-3xl">
+      <h1 className="font-heading mt-4 text-center text-2xl font-semibold tracking-tight sm:text-3xl">
         Which has more elements?
       </h1>
-      <p className="mt-2 text-center text-muted text-xs sm:text-sm">
+      <p className="mt-2 text-center text-xs text-muted sm:text-sm">
         Pick the feature with more elements mapped in OpenStreetMap.
       </p>
       <p aria-atomic="true" aria-live="polite" className="sr-only">
@@ -486,7 +486,7 @@ export function Game() {
             {state.phase === 'answering' ? (
               <button
                 aria-label={`Show ${(frontSide === 'left' ? right : left).title}`}
-                className="absolute top-0 -right-8 -bottom-4 left-0 z-10 rounded-2xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent md:hidden"
+                className="absolute top-0 -right-8 -bottom-4 left-0 z-10 rounded-2xl focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none md:hidden"
                 onClick={handlePeek}
                 type="button"
               />
