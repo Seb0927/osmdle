@@ -486,7 +486,7 @@ export function Game() {
             {state.phase === 'answering' ? (
               <button
                 aria-label={`Show ${(frontSide === 'left' ? right : left).title}`}
-                className="absolute top-0 -right-8 -bottom-4 left-0 z-10 rounded-2xl focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none md:hidden"
+                className="absolute top-0 -right-8 -bottom-10 left-0 z-10 rounded-2xl focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none md:hidden"
                 onClick={handlePeek}
                 type="button"
               />
