@@ -64,12 +64,12 @@ export function ElementCard({
       <h2 className="font-heading line-clamp-2 w-full text-lg font-semibold tracking-tight text-balance sm:text-xl">
         {element.title}
       </h2>
-      <div className="mt-4 flex min-h-18 w-full items-center">
+      <div className="mt-2 flex min-h-18 w-full items-center md:mt-4">
         <p className="line-clamp-3 w-full text-sm leading-6 text-pretty text-muted">
           {element.description}
         </p>
       </div>
-      <div className="card-image-ratio relative w-7/10 shrink-0 overflow-hidden rounded-lg bg-subtle">
+      <div className="card-image-ratio relative mt-4 max-h-full w-7/10 shrink-0 overflow-hidden rounded-lg bg-subtle md:mt-0">
         {showImage && imageUrl ? (
           <Image
             alt={element.image?.title ?? element.title}
@@ -87,7 +87,7 @@ export function ElementCard({
           </div>
         )}
       </div>
-      <div className="flex flex-col items-center pt-4">
+      <div className="mt-4 flex flex-col items-center">
         <div className="text-3xl font-semibold tabular-nums sm:text-4xl">{count}</div>
         <div className="mt-1 text-xs font-medium tracking-widest text-muted uppercase">
           Elements
