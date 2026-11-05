@@ -11,9 +11,11 @@ export const metadata: Metadata = {
   alternates: { canonical: absoluteUrl('/attributions/') },
 }
 
-const creditedImages = data.elements.flatMap((element) =>
-  element.image ? [{ id: element.id, title: element.title, image: element.image }] : [],
-)
+const creditedImages = data.elements
+  .flatMap((element) =>
+    element.image ? [{ id: element.id, title: element.title, image: element.image }] : [],
+  )
+  .toSorted((a, b) => a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }))
 
 const creditedSounds = [
   {
