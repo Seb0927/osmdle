@@ -261,7 +261,7 @@ async function main() {
         warnings.push(`${label}: small count ${count.count}`)
       }
 
-      if (!element.shortDescription && !wiki?.description) {
+      if (!wiki?.description) {
         warnings.push(`${label}: no wiki description`)
       }
 
@@ -281,7 +281,7 @@ async function main() {
         title: element.title,
         family: element.family,
         tags,
-        description: element.shortDescription ?? wiki?.description ?? element.title,
+        description: wiki?.description ?? `${element.title} (No description available)`,
         image: wiki?.image ?? null,
         count: count.count,
         breakdown: count.breakdown,

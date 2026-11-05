@@ -571,8 +571,7 @@
           "key": "amenity",
           "value": "bar"
         }
-      ],
-      "shortDescription": "A bar is a place that primarily serves alcoholic drinks."
+      ]
     },
     {
       "id": "pub",
@@ -583,8 +582,7 @@
           "key": "amenity",
           "value": "pub"
         }
-      ],
-      "shortDescription": "A pub is an establishment that serves alcoholic drinks and food."
+      ]
     },
     {
       "id": "biergarten",

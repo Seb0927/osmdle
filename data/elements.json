@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "snapshot": "2026-11",
-  "generatedAt": "2026-11-05T03:47:54.352Z",
+  "generatedAt": "2026-11-05T13:05:05.350Z",
   "source": {
     "name": "Taginfo",
     "url": "https://taginfo.openstreetmap.org",
-    "dataUntil": "2026-11-04T00:59:30Z"
+    "dataUntil": "2026-11-05T00:59:32Z"
   },
   "elements": [
     {
@@ -1293,7 +1293,7 @@
           "value": "bar"
         }
       ],
-      "description": "A bar is a place that primarily serves alcoholic drinks.",
+      "description": "An establishment in a modern style serving alcoholic drinks, mainly to customers standing around the bar.",
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/HK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restaurant_bar_table_n_chairs_n_tender_Oct-2011.jpg/500px-HK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restaurant_bar_table_n_chairs_n_tender_Oct-2011.jpg",
         "title": "File:HK Central 擺花街 Lyndhurst Terrace sidewalk restuarant bar table n chairs n tender Oct-2011.jpg",
@@ -1318,7 +1318,7 @@
           "value": "pub"
         }
       ],
-      "description": "A pub is an establishment that serves alcoholic drinks and food.",
+      "description": "An establishment in a traditional style that serves alcoholic drinks and food, mainly to customers sitting at the tables.",
       "image": {
         "url": "https://wiki.openstreetmap.org/w/images/2/2e/Pub.jpg",
         "title": "File:Pub.jpg",
