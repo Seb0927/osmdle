@@ -96,8 +96,30 @@ export default function AttributionsPage() {
             {data.source.dataUntil ? ` (data until ${data.source.dataUntil.slice(0, 10)})` : ''}.
           </p>
           <p>
+            Tag descriptions are from the{' '}
+            <a
+              className="text-accent hover:underline"
+              href="https://wiki.openstreetmap.org"
+              rel="noreferrer"
+              target="_blank"
+            >
+              OpenStreetMap Wiki
+            </a>
+            , © OpenStreetMap Wiki contributors, available under{' '}
+            <a
+              className="text-accent hover:underline"
+              href="https://creativecommons.org/licenses/by-sa/2.0/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              CC BY-SA 2.0
+            </a>
+            .
+          </p>
+          <p>
             Example images are hotlinked from Wikimedia Commons and the OpenStreetMap Wiki. Each
-            credit links to the source page. Licenses are shown where the source provides them.
+            image links to its source page, where the available author and license information is
+            listed.
           </p>
         </div>
 
@@ -105,6 +127,7 @@ export default function AttributionsPage() {
           <ul className="mt-4 space-y-3">
             {creditedImages.map(({ id, title, image }) => (
               <li className="text-xs leading-5 text-muted" key={id}>
+                {title} ·{' '}
                 {image.pageUrl ? (
                   <a
                     className="font-medium text-foreground hover:underline"
@@ -112,15 +135,13 @@ export default function AttributionsPage() {
                     rel="noreferrer"
                     target="_blank"
                   >
-                    {image.title ?? title}
+                    {image.title ?? 'Unnamed file'}
                   </a>
                 ) : (
-                  <span className="font-medium text-foreground">{image.title ?? title}</span>
+                  <span className="font-medium text-foreground">
+                    {image.title ?? 'Unnamed file'}
+                  </span>
                 )}
-                <span>
-                  {' '}
-                  Credit: {image.author ?? 'Unknown author'} · {image.license ?? 'See source page'}
-                </span>
               </li>
             ))}
           </ul>

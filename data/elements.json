@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshot": "2026-11",
-  "generatedAt": "2026-11-04T20:33:10.112Z",
+  "generatedAt": "2026-11-05T03:47:54.352Z",
   "source": {
     "name": "Taginfo",
     "url": "https://taginfo.openstreetmap.org",
@@ -23,11 +23,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/St%C4%85pork%C3%B3w%2C_Szko%C5%82a_Podstawowa_nr_2.jpg/500px-St%C4%85pork%C3%B3w%2C_Szko%C5%82a_Podstawowa_nr_2.jpg",
         "title": "File:Stąporków, Szkoła Podstawowa nr 2.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASt%C4%85pork%C3%B3w%2C_Szko%C5%82a_Podstawowa_nr_2.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Urząd Miejski w Stąporkowie",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Praca wykonana na zlecenie"
+        "source": "Wikimedia Commons"
       },
       "count": 1451104,
       "breakdown": {
@@ -52,11 +48,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AF-kindergarten.jpg",
         "title": "File:AF-kindergarten.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAF-kindergarten.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Gary Cook, USAID",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "USAID - Out of the Shadows: Women in Afghan Society"
+        "source": "Wikimedia Commons"
       },
       "count": 340391,
       "breakdown": {
@@ -81,11 +73,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cambridge_Regional_College_main_entrance.jpg/500px-Cambridge_Regional_College_main_entrance.jpg",
         "title": "File:Cambridge Regional College main entrance.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambridge_Regional_College_main_entrance.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Cmglee",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 72075,
       "breakdown": {
@@ -110,11 +98,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Manchester_University_Oxford_Road_-_50140147893.jpg/500px-Manchester_University_Oxford_Road_-_50140147893.jpg",
         "title": "File:Manchester University Oxford Road - 50140147893.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AManchester_University_Oxford_Road_-_50140147893.jpg",
-        "source": "Wikimedia Commons",
-        "author": "citysuitesimages",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "https://www.flickr.com/photos/189410688@N07/50140147893/"
+        "source": "Wikimedia Commons"
       },
       "count": 58263,
       "breakdown": {
@@ -139,11 +123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Guantanamo_captives%27_library_a.jpg/500px-Guantanamo_captives%27_library_a.jpg",
         "title": "File:Guantanamo captives' library a.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGuantanamo_captives'_library_a.jpg",
-        "source": "Wikimedia Commons",
-        "author": "DoD",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.defenselink.mil/pubs/pdfs/App12_Pt10.pdf"
+        "source": "Wikimedia Commons"
       },
       "count": 113435,
       "breakdown": {
@@ -168,11 +148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/TownHall-Ljubljana.JPG/500px-TownHall-Ljubljana.JPG",
         "title": "File:TownHall-Ljubljana.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATownHall-Ljubljana.JPG",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Žiga assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 178486,
       "breakdown": {
@@ -197,11 +173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Meade_and_Prettyman_Courthouse.jpg/500px-Meade_and_Prettyman_Courthouse.jpg",
         "title": "File:Meade and Prettyman Courthouse.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMeade_and_Prettyman_Courthouse.jpg",
-        "source": "Wikimedia Commons",
-        "author": "AgnosticPreachersKid",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 32195,
       "breakdown": {
@@ -226,11 +198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Post_office_Wenigzell%2C_Styria.jpg/500px-Post_office_Wenigzell%2C_Styria.jpg",
         "title": "File:Post office Wenigzell, Styria.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APost_office_Wenigzell%2C_Styria.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Herzi Pinki",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 218117,
       "breakdown": {
@@ -255,11 +223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USPS_Mailbox.jpg/500px-USPS_Mailbox.jpg",
         "title": "File:USPS Mailbox.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUSPS_Mailbox.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Iain Laurence",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 414115,
       "breakdown": {
@@ -284,11 +248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Met_Police_Blue_Lamp.jpg/500px-Met_Police_Blue_Lamp.jpg",
         "title": "File:Met Police Blue Lamp.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMet_Police_Blue_Lamp.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Canley",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 163347,
       "breakdown": {
@@ -313,11 +273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tower_Ladder_119_26_Hooper_St_jeh.jpg/500px-Tower_Ladder_119_26_Hooper_St_jeh.jpg",
         "title": "File:Tower Ladder 119 26 Hooper St jeh.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATower_Ladder_119_26_Hooper_St_jeh.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Jim.henderson",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 148719,
       "breakdown": {
@@ -342,11 +298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Buergerhaus_Ronhausen.jpg/500px-Buergerhaus_Ronhausen.jpg",
         "title": "File:Buergerhaus Ronhausen.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABuergerhaus_Ronhausen.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Hydro",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 222754,
       "breakdown": {
@@ -396,11 +348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Immeuble_du_Cr%C3%A9dit_Lyonnais_%28si%C3%A8ge%29.jpg/500px-Immeuble_du_Cr%C3%A9dit_Lyonnais_%28si%C3%A8ge%29.jpg",
         "title": "File:Immeuble du Crédit Lyonnais (siège).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AImmeuble_du_Cr%C3%A9dit_Lyonnais_(si%C3%A8ge).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Renaud d'Avout",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 412832,
       "breakdown": {
@@ -425,11 +373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fr%C3%BCher_Bankautomat_von_Nixdorf_retouched.jpg/500px-Fr%C3%BCher_Bankautomat_von_Nixdorf_retouched.jpg",
         "title": "File:Früher Bankautomat von Nixdorf retouched.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFr%C3%BCher_Bankautomat_von_Nixdorf_retouched.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 244153,
       "breakdown": {
@@ -454,11 +398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jewish_cemetery_Worms.jpg/500px-Jewish_cemetery_Worms.jpg",
         "title": "File:Jewish cemetery Worms.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJewish_cemetery_Worms.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. PanchoS assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 603628,
       "breakdown": {
@@ -508,11 +448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hora_Svate_Kateriny_-_nursing_home.jpg/500px-Hora_Svate_Kateriny_-_nursing_home.jpg",
         "title": "File:Hora Svate Kateriny - nursing home.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHora_Svate_Kateriny_-_nursing_home.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Jirka Dl",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 12088,
       "breakdown": {
@@ -537,11 +473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Driving_school_in_Bia%C5%82ystok_%28Mechaniak%29.jpg/500px-Driving_school_in_Bia%C5%82ystok_%28Mechaniak%29.jpg",
         "title": "File:Driving school in Białystok (Mechaniak).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADriving_school_in_Bia%C5%82ystok_(Mechaniak).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Henryk Borawski",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 35724,
       "breakdown": {
@@ -566,11 +498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Salvation_Army_Citadel%2C_Hill_Street_%2C_Newport_-_geograph.org.uk_-_1585015.jpg/500px-Salvation_Army_Citadel%2C_Hill_Street_%2C_Newport_-_geograph.org.uk_-_1585015.jpg",
         "title": "File:Salvation Army Citadel, Hill Street , Newport - geograph.org.uk - 1585015.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASalvation_Army_Citadel%2C_Hill_Street_%2C_Newport_-_geograph.org.uk_-_1585015.jpg",
-        "source": "Wikimedia Commons",
-        "author": "John Grayson",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 181552,
       "breakdown": {
@@ -595,11 +523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/USMC-13550.jpg/500px-USMC-13550.jpg",
         "title": "File:USMC-13550.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUSMC-13550.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.marines.mil/unit/mcbquantico/PublishingImages/2005/CHILDCARE.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 76807,
       "breakdown": {
@@ -624,11 +548,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Obama_standing_in_the_Oval_Office.jpg/500px-Obama_standing_in_the_Oval_Office.jpg",
         "title": "File:Obama standing in the Oval Office.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AObama_standing_in_the_Oval_Office.jpg",
-        "source": "Wikimedia Commons",
-        "author": "whitehouse.gov (Transferred by Bill william compton /Originally uploaded by Podlover98 )",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "whitehouse.gov (Originally uploaded on en.wikipedia)"
+        "source": "Wikimedia Commons"
       },
       "count": 309549,
       "breakdown": {
@@ -653,11 +573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Melbourne_Conference_Centre_December_2012.JPG/500px-Melbourne_Conference_Centre_December_2012.JPG",
         "title": "File:Melbourne Conference Centre December 2012.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMelbourne_Conference_Centre_December_2012.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Nick-D",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 7475,
       "breakdown": {
@@ -682,11 +598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Governor_Hotel%2C_Rotary_Club_of_Portland_plaque.JPG/500px-Governor_Hotel%2C_Rotary_Club_of_Portland_plaque.JPG",
         "title": "File:Governor Hotel, Rotary Club of Portland plaque.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGovernor_Hotel%2C_Rotary_Club_of_Portland_plaque.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Another Believer",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 15330,
       "breakdown": {
@@ -711,11 +623,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Niles_Banquet_Hall_2662_02.JPG/500px-Niles_Banquet_Hall_2662_02.JPG",
         "title": "File:Niles Banquet Hall 2662 02.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANiles_Banquet_Hall_2662_02.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Pedro Xing",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 36887,
       "breakdown": {
@@ -740,11 +648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Music_school_from_Rabnita_%281980%29._%289196267787%29.jpg/500px-Music_school_from_Rabnita_%281980%29._%289196267787%29.jpg",
         "title": "File:Music school from Rabnita (1980). (9196267787).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMusic_school_from_Rabnita_(1980)._(9196267787).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ion Chibzii from Chisinau. , Moldova.",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Music school from Rabnita (1980)."
+        "source": "Wikimedia Commons"
       },
       "count": 13924,
       "breakdown": {
@@ -769,11 +673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eagle_Ranger_Station_NRHP_07000713_Clallam_County%2C_WA.jpg/500px-Eagle_Ranger_Station_NRHP_07000713_Clallam_County%2C_WA.jpg",
         "title": "File:Eagle Ranger Station NRHP 07000713 Clallam County, WA.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEagle_Ranger_Station_NRHP_07000713_Clallam_County%2C_WA.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Jon Roanhaus",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 5109,
       "breakdown": {
@@ -798,11 +698,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Osaka_keimusho.jpg/500px-Osaka_keimusho.jpg",
         "title": "File:Osaka keimusho.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOsaka_keimusho.jpg",
-        "source": "Wikimedia Commons",
-        "author": "KENPEI",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 15580,
       "breakdown": {
@@ -852,11 +748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hospital_Distrital_de_Chaves_-_02.jpg/500px-Hospital_Distrital_de_Chaves_-_02.jpg",
         "title": "File:Hospital Distrital de Chaves - 02.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHospital_Distrital_de_Chaves_-_02.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Reis Quarteu",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 217685,
       "breakdown": {
@@ -906,11 +798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Doctors_stethoscope_2.jpg/500px-Doctors_stethoscope_2.jpg",
         "title": "File:Doctors stethoscope 2.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADoctors_stethoscope_2.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Stethoscopes",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 209688,
       "breakdown": {
@@ -935,11 +823,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Military_dentists_in_Guatemala.jpg/500px-Military_dentists_in_Guatemala.jpg",
         "title": "File:Military dentists in Guatemala.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMilitary_dentists_in_Guatemala.jpg",
-        "source": "Wikimedia Commons",
-        "author": "U.S. Air Force photo by Master Sgt. Ruby Zarzyczny",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.offutt.af.mil/shared/media/photodb/photos/050426-F-9999Z-001.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 161816,
       "breakdown": {
@@ -964,11 +848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boots_The_Chemist_At_Gunwharf_Quays.jpg/500px-Boots_The_Chemist_At_Gunwharf_Quays.jpg",
         "title": "File:Boots The Chemist At Gunwharf Quays.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABoots_The_Chemist_At_Gunwharf_Quays.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Unisouth",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 443135,
       "breakdown": {
@@ -993,11 +873,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Veterinary_Surgeon.jpg/500px-Veterinary_Surgeon.jpg",
         "title": "File:Veterinary Surgeon.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVeterinary_Surgeon.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Andrew Dunn",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "http://www.andrewdunnphoto.com/"
+        "source": "Wikimedia Commons"
       },
       "count": 65766,
       "breakdown": {
@@ -1022,11 +898,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/A_session_with_a_psychotherapist_%28751707089%29.jpg/500px-A_session_with_a_psychotherapist_%28751707089%29.jpg",
         "title": "File:A session with a psychotherapist (751707089).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_session_with_a_psychotherapist_(751707089).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Mike Renlund",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "https://www.flickr.com/photos/deltamike/751707089/"
+        "source": "Wikimedia Commons"
       },
       "count": 10791,
       "breakdown": {
@@ -1051,11 +923,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Automated_External_Defibrillator_Amsterdam_airport.jpg/500px-Automated_External_Defibrillator_Amsterdam_airport.jpg",
         "title": "File:Automated External Defibrillator Amsterdam airport.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAutomated_External_Defibrillator_Amsterdam_airport.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Stevenfruitsmaak",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 177056,
       "breakdown": {
@@ -1080,11 +948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Downtown_Charlottesville_fire_hydrant.jpg/500px-Downtown_Charlottesville_fire_hydrant.jpg",
         "title": "File:Downtown Charlottesville fire hydrant.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADowntown_Charlottesville_fire_hydrant.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ben Schumin",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 2567544,
       "breakdown": {
@@ -1109,11 +973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emergency_push-button_telephone%2C_Warsaw.jpg/500px-Emergency_push-button_telephone%2C_Warsaw.jpg",
         "title": "File:Emergency push-button telephone, Warsaw.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEmergency_push-button_telephone%2C_Warsaw.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Brandmeister (Togrul Safarov)",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 74392,
       "breakdown": {
@@ -1138,11 +998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Amb_station.JPG/500px-Amb_station.JPG",
         "title": "File:Amb station.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAmb_station.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Farzeymedic",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 16384,
       "breakdown": {
@@ -1167,11 +1023,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gebirgstrage01.jpg/500px-Gebirgstrage01.jpg",
         "title": "File:Gebirgstrage01.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGebirgstrage01.jpg",
-        "source": "Wikimedia Commons",
-        "author": "René Kieselmann rmk (Bergwacht Schwarzwald e.V., BWS)",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "photo taken by rmk"
+        "source": "Wikimedia Commons"
       },
       "count": 1114,
       "breakdown": {
@@ -1196,11 +1048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/KNRM_Lifeguard_Station_Buren_%28Ameland%29.jpg/500px-KNRM_Lifeguard_Station_Buren_%28Ameland%29.jpg",
         "title": "File:KNRM Lifeguard Station Buren (Ameland).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKNRM_Lifeguard_Station_Buren_(Ameland).jpg",
-        "source": "Wikimedia Commons",
-        "author": "JoachimKohlerBremen",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 6347,
       "breakdown": {
@@ -1225,11 +1073,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Optometrist_adjusts_some_trial_lenses_on_a_Guyanese_girl_at_the_Timehri_Primary_School_in_Georgetown%2C_Guyana.jpg/500px-Optometrist_adjusts_some_trial_lenses_on_a_Guyanese_girl_at_the_Timehri_Primary_School_in_Georgetown%2C_Guyana.jpg",
         "title": "File:Optometrist adjusts some trial lenses on a Guyanese girl at the Timehri Primary School in Georgetown, Guyana.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOptometrist_adjusts_some_trial_lenses_on_a_Guyanese_girl_at_the_Timehri_Primary_School_in_Georgetown%2C_Guyana.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Airman 1st Class Perry Aston, U.S. Air Force",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "This image was released by the United States Air Force with the ID 090812-F-6188A-002 (next) . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing . العربية ∙ বাংলা ∙ Bahasa Indonesia ∙ Bahaso Jambi ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−"
+        "source": "Wikimedia Commons"
       },
       "count": 6873,
       "breakdown": {
@@ -1254,11 +1098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Abc_fire_extinguisher.jpg/500px-Abc_fire_extinguisher.jpg",
         "title": "File:Abc fire extinguisher.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAbc_fire_extinguisher.jpg",
-        "source": "Wikimedia Commons",
-        "author": "ProjectManhattan",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 21087,
       "breakdown": {
@@ -1283,11 +1123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/E011.svg",
         "title": "File:E011.svg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AE011.svg",
-        "source": "Wikimedia Commons",
-        "author": "Epop",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 22777,
       "breakdown": {
@@ -1312,11 +1148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bundesarchiv_B_422_Bild-0010%2C_Sirene.jpg/500px-Bundesarchiv_B_422_Bild-0010%2C_Sirene.jpg",
         "title": "File:Bundesarchiv B 422 Bild-0010, Sirene.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_B_422_Bild-0010%2C_Sirene.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Hilberath, Kurt",
-        "license": "CC BY-SA 3.0 de",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-        "credit": "This image was provided to Wikimedia Commons by the German Federal Archive (Deutsches Bundesarchiv) as part of a cooperation project . The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the Digital Image Archive ."
+        "source": "Wikimedia Commons"
       },
       "count": 26038,
       "breakdown": {
@@ -1341,11 +1173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Anfahrpunkt_f%C3%BCr_Rettungsfahrzeuge_HP_108_Alter_Lorscher_Weg_102_1235.jpg/500px-Anfahrpunkt_f%C3%BCr_Rettungsfahrzeuge_HP_108_Alter_Lorscher_Weg_102_1235.jpg",
         "title": "File:Anfahrpunkt für Rettungsfahrzeuge HP 108 Alter Lorscher Weg 102 1235.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAnfahrpunkt_f%C3%BCr_Rettungsfahrzeuge_HP_108_Alter_Lorscher_Weg_102_1235.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Martin Hawlisch ( LosHawlos )",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 195314,
       "breakdown": {
@@ -1370,11 +1198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Physiotherapie.jpg/500px-Physiotherapie.jpg",
         "title": "File:Physiotherapie.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APhysiotherapie.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. SEppl assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 28705,
       "breakdown": {
@@ -1399,11 +1223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ciel_de_Paris_%28restaurant%29_005.JPG/500px-Ciel_de_Paris_%28restaurant%29_005.JPG",
         "title": "File:Ciel de Paris (restaurant) 005.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACiel_de_Paris_(restaurant)_005.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Arnaud 25",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1626557,
       "breakdown": {
@@ -1428,11 +1248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SZ_Lanting_Guoji_Mingyuan_mall_shop_Burger_King_n_McDonald%27s_Restaurant_May_2024_R12S_01_1.jpg/500px-SZ_Lanting_Guoji_Mingyuan_mall_shop_Burger_King_n_McDonald%27s_Restaurant_May_2024_R12S_01_1.jpg",
         "title": "File:SZ Lanting Guoji Mingyuan mall shop Burger King n McDonald's Restaurant May 2024 R12S 01 1.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASZ_Lanting_Guoji_Mingyuan_mall_shop_Burger_King_n_McDonald's_Restaurant_May_2024_R12S_01_1.jpg",
-        "source": "Wikimedia Commons",
-        "author": "BURYDLA 603 MPPOA for the original, Chris2ma for the derivative work (skew and crop).",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "File:SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port 蘭亭國際名園 Lanting Guoji Mingyuan mall shop Burger King n McDonald's Restaurant May 2024 R12S 01.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 668249,
       "breakdown": {
@@ -1457,11 +1273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pr%C3%BCckel_IV.JPG/500px-Pr%C3%BCckel_IV.JPG",
         "title": "File:Prückel IV.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APr%C3%BCckel_IV.JPG",
-        "source": "Wikimedia Commons",
-        "author": "KF at en.wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transferred from en.wikipedia by SreeBot"
+        "source": "Wikimedia Commons"
       },
       "count": 654216,
       "breakdown": {
@@ -1486,11 +1298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/HK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restaurant_bar_table_n_chairs_n_tender_Oct-2011.jpg/500px-HK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restaurant_bar_table_n_chairs_n_tender_Oct-2011.jpg",
         "title": "File:HK Central 擺花街 Lyndhurst Terrace sidewalk restuarant bar table n chairs n tender Oct-2011.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restuarant_bar_table_n_chairs_n_tender_Oct-2011.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Lyd0286",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 246439,
       "breakdown": {
@@ -1515,11 +1323,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/2/2e/Pub.jpg",
         "title": "File:Pub.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APub.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "Ian King",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "my websire"
+        "source": "OpenStreetMap Wiki"
       },
       "count": 200193,
       "breakdown": {
@@ -1544,11 +1348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hofbraeukeller_5906.JPG/500px-Hofbraeukeller_5906.JPG",
         "title": "File:Hofbraeukeller 5906.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHofbraeukeller_5906.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Henning Schlottmann ( User:H-stt )",
-        "license": "CC BY 1.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 10354,
       "breakdown": {
@@ -1573,11 +1373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ribnitzer_Hafenfest%2C_Ribnitz-Damgarten_%28P1060946%29.jpg/500px-Ribnitzer_Hafenfest%2C_Ribnitz-Damgarten_%28P1060946%29.jpg",
         "title": "File:Ribnitzer Hafenfest, Ribnitz-Damgarten (P1060946).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARibnitzer_Hafenfest%2C_Ribnitz-Damgarten_(P1060946).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Matti Blume",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 67310,
       "breakdown": {
@@ -1602,11 +1398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bread_in_shop_window_at_Borough_Market.jpg/500px-Bread_in_shop_window_at_Borough_Market.jpg",
         "title": "File:Bread in shop window at Borough Market.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABread_in_shop_window_at_Borough_Market.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 256049,
       "breakdown": {
@@ -1631,11 +1423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Butcher_shop_in_Valencia.jpg/500px-Butcher_shop_in_Valencia.jpg",
         "title": "File:Butcher shop in Valencia.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AButcher_shop_in_Valencia.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Tom Adriaenssen",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "https://www.flickr.com/photos/inferis/8977472/"
+        "source": "Wikimedia Commons"
       },
       "count": 105484,
       "breakdown": {
@@ -1660,11 +1448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Greenrocer%27s_Interior.jpg/500px-Greenrocer%27s_Interior.jpg",
         "title": "File:Greenrocer's Interior.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGreenrocer's_Interior.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Jongleur100",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 67242,
       "breakdown": {
@@ -1689,11 +1473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Save-On-Foods_Saskatoon_aisles.jpg/500px-Save-On-Foods_Saskatoon_aisles.jpg",
         "title": "File:Save-On-Foods Saskatoon aisles.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASave-On-Foods_Saskatoon_aisles.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Daylen",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 496094,
       "breakdown": {
@@ -1743,11 +1523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kiosk_w_kralikach.jpg/500px-Kiosk_w_kralikach.jpg",
         "title": "File:Kiosk w kralikach.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKiosk_w_kralikach.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Krystian Kuchta",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 104185,
       "breakdown": {
@@ -1772,11 +1548,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Marche_berlin002.jpg/500px-Marche_berlin002.jpg",
         "title": "File:Marche berlin002.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMarche_berlin002.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Gérard Lorenz",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 98998,
       "breakdown": {
@@ -1801,11 +1573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cevahir_Mall.jpg",
         "title": "File:Cevahir Mall.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACevahir_Mall.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User Ltimur on en.wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "https://en.wikipedia.org/wiki/Special:Log?page=File%3ACevahir.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 78852,
       "breakdown": {
@@ -1830,11 +1598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Department_store_atrium_-_geograph.org.uk_-_727802.jpg",
         "title": "File:Department store atrium - geograph.org.uk - 727802.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADepartment_store_atrium_-_geograph.org.uk_-_727802.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Hawgood",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 52648,
       "breakdown": {
@@ -1859,11 +1623,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hasseen2.jpg/500px-Hasseen2.jpg",
         "title": "File:Hasseen2.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHasseen2.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Chemical Engineer",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 467470,
       "breakdown": {
@@ -1888,11 +1648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tweedy_and_Popp_03.jpg/500px-Tweedy_and_Popp_03.jpg",
         "title": "File:Tweedy and Popp 03.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATweedy_and_Popp_03.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Joe Mabel",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Photo by Joe Mabel"
+        "source": "Wikimedia Commons"
       },
       "count": 107813,
       "breakdown": {
@@ -1917,11 +1673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Currys_Digital.jpg/500px-Currys_Digital.jpg",
         "title": "File:Currys Digital.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACurrys_Digital.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Jongleur100",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 84220,
       "breakdown": {
@@ -1946,11 +1698,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/5/56/Florist.jpg",
         "title": "File:Florist.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFlorist.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "Achodanick",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "OpenStreetMap Wiki"
       },
       "count": 88313,
       "breakdown": {
@@ -1975,11 +1723,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Buchhandlung_Lentner_M%C3%BCnchen_Marienplatz_8_-_Kassentheke.jpg/500px-Buchhandlung_Lentner_M%C3%BCnchen_Marienplatz_8_-_Kassentheke.jpg",
         "title": "File:Buchhandlung Lentner München Marienplatz 8 - Kassentheke.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABuchhandlung_Lentner_M%C3%BCnchen_Marienplatz_8_-_Kassentheke.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Mattes",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 58797,
       "breakdown": {
@@ -2004,11 +1748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/HK_%E5%8C%97%E8%A7%92_North_Point_%E5%92%8C%E5%AF%8C%E4%B8%AD%E5%BF%83_Provident_Centre_%E5%92%8C%E5%AF%8C%E8%96%88_Provident_Square_Kuka_Home_furniture_shop_Mar-2013.JPG/500px-HK_%E5%8C%97%E8%A7%92_North_Point_%E5%92%8C%E5%AF%8C%E4%B8%AD%E5%BF%83_Provident_Centre_%E5%92%8C%E5%AF%8C%E8%96%88_Provident_Square_Kuka_Home_furniture_shop_Mar-2013.JPG",
         "title": "File:HK 北角 North Point 和富中心 Provident Centre 和富薈 Provident Square Kuka Home furniture shop Mar-2013.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_%E5%8C%97%E8%A7%92_North_Point_%E5%92%8C%E5%AF%8C%E4%B8%AD%E5%BF%83_Provident_Centre_%E5%92%8C%E5%AF%8C%E8%96%88_Provident_Square_Kuka_Home_furniture_shop_Mar-2013.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Zhaungmaiok",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 102005,
       "breakdown": {
@@ -2033,11 +1773,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HK_TST_East_Mody_Road_Wing_On_Plaza_Shop_Kettler_Sport_Fitness.JPG/500px-HK_TST_East_Mody_Road_Wing_On_Plaza_Shop_Kettler_Sport_Fitness.JPG",
         "title": "File:HK TST East Mody Road Wing On Plaza Shop Kettler Sport Fitness.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_TST_East_Mody_Road_Wing_On_Plaza_Shop_Kettler_Sport_Fitness.JPG",
-        "source": "Wikimedia Commons",
-        "author": "BaronzKodam",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 46564,
       "breakdown": {
@@ -2062,11 +1798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Toys_R_Us_sg.JPG/500px-Toys_R_Us_sg.JPG",
         "title": "File:Toys R Us sg.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AToys_R_Us_sg.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Terence Ong",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 24859,
       "breakdown": {
@@ -2091,11 +1823,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gibraltar%2C_Main_Street%2C_Shopping.JPG/500px-Gibraltar%2C_Main_Street%2C_Shopping.JPG",
         "title": "File:Gibraltar, Main Street, Shopping.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGibraltar%2C_Main_Street%2C_Shopping.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Hedwig Storch",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 84251,
       "breakdown": {
@@ -2120,11 +1848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AIGAN_Shakujii.jpg/500px-AIGAN_Shakujii.jpg",
         "title": "File:AIGAN Shakujii.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAIGAN_Shakujii.jpg",
-        "source": "Wikimedia Commons",
-        "author": "ITA-ATU",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work (投稿者撮影)"
+        "source": "Wikimedia Commons"
       },
       "count": 84741,
       "breakdown": {
@@ -2149,11 +1873,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Diego%27s_Hair_Salon.jpg/500px-Diego%27s_Hair_Salon.jpg",
         "title": "File:Diego's Hair Salon.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADiego's_Hair_Salon.jpg",
-        "source": "Wikimedia Commons",
-        "author": "AgnosticPreachersKid",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 416789,
       "breakdown": {
@@ -2203,11 +1923,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/SoapBarLaundromat.jpg/500px-SoapBarLaundromat.jpg",
         "title": "File:SoapBarLaundromat.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASoapBarLaundromat.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Constance Bernard",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 59663,
       "breakdown": {
@@ -2232,11 +1948,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1601_14th_Street_NW.jpg/500px-1601_14th_Street_NW.jpg",
         "title": "File:1601 14th Street NW.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A1601_14th_Street_NW.jpg",
-        "source": "Wikimedia Commons",
-        "author": "AgnosticPreachersKid",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 34460,
       "breakdown": {
@@ -2261,11 +1973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hebeb%C3%BChne.JPG/500px-Hebeb%C3%BChne.JPG",
         "title": "File:Hebebühne.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHebeb%C3%BChne.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Bukk",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 296045,
       "breakdown": {
@@ -2290,11 +1998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Auto_Parts_Store.jpg/500px-Auto_Parts_Store.jpg",
         "title": "File:Auto Parts Store.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAuto_Parts_Store.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Visitor7",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 97443,
       "breakdown": {
@@ -2319,11 +2023,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hertz_car_rental_office_Livonia_Michigan.JPG/500px-Hertz_car_rental_office_Livonia_Michigan.JPG",
         "title": "File:Hertz car rental office Livonia Michigan.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHertz_car_rental_office_Livonia_Michigan.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Dwight Burdette",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 33089,
       "breakdown": {
@@ -2348,11 +2048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Travel_agency%2C_The_Village%2C_Formby_-_geograph.org.uk_-_1133475.jpg/500px-Travel_agency%2C_The_Village%2C_Formby_-_geograph.org.uk_-_1133475.jpg",
         "title": "File:Travel agency, The Village, Formby - geograph.org.uk - 1133475.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravel_agency%2C_The_Village%2C_Formby_-_geograph.org.uk_-_1133475.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Hawgood",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 49967,
       "breakdown": {
@@ -2377,11 +2073,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GasStationHiroshima.jpg/500px-GasStationHiroshima.jpg",
         "title": "File:GasStationHiroshima.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGasStationHiroshima.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Fg2",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 569607,
       "breakdown": {
@@ -2406,11 +2098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hotel_pool_-_panoramio.jpg/500px-Hotel_pool_-_panoramio.jpg",
         "title": "File:Hotel pool - panoramio.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHotel_pool_-_panoramio.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Валерий Дед",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "https://web.archive.org/web/20161020120846/http://www.panoramio.com/photo/65631793"
+        "source": "Wikimedia Commons"
       },
       "count": 455108,
       "breakdown": {
@@ -2435,11 +2123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bruno%27s_Country_Club%2C_Gerlach%2C_Nevada_%2811128468616%29.jpg/500px-Bruno%27s_Country_Club%2C_Gerlach%2C_Nevada_%2811128468616%29.jpg",
         "title": "File:Bruno's Country Club, Gerlach, Nevada (11128468616).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABruno's_Country_Club%2C_Gerlach%2C_Nevada_(11128468616).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ken Lund from Reno, Nevada, USA",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Bruno's Country Club, Gerlach, Nevada"
+        "source": "Wikimedia Commons"
       },
       "count": 49631,
       "breakdown": {
@@ -2464,11 +2148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Crossroads_Country_Guest_House_-_geograph.org.uk_-_88520.jpg/500px-The_Crossroads_Country_Guest_House_-_geograph.org.uk_-_88520.jpg",
         "title": "File:The Crossroads Country Guest House - geograph.org.uk - 88520.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Crossroads_Country_Guest_House_-_geograph.org.uk_-_88520.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Brian Shaw",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 200860,
       "breakdown": {
@@ -2493,11 +2173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/YouthHostelRome.jpg",
         "title": "File:YouthHostelRome.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYouthHostelRome.jpg",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was Neep at English Wikipedia .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from en.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 62842,
       "breakdown": {
@@ -2522,11 +2198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/500px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg",
         "title": "File:Průmyslová str3, Prague Štěrboholy.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Czech Wikipedia user Packa",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 4203021,
       "breakdown": {
@@ -2551,11 +2223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braunschweig_Brunswick_Busbahnhof_1_%282006%29.jpg/500px-Braunschweig_Brunswick_Busbahnhof_1_%282006%29.jpg",
         "title": "File:Braunschweig Brunswick Busbahnhof 1 (2006).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABraunschweig_Brunswick_Busbahnhof_1_(2006).jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Brunswyk",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 67807,
       "breakdown": {
@@ -2580,11 +2248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paddington_Station.jpg/500px-Paddington_Station.jpg",
         "title": "File:Paddington Station.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APaddington_Station.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Keith Edkins at English Wikipedia",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 104124,
       "breakdown": {
@@ -2609,11 +2273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Desenka_Railway_Halt_2017_G1.jpg/500px-Desenka_Railway_Halt_2017_G1.jpg",
         "title": "File:Desenka Railway Halt 2017 G1.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADesenka_Railway_Halt_2017_G1.jpg",
-        "source": "Wikimedia Commons",
-        "author": "George Chernilevsky",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 34737,
       "breakdown": {
@@ -2638,11 +2298,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/11-07-29-helsinki-by-RalfR-117.jpg/500px-11-07-29-helsinki-by-RalfR-117.jpg",
         "title": "File:11-07-29-helsinki-by-RalfR-117.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A11-07-29-helsinki-by-RalfR-117.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ralf Roletschek ( talk ) - Fahrradtechnik auf fahrradmonteur.de",
-        "license": "FAL",
-        "licenseUrl": "http://artlibre.org/licence/lal/en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 54968,
       "breakdown": {
@@ -2667,11 +2323,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Madrid-Metro-Tribunal-Entrada.jpg",
         "title": "File:Madrid-Metro-Tribunal-Entrada.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMadrid-Metro-Tribunal-Entrada.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Montrealais at en.wikipedia",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Personal snapshot by Montréalais . Transferred from en.wikipedia"
+        "source": "Wikimedia Commons"
       },
       "count": 53770,
       "breakdown": {
@@ -2696,11 +2348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hong_Kong_Taxi_-_1-12-2006_-_Shatin_Taxi_Stand.jpg/500px-Hong_Kong_Taxi_-_1-12-2006_-_Shatin_Taxi_Stand.jpg",
         "title": "File:Hong Kong Taxi - 1-12-2006 - Shatin Taxi Stand.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHong_Kong_Taxi_-_1-12-2006_-_Shatin_Taxi_Stand.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Stewart ~ 惡龍",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "由上傳者拍攝。Captured by uploader."
+        "source": "Wikimedia Commons"
       },
       "count": 52235,
       "breakdown": {
@@ -2725,11 +2373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/P3030027ParkingLot_wb.jpg/500px-P3030027ParkingLot_wb.jpg",
         "title": "File:P3030027ParkingLot wb.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AP3030027ParkingLot_wb.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Elf assumed (based on copyright claims).",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 6913214,
       "breakdown": {
@@ -2754,11 +2398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Wirth_-_Tiefgarage_Hauptplatz.jpg/500px-Christian_Wirth_-_Tiefgarage_Hauptplatz.jpg",
         "title": "File:Christian Wirth - Tiefgarage Hauptplatz.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AChristian_Wirth_-_Tiefgarage_Hauptplatz.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Christian Wirth (Wirthi)",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Linzwiki: Tiefgarage Hauptplatz.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 285196,
       "breakdown": {
@@ -2783,11 +2423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asda_Car_Park_-_geograph.org.uk_-_4826725.jpg/500px-Asda_Car_Park_-_geograph.org.uk_-_4826725.jpg",
         "title": "File:Asda Car Park - geograph.org.uk - 4826725.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAsda_Car_Park_-_geograph.org.uk_-_4826725.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Gordon Griffiths",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph Britain and Ireland"
+        "source": "Wikimedia Commons"
       },
       "count": 5078146,
       "breakdown": {
@@ -2812,11 +2448,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/AAhoops.jpg/500px-AAhoops.jpg",
         "title": "File:AAhoops.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAAhoops.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Frinship",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 950036,
       "breakdown": {
@@ -2841,11 +2473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Motorcycle_parking_in_Birmingham.jpg/500px-Motorcycle_parking_in_Birmingham.jpg",
         "title": "File:Motorcycle parking in Birmingham.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMotorcycle_parking_in_Birmingham.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Masters",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "originally posted to Flickr as Quick getaway"
+        "source": "Wikimedia Commons"
       },
       "count": 47727,
       "breakdown": {
@@ -2870,11 +2498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mobilpunkt_car-sharing_station.jpg/500px-Mobilpunkt_car-sharing_station.jpg",
         "title": "File:Mobilpunkt car-sharing station.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMobilpunkt_car-sharing_station.jpg",
-        "source": "Wikimedia Commons",
-        "author": "City of Bremen (Der Senator für Umwelt, Bau, & Verkehr)",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "City of Bremen"
+        "source": "Wikimedia Commons"
       },
       "count": 12582,
       "breakdown": {
@@ -2899,11 +2523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rent_The_Bicycle.jpg/500px-Rent_The_Bicycle.jpg",
         "title": "File:Rent The Bicycle.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARent_The_Bicycle.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Moebiusuibeom-en",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 94690,
       "breakdown": {
@@ -2953,11 +2573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ferry_Reet.jpg/500px-Ferry_Reet.jpg",
         "title": "File:Ferry Reet.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerry_Reet.jpg",
-        "source": "Wikimedia Commons",
-        "author": "HendrixEesti",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 37491,
       "breakdown": {
@@ -2982,11 +2598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baghdad_International_Airport_%28October_2003%29.jpg/500px-Baghdad_International_Airport_%28October_2003%29.jpg",
         "title": "File:Baghdad International Airport (October 2003).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABaghdad_International_Airport_(October_2003).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Thomas Hartwell, USAID",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.usaid.gov/iraq/photogallery/gallery_30/photo06.html"
+        "source": "Wikimedia Commons"
       },
       "count": 10394,
       "breakdown": {
@@ -3011,11 +2623,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Oryx_helicopter.jpg/500px-Oryx_helicopter.jpg",
         "title": "File:Oryx helicopter.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOryx_helicopter.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Senior Chief Journalist Scott A. Fleming, United States Navy",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "U.S. Navy NewsStand photo ID 031107-N-6378F-003.jpg http://en.wikipedia.org/wiki/Image:Oryx_helicopter.jpg ( en:User:RadicalBender )"
+        "source": "Wikimedia Commons"
       },
       "count": 70941,
       "breakdown": {
@@ -3040,11 +2648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Quintin_Lodge_Airstrip_from_the_Mackinnon_Pass_2.jpg/500px-Quintin_Lodge_Airstrip_from_the_Mackinnon_Pass_2.jpg",
         "title": "File:Quintin Lodge Airstrip from the Mackinnon Pass 2.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AQuintin_Lodge_Airstrip_from_the_Mackinnon_Pass_2.jpg",
-        "source": "Wikimedia Commons",
-        "author": "AlasdairW",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 5938,
       "breakdown": {
@@ -3069,11 +2673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Benalmadena_-_Puerto_Marina.jpg/500px-Benalmadena_-_Puerto_Marina.jpg",
         "title": "File:Benalmadena - Puerto Marina.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABenalmadena_-_Puerto_Marina.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Tiia Monto",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 31914,
       "breakdown": {
@@ -3123,11 +2723,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dartford_Crossing_Toll.jpg/500px-Dartford_Crossing_Toll.jpg",
         "title": "File:Dartford Crossing Toll.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADartford_Crossing_Toll.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Darren Meacher",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 63722,
       "breakdown": {
@@ -3152,11 +2748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lorry_on_weighbridge%2C_Douglas%2C_Isle_of_Man_-_geograph.org.uk_-_352285.jpg/500px-Lorry_on_weighbridge%2C_Douglas%2C_Isle_of_Man_-_geograph.org.uk_-_352285.jpg",
         "title": "File:Lorry on weighbridge, Douglas, Isle of Man - geograph.org.uk - 352285.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALorry_on_weighbridge%2C_Douglas%2C_Isle_of_Man_-_geograph.org.uk_-_352285.jpg",
-        "source": "Wikimedia Commons",
-        "author": "kevin rothwell",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 12514,
       "breakdown": {
@@ -3181,11 +2773,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Speed_Camera_-_geograph.org.uk_-_399358.jpg/500px-Speed_Camera_-_geograph.org.uk_-_399358.jpg",
         "title": "File:Speed Camera - geograph.org.uk - 399358.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASpeed_Camera_-_geograph.org.uk_-_399358.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Paul Anderson",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 78493,
       "breakdown": {
@@ -3210,11 +2798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Led_traffic_lights.jpg/500px-Led_traffic_lights.jpg",
         "title": "File:Led traffic lights.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALed_traffic_lights.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Petey21",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 2025940,
       "breakdown": {
@@ -3239,11 +2823,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/STOP_sign.jpg/500px-STOP_sign.jpg",
         "title": "File:STOP sign.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASTOP_sign.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bidgee",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 2529164,
       "breakdown": {
@@ -3293,11 +2873,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2014_K%C5%82odzko%2C_ul._Grottgera_14.JPG/500px-2014_K%C5%82odzko%2C_ul._Grottgera_14.JPG",
         "title": "File:2014 Kłodzko, ul. Grottgera 14.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2014_K%C5%82odzko%2C_ul._Grottgera_14.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Jacek Halicki",
-        "license": "CC BY-SA 3.0 pl",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 6578515,
       "breakdown": {
@@ -3322,11 +2898,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Belgium_A2_31km_marker.JPG/500px-Belgium_A2_31km_marker.JPG",
         "title": "File:Belgium A2 31km marker.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABelgium_A2_31km_marker.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Martinvl",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 245489,
       "breakdown": {
@@ -3351,11 +2923,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/2/2a/Signpost.jpg",
         "title": "File:Signpost.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASignpost.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "Andrew McMillan",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/objects-public-domain-images-pictures/signs-public-domain-images-pictures/signpost.jpg"
+        "source": "OpenStreetMap Wiki"
       },
       "count": 680389,
       "breakdown": {
@@ -3380,11 +2948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Level_crossing_-_Chertsey_-_England_-_270404.jpg/500px-Level_crossing_-_Chertsey_-_England_-_270404.jpg",
         "title": "File:Level crossing - Chertsey - England - 270404.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALevel_crossing_-_Chertsey_-_England_-_270404.jpg",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was Tagishsimon at English Wikipedia .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from en.wikipedia to Commons by chazchaz101 ."
+        "source": "Wikimedia Commons"
       },
       "count": 1004595,
       "breakdown": {
@@ -3409,11 +2973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ridgeway_Path_pedestrian_level_crossing%2C_Princes_Risborough%2C_Buckinghamshire_02.jpg/500px-Ridgeway_Path_pedestrian_level_crossing%2C_Princes_Risborough%2C_Buckinghamshire_02.jpg",
         "title": "File:Ridgeway Path pedestrian level crossing, Princes Risborough, Buckinghamshire 02.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARidgeway_Path_pedestrian_level_crossing%2C_Princes_Risborough%2C_Buckinghamshire_02.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Mertbiol",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 227464,
       "breakdown": {
@@ -3438,11 +2998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cercan%C3%ADas_San_Vicente_del_Raspeig.JPG/500px-Cercan%C3%ADas_San_Vicente_del_Raspeig.JPG",
         "title": "File:Cercanías San Vicente del Raspeig.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACercan%C3%ADas_San_Vicente_del_Raspeig.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Dilema",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 196177,
       "breakdown": {
@@ -3467,11 +3023,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Porthmadog_harbour_1.jpg/500px-Porthmadog_harbour_1.jpg",
         "title": "File:Porthmadog harbour 1.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APorthmadog_harbour_1.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bud75",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Portmadoc Harbour"
+        "source": "Wikimedia Commons"
       },
       "count": 8701,
       "breakdown": {
@@ -3496,11 +3048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/M%C3%B4le_%C3%A9quinoxe_printemps_2008.JPG/500px-M%C3%B4le_%C3%A9quinoxe_printemps_2008.JPG",
         "title": "File:Môle équinoxe printemps 2008.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AM%C3%B4le_%C3%A9quinoxe_printemps_2008.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Larzalier",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Moi"
+        "source": "Wikimedia Commons"
       },
       "count": 65379,
       "breakdown": {
@@ -3525,11 +3073,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Public_Bike_Repair_Station.jpg/500px-Public_Bike_Repair_Station.jpg",
         "title": "File:Public Bike Repair Station.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_Bike_Repair_Station.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Polarbear24",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 23772,
       "breakdown": {
@@ -3554,11 +3098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Parking_and_picnic_area_at_Rest_And_Be_Thankful_-_geograph.org.uk_-_1657648.jpg/500px-Parking_and_picnic_area_at_Rest_And_Be_Thankful_-_geograph.org.uk_-_1657648.jpg",
         "title": "File:Parking and picnic area at Rest And Be Thankful - geograph.org.uk - 1657648.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AParking_and_picnic_area_at_Rest_And_Be_Thankful_-_geograph.org.uk_-_1657648.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Phil Champion",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 42504,
       "breakdown": {
@@ -3583,11 +3123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Central_Motorway_Junction_AK_II.jpg/500px-Central_Motorway_Junction_AK_II.jpg",
         "title": "File:Central Motorway Junction AK II.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Motorway_Junction_AK_II.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ingolfson",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Self-photographed"
+        "source": "Wikimedia Commons"
       },
       "count": 239543,
       "breakdown": {
@@ -3612,11 +3148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Usedom-Heringsdorf-Seebr%C3%BCcke-Mai2005.jpg/500px-Usedom-Heringsdorf-Seebr%C3%BCcke-Mai2005.jpg",
         "title": "File:Usedom-Heringsdorf-Seebrücke-Mai2005.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUsedom-Heringsdorf-Seebr%C3%BCcke-Mai2005.jpg",
-        "source": "Wikimedia Commons",
-        "author": "C. Löser",
-        "license": "CC BY-SA 2.0 de",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 753976,
       "breakdown": {
@@ -3641,11 +3173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Morgendlicher_Berufsverkehr_auf_der_BAB_A8_beim_Kreuz_Stuttgart_-_panoramio.jpg/500px-Morgendlicher_Berufsverkehr_auf_der_BAB_A8_beim_Kreuz_Stuttgart_-_panoramio.jpg",
         "title": "File:Morgendlicher Berufsverkehr auf der BAB A8 beim Kreuz Stuttgart - panoramio.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMorgendlicher_Berufsverkehr_auf_der_BAB_A8_beim_Kreuz_Stuttgart_-_panoramio.jpg",
-        "source": "Wikimedia Commons",
-        "author": "qwesy qwesy",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "https://web.archive.org/web/20161102234649/http://www.panoramio.com/photo/46699604"
+        "source": "Wikimedia Commons"
       },
       "count": 1377739,
       "breakdown": {
@@ -3670,11 +3198,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/A477_trunk_road_from_the_bridge_-_geograph.org.uk_-_1404312.jpg/500px-A477_trunk_road_from_the_bridge_-_geograph.org.uk_-_1404312.jpg",
         "title": "File:A477 trunk road from the bridge - geograph.org.uk - 1404312.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA477_trunk_road_from_the_bridge_-_geograph.org.uk_-_1404312.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ruth Sharville",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 2017404,
       "breakdown": {
@@ -3799,11 +3323,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/3/30/Residential.jpg",
         "title": "File:Residential.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AResidential.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "pasa47",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "https://www.flickr.com/photos/53301297@N00/19541531423/"
+        "source": "OpenStreetMap Wiki"
       },
       "count": 70046174,
       "breakdown": {
@@ -3853,11 +3373,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2010-04-28_Gut_B%C3%B6ckel%2C_R%C3%B6dinghausen_009.jpg/500px-2010-04-28_Gut_B%C3%B6ckel%2C_R%C3%B6dinghausen_009.jpg",
         "title": "File:2010-04-28 Gut Böckel, Rödinghausen 009.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2010-04-28_Gut_B%C3%B6ckel%2C_R%C3%B6dinghausen_009.jpg",
-        "source": "Wikimedia Commons",
-        "author": "TUBS",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work This file was uploaded with Commonist ."
+        "source": "Wikimedia Commons"
       },
       "count": 66228456,
       "breakdown": {
@@ -3882,11 +3398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fr%C3%BChlingslandschft_Aaretal_Schweiz.jpg/500px-Fr%C3%BChlingslandschft_Aaretal_Schweiz.jpg",
         "title": "File:Frühlingslandschft Aaretal Schweiz.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFr%C3%BChlingslandschft_Aaretal_Schweiz.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Benjamin Gimmel (user BenHur )",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work – FreePiP (Free Pictures Project)"
+        "source": "Wikimedia Commons"
       },
       "count": 30121804,
       "breakdown": {
@@ -3911,11 +3423,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_designated_footpath.jpg/500px-A_designated_footpath.jpg",
         "title": "File:A designated footpath.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_designated_footpath.jpg",
-        "source": "Wikimedia Commons",
-        "author": "1998alexkane",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 33061873,
       "breakdown": {
@@ -3940,11 +3448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bikeway%2C_Bicycle_path_-_sign_C13_marked_beginning_of_bikeway%2C_Poland%2C_Sosnowiec.jpg/500px-Bikeway%2C_Bicycle_path_-_sign_C13_marked_beginning_of_bikeway%2C_Poland%2C_Sosnowiec.jpg",
         "title": "File:Bikeway, Bicycle path - sign C13 marked beginning of bikeway, Poland, Sosnowiec.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABikeway%2C_Bicycle_path_-_sign_C13_marked_beginning_of_bikeway%2C_Poland%2C_Sosnowiec.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Krzysztof Popławski",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 2255707,
       "breakdown": {
@@ -3969,11 +3473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Forest_path_and_trees.jpg/500px-Forest_path_and_trees.jpg",
         "title": "File:Forest path and trees.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AForest_path_and_trees.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Denis Zastanceanu",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 16581885,
       "breakdown": {
@@ -3998,11 +3498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/%22Wheeling_ramp%22%2C_Skeldergate_Bridge_-_geograph.org.uk_-_2424314.jpg",
         "title": "File:\"Wheeling ramp\", Skeldergate Bridge - geograph.org.uk - 2424314.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%22Wheeling_ramp%22%2C_Skeldergate_Bridge_-_geograph.org.uk_-_2424314.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Oliver Dixon",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph Britain and Ireland"
+        "source": "Wikimedia Commons"
       },
       "count": 2144799,
       "breakdown": {
@@ -4052,11 +3548,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambridge_Rd_-_geograph.org.uk_-_1189572.jpg/500px-Cambridge_Rd_-_geograph.org.uk_-_1189572.jpg",
         "title": "File:Cambridge Rd - geograph.org.uk - 1189572.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambridge_Rd_-_geograph.org.uk_-_1189572.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Nigel Chadwick",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 893481,
       "breakdown": {
@@ -4081,11 +3573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zeichen_209-202_%2B_question_mark.svg/500px-Zeichen_209-202_%2B_question_mark.svg.png",
         "title": "File:Zeichen 209-202 + question mark.svg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZeichen_209-202_%2B_question_mark.svg",
-        "source": "Wikimedia Commons",
-        "author": "Saibo",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work based on File:Zeichen 209-20.svg (which is PD ) and using this font's question mark (similar to the road signs one) and This W3C-unspecified vector image was created with Inkscape ."
+        "source": "Wikimedia Commons"
       },
       "count": 39729,
       "breakdown": {
@@ -4110,11 +3598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_T12_link_road_to_Wilmore_Road_under_construction_-_geograph.org.uk_-_4452080.jpg/500px-The_T12_link_road_to_Wilmore_Road_under_construction_-_geograph.org.uk_-_4452080.jpg",
         "title": "File:The T12 link road to Wilmore Road under construction - geograph.org.uk - 4452080.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_T12_link_road_to_Wilmore_Road_under_construction_-_geograph.org.uk_-_4452080.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ian Calderwood",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph Britain and Ireland"
+        "source": "Wikimedia Commons"
       },
       "count": 443270,
       "breakdown": {
@@ -4139,11 +3623,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fuji_Speedway_start-finish.jpg/500px-Fuji_Speedway_start-finish.jpg",
         "title": "File:Fuji Speedway start-finish.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFuji_Speedway_start-finish.jpg",
-        "source": "Wikimedia Commons",
-        "author": "MATSUOKA Kohei",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Fuji Speedway Pit Walk"
+        "source": "Wikimedia Commons"
       },
       "count": 46282,
       "breakdown": {
@@ -4168,11 +3648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harmoni_Central_Busway_Transjakarta_2.JPG/500px-Harmoni_Central_Busway_Transjakarta_2.JPG",
         "title": "File:Harmoni Central Busway Transjakarta 2.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHarmoni_Central_Busway_Transjakarta_2.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Gunawan Kartapranata",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 40073,
       "breakdown": {
@@ -4197,11 +3673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Passing_place_-_geograph.org.uk_-_987324.jpg/500px-Passing_place_-_geograph.org.uk_-_987324.jpg",
         "title": "File:Passing place - geograph.org.uk - 987324.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APassing_place_-_geograph.org.uk_-_987324.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Alan Gerrard",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 70329,
       "breakdown": {
@@ -4226,11 +3698,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_TST_Star_House_mall_corridor_interior_shop_signs_Sept-2012.JPG/500px-HK_TST_Star_House_mall_corridor_interior_shop_signs_Sept-2012.JPG",
         "title": "File:HK TST Star House mall corridor interior shop signs Sept-2012.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_TST_Star_House_mall_corridor_interior_shop_signs_Sept-2012.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Coannalebonei",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 81477,
       "breakdown": {
@@ -4255,11 +3723,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Elevator_on_the_platform_of_Ningbo_Railway_Station.jpg/500px-Elevator_on_the_platform_of_Ningbo_Railway_Station.jpg",
         "title": "File:Elevator on the platform of Ningbo Railway Station.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AElevator_on_the_platform_of_Ningbo_Railway_Station.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Siyuwj",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 58624,
       "breakdown": {
@@ -4284,11 +3748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Indian_Lake_Trailhead_-_panoramio.jpg/500px-Indian_Lake_Trailhead_-_panoramio.jpg",
         "title": "File:Indian Lake Trailhead - panoramio.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AIndian_Lake_Trailhead_-_panoramio.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Corey Coyle",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "https://web.archive.org/web/20161031144644/http://www.panoramio.com/photo/90478220"
+        "source": "Wikimedia Commons"
       },
       "count": 18772,
       "breakdown": {
@@ -4313,11 +3773,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Via_ferrata_Sandro_Pertini_-_panoramio.jpg/500px-Via_ferrata_Sandro_Pertini_-_panoramio.jpg",
         "title": "File:Via ferrata Sandro Pertini - panoramio.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVia_ferrata_Sandro_Pertini_-_panoramio.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Maurizio Ceol",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "https://web.archive.org/web/20161028100744/http://www.panoramio.com/photo/93423500"
+        "source": "Wikimedia Commons"
       },
       "count": 5002,
       "breakdown": {
@@ -4342,11 +3798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Finlay_River_emptying_into_the_north_end_of_Williston_Lake.jpg/500px-Finlay_River_emptying_into_the_north_end_of_Williston_Lake.jpg",
         "title": "File:Finlay River emptying into the north end of Williston Lake.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFinlay_River_emptying_into_the_north_end_of_Williston_Lake.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Murray Foubister",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "https://www.flickr.com/photos/mfoubister/41735199974/"
+        "source": "Wikimedia Commons"
       },
       "count": 2068929,
       "breakdown": {
@@ -4375,11 +3827,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Volga_Ulyanovsk-oliv.jpg/500px-Volga_Ulyanovsk-oliv.jpg",
         "title": "File:Volga Ulyanovsk-oliv.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVolga_Ulyanovsk-oliv.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Olegivvit assumed (based on copyright claims).",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 528662,
       "breakdown": null,
@@ -4400,11 +3848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stream_on_Heaphy_Track.jpg/500px-Stream_on_Heaphy_Track.jpg",
         "title": "File:Stream on Heaphy Track.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStream_on_Heaphy_Track.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Brian",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Flickr : Stream"
+        "source": "Wikimedia Commons"
       },
       "count": 29677417,
       "breakdown": {
@@ -4429,11 +3873,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grand_Union_Canal_Walk_by_the_canal_-_geograph.org.uk_-_3135952.jpg/500px-Grand_Union_Canal_Walk_by_the_canal_-_geograph.org.uk_-_3135952.jpg",
         "title": "File:Grand Union Canal Walk by the canal - geograph.org.uk - 3135952.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrand_Union_Canal_Walk_by_the_canal_-_geograph.org.uk_-_3135952.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Philip Jeffrey",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph Britain and Ireland"
+        "source": "Wikimedia Commons"
       },
       "count": 809402,
       "breakdown": {
@@ -4458,11 +3898,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sloot.JPG/500px-Sloot.JPG",
         "title": "File:Sloot.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASloot.JPG",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was GerardM at Dutch Wikipedia .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from nl.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 5000778,
       "breakdown": {
@@ -4487,11 +3923,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Iron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg/500px-Iron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg",
         "title": "File:Iron Cove Ck looking downstream from John St, Croydon.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AIron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Smegs07 at English Wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transferred from en.wikipedia to Commons by Scott5114 using CommonsHelper ."
+        "source": "Wikimedia Commons"
       },
       "count": 1906675,
       "breakdown": {
@@ -4516,11 +3948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amagase_Dam.jpg/500px-Amagase_Dam.jpg",
         "title": "File:Amagase Dam.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAmagase_Dam.jpg",
-        "source": "Wikimedia Commons",
-        "author": "ccfarmer ( Prst )",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Self-photographed"
+        "source": "Wikimedia Commons"
       },
       "count": 273033,
       "breakdown": {
@@ -4545,11 +3973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alifakovac_Miljacka.jpg/500px-Alifakovac_Miljacka.jpg",
         "title": "File:Alifakovac Miljacka.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAlifakovac_Miljacka.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Emx",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 154989,
       "breakdown": {
@@ -4574,11 +3998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Waterfall_near_Keldur.JPG/500px-Waterfall_near_Keldur.JPG",
         "title": "File:Waterfall near Keldur.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWaterfall_near_Keldur.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Chris 73",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 89693,
       "breakdown": {
@@ -4632,11 +4052,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blowdown_Lake.JPG/500px-Blowdown_Lake.JPG",
         "title": "File:Blowdown Lake.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABlowdown_Lake.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Clayoquot",
-        "license": "CC BY-SA 2.0 ca",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/ca/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 914592,
       "breakdown": null,
@@ -4661,11 +4077,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brown%27s_Inlet.JPG/500px-Brown%27s_Inlet.JPG",
         "title": "File:Brown's Inlet.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrown's_Inlet.JPG",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was SimonP at English Wikipedia .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from en.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 2415006,
       "breakdown": null,
@@ -4690,11 +4102,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lakevyrnwysummer.jpg/500px-Lakevyrnwysummer.jpg",
         "title": "File:Lakevyrnwysummer.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALakevyrnwysummer.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Sean the Spook",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work ( Sean the Spook )"
+        "source": "Wikimedia Commons"
       },
       "count": 895372,
       "breakdown": null,
@@ -4719,11 +4127,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linz_regenr%C3%BCckhaltebecken.jpg/500px-Linz_regenr%C3%BCckhaltebecken.jpg",
         "title": "File:Linz regenrückhaltebecken.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALinz_regenr%C3%BCckhaltebecken.jpg",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was Dergreg: at German Wikipedia .",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Own work by the original uploader"
+        "source": "Wikimedia Commons"
       },
       "count": 340227,
       "breakdown": null,
@@ -4744,11 +4148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cepkeliu_marsh.jpg/500px-Cepkeliu_marsh.jpg",
         "title": "File:Cepkeliu marsh.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACepkeliu_marsh.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Wojsyl",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 4840486,
       "breakdown": {
@@ -4777,11 +4177,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GlenrockLagoonFromLeichhardtLookout.JPG/500px-GlenrockLagoonFromLeichhardtLookout.JPG",
         "title": "File:GlenrockLagoonFromLeichhardtLookout.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGlenrockLagoonFromLeichhardtLookout.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Athol Mullen",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 12931,
       "breakdown": null,
@@ -4806,11 +4202,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kanuti_River_October_2011.jpg/500px-Kanuti_River_October_2011.jpg",
         "title": "File:Kanuti River October 2011.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKanuti_River_October_2011.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bill Raften, U.S. Fish and Wildlife Service Headquarters",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Flickr : Kanuti River"
+        "source": "Wikimedia Commons"
       },
       "count": 54884,
       "breakdown": null,
@@ -4831,11 +4223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Horseshoebay.Bermuda.JPG/500px-Horseshoebay.Bermuda.JPG",
         "title": "File:Horseshoebay.Bermuda.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHorseshoebay.Bermuda.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Ekem",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 250239,
       "breakdown": {
@@ -4860,11 +4248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lowlandman%27s_Bay%2C_Jura_-_geograph.org.uk_-_25388.jpg/500px-Lowlandman%27s_Bay%2C_Jura_-_geograph.org.uk_-_25388.jpg",
         "title": "File:Lowlandman's Bay, Jura - geograph.org.uk - 25388.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALowlandman's_Bay%2C_Jura_-_geograph.org.uk_-_25388.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bob Jones",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 94661,
       "breakdown": {
@@ -4889,11 +4273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Strait.svg",
         "title": "File:Strait.svg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStrait.svg",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was K. Aainsqatsi at English Wikipedia . ( Original text: en:User:K. Aainsqatsi ) the original author is en:user:Dcoetzee , Image:Strait.png",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transferred from en.wikipedia to Commons. ( Original text: self-made )"
+        "source": "Wikimedia Commons"
       },
       "count": 10331,
       "breakdown": {
@@ -4918,11 +4298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Ravenscar_coastline.jpg/500px-The_Ravenscar_coastline.jpg",
         "title": "File:The Ravenscar coastline.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Ravenscar_coastline.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Humphrey Bolton",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph https://www.geograph.org.uk/photo/249487"
+        "source": "Wikimedia Commons"
       },
       "count": 1292296,
       "breakdown": {
@@ -4947,11 +4323,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lanstroper_Ei_IMGP8117.jpg/500px-Lanstroper_Ei_IMGP8117.jpg",
         "title": "File:Lanstroper Ei IMGP8117.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALanstroper_Ei_IMGP8117.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Smial at de.wikipedia",
-        "license": "CC BY-SA 2.0 de",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-        "credit": "Transfered from de.wikipedia were it was uploaded by the author"
+        "source": "Wikimedia Commons"
       },
       "count": 169549,
       "breakdown": {
@@ -4976,11 +4348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Water_treatment_-_geograph.org.uk_-_231374.jpg/500px-Water_treatment_-_geograph.org.uk_-_231374.jpg",
         "title": "File:Water treatment - geograph.org.uk - 231374.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWater_treatment_-_geograph.org.uk_-_231374.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Patrick Mackie",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 46632,
       "breakdown": {
@@ -5005,11 +4373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Klaerwerk_Buelk_nahe_Kiel.jpg/500px-Klaerwerk_Buelk_nahe_Kiel.jpg",
         "title": "File:Klaerwerk Buelk nahe Kiel.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlaerwerk_Buelk_nahe_Kiel.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Louis-F. Stahl",
-        "license": "CC BY-SA 3.0 de",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 93354,
       "breakdown": {
@@ -5034,11 +4398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gd%C3%B3w_Water_Well.jpg/500px-Gd%C3%B3w_Water_Well.jpg",
         "title": "File:Gdów Water Well.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGd%C3%B3w_Water_Well.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Scotch Mist",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 369427,
       "breakdown": {
@@ -5063,11 +4423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/JesusGreenLock-Cambridge.jpg/500px-JesusGreenLock-Cambridge.jpg",
         "title": "File:JesusGreenLock-Cambridge.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJesusGreenLock-Cambridge.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 24636,
       "breakdown": {
@@ -5092,11 +4448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ss_sluice2.jpg/500px-Ss_sluice2.jpg",
         "title": "File:Ss sluice2.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASs_sluice2.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Whippsinc at English Wikipedia",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Transferred from en.wikipedia to Commons by Anonymous101 ."
+        "source": "Wikimedia Commons"
       },
       "count": 5232,
       "breakdown": {
@@ -5125,11 +4477,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cage_system_in_a_fish_pond.jpg/500px-Cage_system_in_a_fish_pond.jpg",
         "title": "File:Cage system in a fish pond.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACage_system_in_a_fish_pond.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Wee Hong",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 10896,
       "breakdown": null,
@@ -5150,11 +4498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boatyards%2C_Rhyll.jpg/500px-Boatyards%2C_Rhyll.jpg",
         "title": "File:Boatyards, Rhyll.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABoatyards%2C_Rhyll.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Cnwb",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 5633,
       "breakdown": {
@@ -5179,11 +4523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_mudflats_in_Turnagain_Arm_at_low_tide_%28IMG_1189a%29_%283587499039%29.jpg/500px-The_mudflats_in_Turnagain_Arm_at_low_tide_%28IMG_1189a%29_%283587499039%29.jpg",
         "title": "File:The mudflats in Turnagain Arm at low tide (IMG 1189a) (3587499039).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_mudflats_in_Turnagain_Arm_at_low_tide_(IMG_1189a)_(3587499039).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Frank Kovalchek from USA",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "The mudflats in Turnagain Arm at low tide (IMG_1189a)"
+        "source": "Wikimedia Commons"
       },
       "count": 29777,
       "breakdown": {
@@ -5208,11 +4548,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Biogradska_suma.jpg/500px-Biogradska_suma.jpg",
         "title": "File:Biogradska suma.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiogradska_suma.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Snežana Trifunović",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 12797128,
       "breakdown": {
@@ -5237,11 +4573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Starr_010831-0015_Morella_faya.jpg/500px-Starr_010831-0015_Morella_faya.jpg",
         "title": "File:Starr 010831-0015 Morella faya.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStarr_010831-0015_Morella_faya.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Forest & Kim Starr",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Plants of Hawaii, Image 010831-0015 from http://www.starrenvironmental.com/plants/images/image/?q=010831-0015"
+        "source": "Wikimedia Commons"
       },
       "count": 5772568,
       "breakdown": {
@@ -5266,11 +4598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/L%C3%BCneburger_Heide_109.jpg/500px-L%C3%BCneburger_Heide_109.jpg",
         "title": "File:Lüneburger Heide 109.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AL%C3%BCneburger_Heide_109.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Willow",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 682152,
       "breakdown": {
@@ -5295,11 +4623,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grassland_community_of_the_association_Ranunculo-Senecionetum_aquatici.jpg/500px-Grassland_community_of_the_association_Ranunculo-Senecionetum_aquatici.jpg",
         "title": "File:Grassland community of the association Ranunculo-Senecionetum aquatici.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrassland_community_of_the_association_Ranunculo-Senecionetum_aquatici.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Industrees",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 2427274,
       "breakdown": {
@@ -5324,11 +4648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mottey.jpg/500px-Mottey.jpg",
         "title": "File:Mottey.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMottey.jpg",
-        "source": "Wikimedia Commons",
-        "author": "James Loach",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Photographed by the uploader - James Loach"
+        "source": "Wikimedia Commons"
       },
       "count": 5604808,
       "breakdown": {
@@ -5353,11 +4673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Near_North_Wold_Farm_-_geograph.org.uk_-_1046318.jpg/500px-Near_North_Wold_Farm_-_geograph.org.uk_-_1046318.jpg",
         "title": "File:Near North Wold Farm - geograph.org.uk - 1046318.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANear_North_Wold_Farm_-_geograph.org.uk_-_1046318.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Wright",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 11801208,
       "breakdown": {
@@ -5382,11 +4698,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PikiWiki_Israel_29753_Almonds_grove.jpg/500px-PikiWiki_Israel_29753_Almonds_grove.jpg",
         "title": "File:PikiWiki Israel 29753 Almonds grove.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APikiWiki_Israel_29753_Almonds_grove.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Nissan Lev-Ran",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "Nissan Lev-Ran via the PikiWiki - Israel free image collection project"
+        "source": "Wikimedia Commons"
       },
       "count": 1889685,
       "breakdown": {
@@ -5411,11 +4723,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/500px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg",
         "title": "File:Weinberg-Ipsheim-BurgHoheneck SK 0001.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWeinberg-Ipsheim-BurgHoheneck_SK_0001.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Simon Koopmann",
-        "license": "CC BY-SA 2.0 de",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-        "credit": "own work, made out of 4 Pictures (2x2)"
+        "source": "Wikimedia Commons"
       },
       "count": 878563,
       "breakdown": {
@@ -5465,11 +4773,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/3015-Central_Park-Sheep_Meadow.JPG/500px-3015-Central_Park-Sheep_Meadow.JPG",
         "title": "File:3015-Central Park-Sheep Meadow.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A3015-Central_Park-Sheep_Meadow.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Ingfbruno",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1304783,
       "breakdown": {
@@ -5494,11 +4798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Black_Opal_Spring_in_Biscuit_Basin.JPG/500px-Black_Opal_Spring_in_Biscuit_Basin.JPG",
         "title": "File:Black Opal Spring in Biscuit Basin.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABlack_Opal_Spring_in_Biscuit_Basin.JPG",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Mav assumed (based on copyright claims).",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 150688,
       "breakdown": {
@@ -5523,11 +4823,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Yatsuhigata_04x4720s.jpg",
         "title": "File:Yatsuhigata 04x4720s.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYatsuhigata_04x4720s.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 136492,
       "breakdown": {
@@ -5552,11 +4848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/North_Suicide_Peak._Chugach_Mountains%2C_Alaska..jpg/500px-North_Suicide_Peak._Chugach_Mountains%2C_Alaska..jpg",
         "title": "File:North Suicide Peak. Chugach Mountains, Alaska..jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Suicide_Peak._Chugach_Mountains%2C_Alaska..jpg",
-        "source": "Wikimedia Commons",
-        "author": "Paxson Woelber",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1111226,
       "breakdown": {
@@ -5581,11 +4873,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Streisand_Estate.jpg/500px-Streisand_Estate.jpg",
         "title": "File:Streisand Estate.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStreisand_Estate.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Required attribution is: Copyright (C) 2002 Kenneth & Gabrielle Adelman, California Coastal Records Project, www.californiacoastline.org .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "California Coastal Records Project (More info about project at en:California Coastal Records Project .)"
+        "source": "Wikimedia Commons"
       },
       "count": 1049297,
       "breakdown": {
@@ -5610,11 +4898,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bacho-kiro-cave-entrance-mincov.jpg",
         "title": "File:Bacho-kiro-cave-entrance-mincov.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABacho-kiro-cave-entrance-mincov.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Original uploader was Ivelin Mincov at bg.wikipedia",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from bg.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 73335,
       "breakdown": {
@@ -5664,11 +4948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cingles_i_rosseguera_sota_el_Pla_de_la_Casa%2C_la_Serrella.JPG/500px-Cingles_i_rosseguera_sota_el_Pla_de_la_Casa%2C_la_Serrella.JPG",
         "title": "File:Cingles i rosseguera sota el Pla de la Casa, la Serrella.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACingles_i_rosseguera_sota_el_Pla_de_la_Casa%2C_la_Serrella.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Joanbanjo",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 403517,
       "breakdown": {
@@ -5693,11 +4973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kalabrien_Ricadi_Sandwellen_2129.jpg/500px-Kalabrien_Ricadi_Sandwellen_2129.jpg",
         "title": "File:Kalabrien Ricadi Sandwellen 2129.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKalabrien_Ricadi_Sandwellen_2129.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Manfred Morgner ( ka-em-zwei-ein )",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 599376,
       "breakdown": {
@@ -5722,11 +4998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grosser_Aletschgletscher_3196.JPG/500px-Grosser_Aletschgletscher_3196.JPG",
         "title": "File:Grosser Aletschgletscher 3196.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrosser_Aletschgletscher_3196.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Dirk Beyer",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 118146,
       "breakdown": {
@@ -5751,11 +5023,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Colima_volcano_aero_colors_adjusted.JPG/500px-Colima_volcano_aero_colors_adjusted.JPG",
         "title": "File:Colima volcano aero colors adjusted.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AColima_volcano_aero_colors_adjusted.JPG",
-        "source": "Wikimedia Commons",
-        "author": "photo: en:User:Nc_tech3 edit: User:MattiPaavola",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "File:Colima volcano aero.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 10368,
       "breakdown": {
@@ -5780,11 +5048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aerial_view_of_a_mountain_ridgeline.jpg/500px-Aerial_view_of_a_mountain_ridgeline.jpg",
         "title": "File:Aerial view of a mountain ridgeline.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_a_mountain_ridgeline.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ryan Hagerty",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/mountain-public-domain-images-pictures/aerial-view-of-a-mountain-ridgeline-.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 270514,
       "breakdown": {
@@ -5809,11 +5073,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rabbit_Lake_and_the_Suicide_Peaks._Chugach_State_Park%2C_Alaska.jpg/500px-Rabbit_Lake_and_the_Suicide_Peaks._Chugach_State_Park%2C_Alaska.jpg",
         "title": "File:Rabbit Lake and the Suicide Peaks. Chugach State Park, Alaska.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARabbit_Lake_and_the_Suicide_Peaks._Chugach_State_Park%2C_Alaska.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Paxson Woelber",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 80852,
       "breakdown": {
@@ -5838,11 +5098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oak_tree%2C_near_Kersoe_-_geograph.org.uk_-_851570.jpg/500px-Oak_tree%2C_near_Kersoe_-_geograph.org.uk_-_851570.jpg",
         "title": "File:Oak tree, near Kersoe - geograph.org.uk - 851570.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOak_tree%2C_near_Kersoe_-_geograph.org.uk_-_851570.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Philip Halling",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 34629851,
       "breakdown": {
@@ -5867,11 +5123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Row_of_Poplar_Trees_-_geograph.org.uk_-_242206.jpg",
         "title": "File:Row of Poplar Trees - geograph.org.uk - 242206.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARow_of_Poplar_Trees_-_geograph.org.uk_-_242206.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Richard Thomas",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 2132685,
       "breakdown": {
@@ -5896,11 +5148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coastal_rock_formation.jpg/500px-Coastal_rock_formation.jpg",
         "title": "File:Coastal rock formation.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACoastal_rock_formation.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Kakofonous",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1336727,
       "breakdown": {
@@ -5925,11 +5173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vanatinai%2C_Louisiade_Archipelago.jpg/500px-Vanatinai%2C_Louisiade_Archipelago.jpg",
         "title": "File:Vanatinai, Louisiade Archipelago.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVanatinai%2C_Louisiade_Archipelago.jpg",
-        "source": "Wikimedia Commons",
-        "author": "NASA image by Jesse Allen and Rob Simmon, using data provided by the United States Geological Survey.",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "NASA Earth Observatory"
+        "source": "Wikimedia Commons"
       },
       "count": 96965,
       "breakdown": {
@@ -5954,11 +5198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vorderrhein_Mundaun.JPG/500px-Vorderrhein_Mundaun.JPG",
         "title": "File:Vorderrhein Mundaun.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVorderrhein_Mundaun.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Adrian Michael",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 88461,
       "breakdown": {
@@ -5983,11 +5223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fjell.jpg/500px-Fjell.jpg",
         "title": "File:Fjell.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFjell.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Sjoehest at German Wikipedia",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from de.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 28602,
       "breakdown": {
@@ -6012,11 +5248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LinvilleGorge.jpg/500px-LinvilleGorge.jpg",
         "title": "File:LinvilleGorge.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALinvilleGorge.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Amcbride~commonswiki assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 64352,
       "breakdown": {
@@ -6041,11 +5273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Residential_buildings_along_a_road_in_San_Francisco.jpg/500px-Residential_buildings_along_a_road_in_San_Francisco.jpg",
         "title": "File:Residential buildings along a road in San Francisco.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AResidential_buildings_along_a_road_in_San_Francisco.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Vladimir Kudinov",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "https://unsplash.com/photos/T0vd4uCvSH8"
+        "source": "Wikimedia Commons"
       },
       "count": 10762766,
       "breakdown": {
@@ -6070,11 +5298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Currant_Creek_Power_Plant.jpg/500px-Currant_Creek_Power_Plant.jpg",
         "title": "File:Currant Creek Power Plant.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACurrant_Creek_Power_Plant.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Staplegunther at English Wikipedia",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Transferred from en.wikipedia to Commons by Teratornis using CommonsHelper ."
+        "source": "Wikimedia Commons"
       },
       "count": 1453961,
       "breakdown": {
@@ -6099,11 +5323,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cambourne_Business_Park_-_geograph.org.uk_-_15908.jpg/500px-Cambourne_Business_Park_-_geograph.org.uk_-_15908.jpg",
         "title": "File:Cambourne Business Park - geograph.org.uk - 15908.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambourne_Business_Park_-_geograph.org.uk_-_15908.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Toby Speight",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 602979,
       "breakdown": {
@@ -6128,11 +5348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Trocadero_-_London_1.jpg/500px-Trocadero_-_London_1.jpg",
         "title": "File:Trocadero - London 1.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrocadero_-_London_1.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Edward assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 422183,
       "breakdown": {
@@ -6157,11 +5373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AL%C4%B0_EKS%C4%B0_ONYX1_-_panoramio_-_cropped.jpg/500px-AL%C4%B0_EKS%C4%B0_ONYX1_-_panoramio_-_cropped.jpg",
         "title": "File:ALİ EKSİ ONYX1 - panoramio - cropped.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAL%C4%B0_EKS%C4%B0_ONYX1_-_panoramio_-_cropped.jpg",
-        "source": "Wikimedia Commons",
-        "author": "MERMERCİ ÖZGÜR",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "https://web.archive.org/web/20161010194234/http://www.panoramio.com/photo/8752991 via File:ALİ EKSİ ONYX1 - panoramio.jpg"
+        "source": "Wikimedia Commons"
       },
       "count": 254416,
       "breakdown": {
@@ -6186,11 +5398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Landfill_Hawaii.jpg/500px-Landfill_Hawaii.jpg",
         "title": "File:Landfill Hawaii.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandfill_Hawaii.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Eric Guinther",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 58727,
       "breakdown": {
@@ -6215,11 +5423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Construction_Site.JPG/500px-Construction_Site.JPG",
         "title": "File:Construction Site.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AConstruction_Site.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Mark Ahsmann",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 276036,
       "breakdown": {
@@ -6294,11 +5498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Three_mile_island_062010.jpg/500px-Three_mile_island_062010.jpg",
         "title": "File:Three mile island 062010.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThree_mile_island_062010.jpg",
-        "source": "Wikimedia Commons",
-        "author": "myself",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Self-photographed"
+        "source": "Wikimedia Commons"
       },
       "count": 164991,
       "breakdown": {
@@ -6323,11 +5523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Legacy_National_Grid_Substation_-_geograph.org.uk_-_39134.jpg/500px-Legacy_National_Grid_Substation_-_geograph.org.uk_-_39134.jpg",
         "title": "File:Legacy National Grid Substation - geograph.org.uk - 39134.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALegacy_National_Grid_Substation_-_geograph.org.uk_-_39134.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Neale",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 889843,
       "breakdown": {
@@ -6356,11 +5552,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Paderborn_Germany_Turbines-of-Paderborn-windfarm-01.jpg/500px-Paderborn_Germany_Turbines-of-Paderborn-windfarm-01.jpg",
         "title": "File:Paderborn Germany Turbines-of-Paderborn-windfarm-01.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APaderborn_Germany_Turbines-of-Paderborn-windfarm-01.jpg",
-        "source": "Wikimedia Commons",
-        "author": "CEphoto, Uwe Aranas",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 473175,
       "breakdown": null,
@@ -6385,11 +5577,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giant_photovoltaic_array.jpg/500px-Giant_photovoltaic_array.jpg",
         "title": "File:Giant photovoltaic array.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGiant_photovoltaic_array.jpg",
-        "source": "Wikimedia Commons",
-        "author": "U.S. Air Force photo/Airman 1st Class Nadine Y. Barclay",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "NELLIS AIR FORCE BASE website - Solar panels connect to base electric grid – orignial image"
+        "source": "Wikimedia Commons"
       },
       "count": 6237870,
       "breakdown": null,
@@ -6414,11 +5602,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam_Nevada_Luftaufnahme.jpg/500px-Hoover_Dam_Nevada_Luftaufnahme.jpg",
         "title": "File:Hoover Dam Nevada Luftaufnahme.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHoover_Dam_Nevada_Luftaufnahme.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Mikano",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "selbst fotografiert 2003"
+        "source": "Wikimedia Commons"
       },
       "count": 13965,
       "breakdown": null,
@@ -6443,11 +5627,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Billiken_soccer.jpg/500px-Billiken_soccer.jpg",
         "title": "File:Billiken soccer.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilliken_soccer.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Wilson Delgado",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Wilson Delgado"
+        "source": "Wikimedia Commons"
       },
       "count": 633662,
       "breakdown": null,
@@ -6472,11 +5652,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kenyon_Martin_over_Dirk_Nowitzki.jpg/500px-Kenyon_Martin_over_Dirk_Nowitzki.jpg",
         "title": "File:Kenyon Martin over Dirk Nowitzki.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKenyon_Martin_over_Dirk_Nowitzki.jpg",
-        "source": "Wikimedia Commons",
-        "author": "David Herrera from Albuquerque, NM, Bernalillo",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Nuggets/Mavericks Game 5 action"
+        "source": "Wikimedia Commons"
       },
       "count": 344437,
       "breakdown": null,
@@ -6501,11 +5677,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Yes_NCTU_tennis_2.JPG/500px-Yes_NCTU_tennis_2.JPG",
         "title": "File:Yes NCTU tennis 2.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYes_NCTU_tennis_2.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Bamboo Lake ( talk )",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work ( Original text: I created this work entirely by myself. )"
+        "source": "Wikimedia Commons"
       },
       "count": 582993,
       "breakdown": null,
@@ -6530,11 +5702,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baseball_swing.jpg/500px-Baseball_swing.jpg",
         "title": "File:Baseball swing.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABaseball_swing.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 174639,
       "breakdown": null,
@@ -6559,11 +5727,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cleveland_Browns_October_2004.jpg/500px-Cleveland_Browns_October_2004.jpg",
         "title": "File:Cleveland Browns October 2004.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACleveland_Browns_October_2004.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Flickr user Zoonabar",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "https://www.flickr.com/photos/zoonabar/154354933/"
+        "source": "Wikimedia Commons"
       },
       "count": 22447,
       "breakdown": null,
@@ -6584,11 +5748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/All_Black_maul_vs_Springboks_Tri_nations_2011-07-30.JPG/500px-All_Black_maul_vs_Springboks_Tri_nations_2011-07-30.JPG",
         "title": "File:All Black maul vs Springboks Tri nations 2011-07-30.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAll_Black_maul_vs_Springboks_Tri_nations_2011-07-30.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Udufruduhu",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 7996,
       "breakdown": {
@@ -6617,11 +5777,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cricket_pic.jpg",
         "title": "File:Cricket pic.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACricket_pic.jpg",
-        "source": "Wikimedia Commons",
-        "author": "THUGCHILDz",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 15927,
       "breakdown": null,
@@ -6646,11 +5802,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Volleyball_game.jpg/500px-Volleyball_game.jpg",
         "title": "File:Volleyball game.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVolleyball_game.jpg",
-        "source": "Wikimedia Commons",
-        "author": "U.S Navy photo by Photographer's Mate 2nd Class Terry Spain",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "navy.mil"
+        "source": "Wikimedia Commons"
       },
       "count": 34507,
       "breakdown": null,
@@ -6671,11 +5823,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/POL_-_ISL_%2801%29_-_2010_European_Men%27s_Handball_Championship.jpg/500px-POL_-_ISL_%2801%29_-_2010_European_Men%27s_Handball_Championship.jpg",
         "title": "File:POL - ISL (01) - 2010 European Men's Handball Championship.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APOL_-_ISL_(01)_-_2010_European_Men's_Handball_Championship.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Steindy ( talk ) 00:26, 3 February 2010 (UTC)",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 7762,
       "breakdown": {
@@ -6700,11 +5848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dutch_Women_Hockey_-_Shielding_the_ball.jpg/500px-Dutch_Women_Hockey_-_Shielding_the_ball.jpg",
         "title": "File:Dutch Women Hockey - Shielding the ball.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADutch_Women_Hockey_-_Shielding_the_ball.jpg",
-        "source": "Wikimedia Commons",
-        "author": "fourthandfifteen",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Shielding the ball"
+        "source": "Wikimedia Commons"
       },
       "count": 6233,
       "breakdown": {
@@ -6754,11 +5898,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Western_Leisure_Centre%2C_Cardiff%2C_Wales.jpg/500px-Western_Leisure_Centre%2C_Cardiff%2C_Wales.jpg",
         "title": "File:Western Lesiure Centre Cardiff.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWestern_Lesiure_Centre_Cardiff.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Welsh leprechaun",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "I ( Welsh leprechaun ) created this work entirely by myself."
+        "source": "Wikimedia Commons"
       },
       "count": 269790,
       "breakdown": {
@@ -6783,11 +5923,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Notre-dame-stadium.jpg/500px-Notre-dame-stadium.jpg",
         "title": "File:Notre-dame-stadium.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANotre-dame-stadium.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Tysto",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 52013,
       "breakdown": {
@@ -6812,11 +5948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Skyttis_athletics_tracks.jpg/500px-Skyttis_athletics_tracks.jpg",
         "title": "File:Skyttis athletics tracks.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASkyttis_athletics_tracks.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Petey21",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 166620,
       "breakdown": {
@@ -6841,11 +5973,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/View_of_golf_hole_course.jpg/500px-View_of_golf_hole_course.jpg",
         "title": "File:View of golf hole course.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AView_of_golf_hole_course.jpg",
-        "source": "Wikimedia Commons",
-        "author": "daveynin from United States",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Perfect view of golf hole course"
+        "source": "Wikimedia Commons"
       },
       "count": 39644,
       "breakdown": {
@@ -6870,11 +5998,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DSC09349_-_Dinosaur_Adventure_Golf_%2836408600863%29.jpg/500px-DSC09349_-_Dinosaur_Adventure_Golf_%2836408600863%29.jpg",
         "title": "File:DSC09349 - Dinosaur Adventure Golf (36408600863).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADSC09349_-_Dinosaur_Adventure_Golf_(36408600863).jpg",
-        "source": "Wikimedia Commons",
-        "author": "Dennis G. Jarvis",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "DSC09349 - Dinosaur Adventure Golf"
+        "source": "Wikimedia Commons"
       },
       "count": 10979,
       "breakdown": {
@@ -6903,11 +6027,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Skateboarder_in_the_air.jpg/500px-Skateboarder_in_the_air.jpg",
         "title": "File:Skateboarder in the air.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASkateboarder_in_the_air.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bengt Nyman",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "originally posted to Flickr as IMG_7437"
+        "source": "Wikimedia Commons"
       },
       "count": 28465,
       "breakdown": null,
@@ -6928,11 +6048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Children_playing_on_a_modern_playground.jpg/500px-Children_playing_on_a_modern_playground.jpg",
         "title": "File:Children playing on a modern playground.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AChildren_playing_on_a_modern_playground.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Rusty Clark ~ 100K Photos",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "Thanksgiving on Cocoa Beach FL"
+        "source": "Wikimedia Commons"
       },
       "count": 1016879,
       "breakdown": {
@@ -6982,11 +6098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG/500px-Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
         "title": "File:Outdoor gym in Parque de Bateria, Torremolinos.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOutdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Hans Olav Lien",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 103975,
       "breakdown": {
@@ -7011,11 +6123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Caribe01.jpg/500px-Caribe01.jpg",
         "title": "File:Caribe01.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACaribe01.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ana Santibañez",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Image propre"
+        "source": "Wikimedia Commons"
       },
       "count": 13360,
       "breakdown": {
@@ -7040,11 +6148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/North_Korea_Bowling_Alley.jpg/500px-North_Korea_Bowling_Alley.jpg",
         "title": "File:North Korea Bowling Alley.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Korea_Bowling_Alley.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Stefan Krasowski from New York, NY, USA",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "North Korea 048"
+        "source": "Wikimedia Commons"
       },
       "count": 6466,
       "breakdown": {
@@ -7069,11 +6173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Warendorf%2C_Reitanlage_Josephshof_--_2014_--_8591_--_Ausschnitt.jpg/500px-Warendorf%2C_Reitanlage_Josephshof_--_2014_--_8591_--_Ausschnitt.jpg",
         "title": "File:Warendorf, Reitanlage Josephshof -- 2014 -- 8591 -- Ausschnitt.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWarendorf%2C_Reitanlage_Josephshof_--_2014_--_8591_--_Ausschnitt.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Dietmar Rabich",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 22045,
       "breakdown": {
@@ -7098,11 +6198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Disc_golfer_and_basket.jpg/500px-Disc_golfer_and_basket.jpg",
         "title": "File:Disc golfer and basket.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADisc_golfer_and_basket.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Steve Ganz",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "credit": "https://www.flickr.com/photos/steveganz/11559175/"
+        "source": "Wikimedia Commons"
       },
       "count": 2824,
       "breakdown": {
@@ -7127,11 +6223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD-EG-Caire-Mus%C3%A9e007.JPG/500px-GD-EG-Caire-Mus%C3%A9e007.JPG",
         "title": "File:GD-EG-Caire-Musée007.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGD-EG-Caire-Mus%C3%A9e007.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Gérard Ducher ( user:Néfermaât )",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 111562,
       "breakdown": {
@@ -7181,11 +6273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_06_Eiffelturm_4828.jpg/500px-Paris_06_Eiffelturm_4828.jpg",
         "title": "File:Paris 06 Eiffelturm 4828.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AParis_06_Eiffelturm_4828.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Rüdiger Wölk This photo was taken by Rüdiger Wölk . Please credit this photo Rüdiger Wölk, Münster . View all photos (large page) of Rüdiger Wölk I would also appreciate an email to rudiger.wolk@gmail.com with details of use. Für Hinweise auf Veröffentlichungen (rudiger.wolk@gmail.com) oder Belegexemplare bin ich Ihnen dankbar.",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "photo taken by Rüdiger Wölk, Münster, Germany"
+        "source": "Wikimedia Commons"
       },
       "count": 255683,
       "breakdown": {
@@ -7210,11 +6298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viewpoint_on_Dinas_Oleu_-_geograph.org.uk_-_185767.jpg/500px-Viewpoint_on_Dinas_Oleu_-_geograph.org.uk_-_185767.jpg",
         "title": "File:Viewpoint on Dinas Oleu - geograph.org.uk - 185767.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AViewpoint_on_Dinas_Oleu_-_geograph.org.uk_-_185767.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Eirian Evans",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 265136,
       "breakdown": {
@@ -7239,11 +6323,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Begynnelse-4.jpg/500px-Begynnelse-4.jpg",
         "title": "File:Begynnelse-4.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABegynnelse-4.jpg",
-        "source": "Wikimedia Commons",
-        "author": "This image was produced by me, David Castor ( user:dcastor ). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 371104,
       "breakdown": {
@@ -7268,11 +6348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fleetwood_tourist_information_centre_-_DSC06596.JPG/500px-Fleetwood_tourist_information_centre_-_DSC06596.JPG",
         "title": "File:Fleetwood tourist information centre - DSC06596.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFleetwood_tourist_information_centre_-_DSC06596.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Rept0n1x",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1527451,
       "breakdown": {
@@ -7297,11 +6373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Befreiungshalle_P1230106.jpg/500px-Befreiungshalle_P1230106.jpg",
         "title": "File:Befreiungshalle P1230106.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABefreiungshalle_P1230106.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Fischer.H",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 72026,
       "breakdown": {
@@ -7326,11 +6398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lowertown_celtic_cross_memorial_to_fallen_canal_workers.jpg/500px-Lowertown_celtic_cross_memorial_to_fallen_canal_workers.jpg",
         "title": "File:Lowertown celtic cross memorial to fallen canal workers.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALowertown_celtic_cross_memorial_to_fallen_canal_workers.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Sherurcij",
-        "license": "Copyrighted free use",
-        "licenseUrl": null,
-        "credit": "Uploaded as en:Image:Canal Memorial.jpg on April 11 2006"
+        "source": "Wikimedia Commons"
       },
       "count": 517614,
       "breakdown": {
@@ -7355,11 +6423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Castillo_de_Montuenga%2C_Montuenga_de_Soria%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-23%2C_DD_04.jpg/500px-Castillo_de_Montuenga%2C_Montuenga_de_Soria%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-23%2C_DD_04.jpg",
         "title": "File:Castillo de Montuenga, Montuenga de Soria, Soria, España, 2017-05-23, DD 04.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACastillo_de_Montuenga%2C_Montuenga_de_Soria%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-23%2C_DD_04.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Diego Delso",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Self-photographed"
+        "source": "Wikimedia Commons"
       },
       "count": 54618,
       "breakdown": {
@@ -7384,11 +6448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Szczytno_-_ruiny_zamki_%2805%29.jpg/500px-Szczytno_-_ruiny_zamki_%2805%29.jpg",
         "title": "File:Szczytno - ruiny zamki (05).jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASzczytno_-_ruiny_zamki_(05).jpg",
-        "source": "Wikimedia Commons",
-        "author": "GringoPL",
-        "license": "CC BY-SA 3.0 pl",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 187517,
       "breakdown": {
@@ -7413,11 +6473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Archaeological_Site_of_Leptis_Magna-108958.jpg/500px-Archaeological_Site_of_Leptis_Magna-108958.jpg",
         "title": "File:Archaeological Site of Leptis Magna-108958.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AArchaeological_Site_of_Leptis_Magna-108958.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Giovanni Boccardi",
-        "license": "CC BY-SA 3.0 igo",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website ."
+        "source": "Wikimedia Commons"
       },
       "count": 230280,
       "breakdown": {
@@ -7442,11 +6498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/OdeonWestEnd.jpg",
         "title": "File:OdeonWestEnd.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOdeonWestEnd.jpg",
-        "source": "Wikimedia Commons",
-        "author": "The original uploader was Secretlondon at English Wikipedia .",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Transferred from en.wikipedia to Commons."
+        "source": "Wikimedia Commons"
       },
       "count": 31627,
       "breakdown": {
@@ -7471,11 +6523,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Royal_Opera_House_-_Floral_Hall_-_Bow_Street_-_London_-_240404.jpg/500px-Royal_Opera_House_-_Floral_Hall_-_Bow_Street_-_London_-_240404.jpg",
         "title": "File:Royal Opera House - Floral Hall - Bow Street - London - 240404.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Opera_House_-_Floral_Hall_-_Bow_Street_-_London_-_240404.jpg",
-        "source": "Wikimedia Commons",
-        "author": "user:Tagishsimon",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work Photo taken by Tagishsimon. Uploaded to en.wikipedia 15:29, 25 Apr 2004 by en:User:Tagishsimon and marked GFDL."
+        "source": "Wikimedia Commons"
       },
       "count": 53541,
       "breakdown": {
@@ -7500,11 +6548,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alhamra_Art_Centre.JPG/500px-Alhamra_Art_Centre.JPG",
         "title": "File:Alhamra Art Centre.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAlhamra_Art_Centre.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Khalid Mahmood",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 28653,
       "breakdown": {
@@ -7529,11 +6573,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fort_George_-_geograph.org.uk_-_1242152.jpg/500px-Fort_George_-_geograph.org.uk_-_1242152.jpg",
         "title": "File:Fort George - geograph.org.uk - 1242152.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFort_George_-_geograph.org.uk_-_1242152.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Stephen Branley",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 9403,
       "breakdown": {
@@ -7558,11 +6598,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/San_Diego_Zoo_entrance_elephant.jpg/500px-San_Diego_Zoo_entrance_elephant.jpg",
         "title": "File:San Diego Zoo entrance elephant.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASan_Diego_Zoo_entrance_elephant.jpg",
-        "source": "Wikimedia Commons",
-        "author": "en:User:Cburnett",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 9317,
       "breakdown": {
@@ -7587,11 +6623,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/20141220_Edificio_Baronesa_de_Arary.jpg/500px-20141220_Edificio_Baronesa_de_Arary.jpg",
         "title": "File:20141220 Edificio Baronesa de Arary.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A20141220_Edificio_Baronesa_de_Arary.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Sturm",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 563364899,
       "breakdown": {
@@ -7616,11 +6648,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zast%C3%A1vka_pam%C3%A1tn%C3%BD_dvojdomek.jpg/500px-Zast%C3%A1vka_pam%C3%A1tn%C3%BD_dvojdomek.jpg",
         "title": "File:Zastávka památný dvojdomek.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZast%C3%A1vka_pam%C3%A1tn%C3%BD_dvojdomek.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Dendrofil",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 68727651,
       "breakdown": {
@@ -7645,11 +6673,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1170_Sacramento_Street%2C_San_Francisco_%28December_2007%29.jpg/500px-1170_Sacramento_Street%2C_San_Francisco_%28December_2007%29.jpg",
         "title": "File:Apartment Building.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_Building.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Marlith",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 8111583,
       "breakdown": {
@@ -7674,11 +6698,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schuppen_7235.jpg/500px-Schuppen_7235.jpg",
         "title": "File:Schuppen 7235.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASchuppen_7235.jpg",
-        "source": "Wikimedia Commons",
-        "author": "User:Fb78",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Photo by User:Fb78"
+        "source": "Wikimedia Commons"
       },
       "count": 4638795,
       "breakdown": {
@@ -7703,11 +6723,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Two-Car_Garage.jpg/500px-Two-Car_Garage.jpg",
         "title": "File:Two-Car Garage.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATwo-Car_Garage.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ddgonzal",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 8329055,
       "breakdown": {
@@ -7732,11 +6748,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Landbouwstraat_garages.jpg/500px-Landbouwstraat_garages.jpg",
         "title": "File:Landbouwstraat garages.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandbouwstraat_garages.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Marion Golsteijn",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 1087590,
       "breakdown": {
@@ -7761,11 +6773,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2014_Karwina%2C_Dark%C3%B3w%2C_Most_%C5%BCelbetowy_01.jpg/500px-2014_Karwina%2C_Dark%C3%B3w%2C_Most_%C5%BCelbetowy_01.jpg",
         "title": "File:2014 Karwina, Darków, Most żelbetowy 01.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Karwina%2C_Dark%C3%B3w%2C_Most_%C5%BCelbetowy_01.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Hons084",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 337364,
       "breakdown": {
@@ -7790,11 +6798,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lucas-Cranach-Turm.JPG/500px-Lucas-Cranach-Turm.JPG",
         "title": "File:Lucas-Cranach-Turm.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALucas-Cranach-Turm.JPG",
-        "source": "Wikimedia Commons",
-        "author": "MetalMachine",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 461161,
       "breakdown": {
@@ -7819,11 +6823,7 @@
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2015_Zak%C5%82ad_Karny_w_K%C5%82odzku_02.JPG/500px-2015_Zak%C5%82ad_Karny_w_K%C5%82odzku_02.JPG",
         "title": "File:2015 Zakład Karny w Kłodzku 02.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2015_Zak%C5%82ad_Karny_w_K%C5%82odzku_02.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Jacek Halicki",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 6243957,
       "breakdown": {
@@ -7848,11 +6848,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zaun_Freilichtmuseum_Salzburg_02.JPG/500px-Zaun_Freilichtmuseum_Salzburg_02.JPG",
         "title": "File:Zaun Freilichtmuseum Salzburg 02.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZaun_Freilichtmuseum_Salzburg_02.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Immanuel Giel",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 9737375,
       "breakdown": {
@@ -7877,11 +6873,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/f/fe/Bench.jpg",
         "title": "File:Bench.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ABench.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "No machine-readable author provided. Rmrfstar assumed (based on copyright claims).",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "OpenStreetMap Wiki"
       },
       "count": 3443164,
       "breakdown": {
@@ -7906,11 +6898,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vuilnisbak-Lebbeke.JPG/500px-Vuilnisbak-Lebbeke.JPG",
         "title": "File:Vuilnisbak-Lebbeke.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVuilnisbak-Lebbeke.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Volkov Vitaly ru:Участник:Kneiphof",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-        "credit": "uploaded by author"
+        "source": "Wikimedia Commons"
       },
       "count": 1266683,
       "breakdown": {
@@ -7960,11 +6948,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/R%C3%A9union_Ma%C3%AFdo_kiosque_pique-nique.JPG/500px-R%C3%A9union_Ma%C3%AFdo_kiosque_pique-nique.JPG",
         "title": "File:Réunion Maïdo kiosque pique-nique.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AR%C3%A9union_Ma%C3%AFdo_kiosque_pique-nique.JPG",
-        "source": "Wikimedia Commons",
-        "author": "B.navez",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 692755,
       "breakdown": {
@@ -8039,11 +7023,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vending_machines_at_Haeundae.jpg/500px-Vending_machines_at_Haeundae.jpg",
         "title": "File:Vending machines at Haeundae.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVending_machines_at_Haeundae.jpg",
-        "source": "Wikimedia Commons",
-        "author": "No machine-readable author provided. Yuyudevil assumed (based on copyright claims).",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+        "source": "Wikimedia Commons"
       },
       "count": 372499,
       "breakdown": {
@@ -8068,11 +7048,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bubbler.jpg/500px-Bubbler.jpg",
         "title": "File:Bubbler.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABubbler.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Sulfur",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 370129,
       "breakdown": {
@@ -8122,11 +7098,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BBQ_located_in_Capital_Park_in_Lyndhurst.jpg/500px-BBQ_located_in_Capital_Park_in_Lyndhurst.jpg",
         "title": "File:BBQ located in Capital Park in Lyndhurst.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABBQ_located_in_Capital_Park_in_Lyndhurst.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Bidgee",
-        "license": "CC BY-SA 3.0 au",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 47513,
       "breakdown": {
@@ -8151,11 +7123,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FoodCourtVaughanMills.JPG/500px-FoodCourtVaughanMills.JPG",
         "title": "File:FoodCourtVaughanMills.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFoodCourtVaughanMills.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 17655,
       "breakdown": {
@@ -8180,11 +7148,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rome_Italian_deli.jpg/500px-Rome_Italian_deli.jpg",
         "title": "File:Rome Italian deli.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARome_Italian_deli.jpg",
-        "source": "Wikimedia Commons",
-        "author": null,
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "credit": null
+        "source": "Wikimedia Commons"
       },
       "count": 27112,
       "breakdown": {
@@ -8209,11 +7173,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sweet_Shop%2C_Chester.JPG/500px-Sweet_Shop%2C_Chester.JPG",
         "title": "File:Sweet Shop, Chester.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASweet_Shop%2C_Chester.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Rept0n1x",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 42629,
       "breakdown": {
@@ -8238,11 +7198,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cheese_shop_P1010071.JPG/500px-Cheese_shop_P1010071.JPG",
         "title": "File:Cheese shop P1010071.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACheese_shop_P1010071.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Gizmodesign",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 7958,
       "breakdown": {
@@ -8267,11 +7223,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wine_retail_area_-_Enoteca_Vino_Bar.jpg/500px-Wine_retail_area_-_Enoteca_Vino_Bar.jpg",
         "title": "File:Wine retail area - Enoteca Vino Bar.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWine_retail_area_-_Enoteca_Vino_Bar.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Alpha",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "originally posted to Flickr as Wine retail area - Enoteca Vino Bar"
+        "source": "Wikimedia Commons"
       },
       "count": 22361,
       "breakdown": {
@@ -8296,11 +7248,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lille_Meert2.JPG/500px-Lille_Meert2.JPG",
         "title": "File:Lille Meert2.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALille_Meert2.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Welleschik",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 35321,
       "breakdown": {
@@ -8325,11 +7273,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG/500px-Outdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
         "title": "File:Outdoor gym in Parque de Bateria, Torremolinos.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOutdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Hans Olav Lien",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 196438,
       "breakdown": {
@@ -8354,11 +7298,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Village_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg/500px-Village_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg",
         "title": "File:Village green at Beddgelert - geograph.org.uk - 2945117.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVillage_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Trevor Rickard",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "Geograph Britain and Ireland"
+        "source": "Wikimedia Commons"
       },
       "count": 91476,
       "breakdown": {
@@ -8383,11 +7323,7 @@
         "url": "https://wiki.openstreetmap.org/w/images/c/c1/Farmyard.jpg",
         "title": "File:Farmyard.jpg",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFarmyard.jpg",
-        "source": "OpenStreetMap Wiki",
-        "author": "Allan Walton (1891-1948)",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=10654"
+        "source": "OpenStreetMap Wiki"
       },
       "count": 1645310,
       "breakdown": {
@@ -8412,11 +7348,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cutchogue_-_Oregon_Road_-_Plant_Nursery.jpg/500px-Cutchogue_-_Oregon_Road_-_Plant_Nursery.jpg",
         "title": "File:Cutchogue - Oregon Road - Plant Nursery.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACutchogue_-_Oregon_Road_-_Plant_Nursery.jpg",
-        "source": "Wikimedia Commons",
-        "author": "C. G. P. Grey",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "credit": "[1]"
+        "source": "Wikimedia Commons"
       },
       "count": 79148,
       "breakdown": {
@@ -8441,11 +7373,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flower_Garden_Kromeriz.jpg/500px-Flower_Garden_Kromeriz.jpg",
         "title": "File:Flower Garden Kromeriz.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFlower_Garden_Kromeriz.jpg",
-        "source": "Wikimedia Commons",
-        "author": "P.matel",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 162671,
       "breakdown": {
@@ -8470,11 +7398,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Greenfields_-_geograph.org.uk_-_1202824.jpg/500px-Greenfields_-_geograph.org.uk_-_1202824.jpg",
         "title": "File:Greenfields - geograph.org.uk - 1202824.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGreenfields_-_geograph.org.uk_-_1202824.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Simon Carey",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "credit": "From geograph.org.uk"
+        "source": "Wikimedia Commons"
       },
       "count": 94257,
       "breakdown": {
@@ -8499,11 +7423,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pista_hielo_bakh.jpg/500px-Pista_hielo_bakh.jpg",
         "title": "File:Pista hielo bakh.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APista_hielo_bakh.jpg",
-        "source": "Wikimedia Commons",
-        "author": "Ardo Beltz",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 10088,
       "breakdown": {
@@ -8528,11 +7448,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Physical_Rehabilitation.png/500px-Physical_Rehabilitation.png",
         "title": "File:Physical Rehabilitation.png",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APhysical_Rehabilitation.png",
-        "source": "Wikimedia Commons",
-        "author": "Cabblow",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 6142,
       "breakdown": {
@@ -8557,11 +7473,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Provincetown_Spit_Cape_Cod.jpg/500px-Provincetown_Spit_Cape_Cod.jpg",
         "title": "File:Provincetown Spit Cape Cod.jpg",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AProvincetown_Spit_Cape_Cod.jpg",
-        "source": "Wikimedia Commons",
-        "author": "NASA",
-        "license": "Public domain",
-        "licenseUrl": null,
-        "credit": "http://www.nasa.gov/multimedia/imagegallery/image_feature_440.html"
+        "source": "Wikimedia Commons"
       },
       "count": 64749,
       "breakdown": {
@@ -8586,11 +7498,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/D%C3%BCne_S-Schlag_Sossusvlei.JPG/500px-D%C3%BCne_S-Schlag_Sossusvlei.JPG",
         "title": "File:Düne S-Schlag Sossusvlei.JPG",
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AD%C3%BCne_S-Schlag_Sossusvlei.JPG",
-        "source": "Wikimedia Commons",
-        "author": "Harald Süpfle",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "credit": "Own work"
+        "source": "Wikimedia Commons"
       },
       "count": 3681,
       "breakdown": {

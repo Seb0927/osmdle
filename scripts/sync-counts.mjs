@@ -10,7 +10,7 @@ const CACHE_DIR = path.join(ROOT, '.cache')
 const CACHE_PATH = path.join(CACHE_DIR, 'taginfo.json')
 
 const TAGINFO = 'https://taginfo.openstreetmap.org/api/4'
-const COMMONS = 'https://commons.wikimedia.org/w/api.php'
+const WIKI_HOST = 'wiki.openstreetmap.org'
 const USER_AGENT = 'osmdle/0.1 (+https://github.com/Seb0927/osmdle)'
 const REQUEST_DELAY_MS = 250
 const MIN_COUNT = 1000
@@ -92,23 +92,6 @@ function tagListKey(tags) {
     .join('|')
 }
 
-function stripHtml(value) {
-  if (!value) {
-    return null
-  }
-  const text = value
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'")
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/\s+/g, ' ')
-    .trim()
-  return text || null
-}
-
 function resolveImageUrl(image) {
   if (!image) {
     return null
@@ -131,37 +114,12 @@ function resolveImageUrl(image) {
   return `${image.thumb_url_prefix}500${image.thumb_url_suffix}`.split('?')[0]
 }
 
-function pageUrlFor(imageUrl, title) {
-  const host = imageUrl?.includes('wiki.openstreetmap.org')
-    ? 'https://wiki.openstreetmap.org/wiki'
-    : 'https://commons.wikimedia.org/wiki'
+function pageUrlFor(source, title) {
+  const host =
+    source === 'OpenStreetMap Wiki'
+      ? 'https://wiki.openstreetmap.org/wiki'
+      : 'https://commons.wikimedia.org/wiki'
   return `${host}/${encode(title.replaceAll(' ', '_'))}`
-}
-
-async function resolveImageAttribution(imageUrl, title) {
-  const apis = imageUrl?.includes('wiki.openstreetmap.org')
-    ? ['https://wiki.openstreetmap.org/w/api.php', COMMONS]
-    : [COMMONS]
-
-  for (const api of apis) {
-    try {
-      const url = `${api}?action=query&format=json&prop=imageinfo&iiprop=extmetadata&titles=${encode(title)}`
-      const data = await fetchJson(url)
-      const page = Object.values(data.query?.pages ?? {})[0]
-      const metadata = page?.imageinfo?.[0]?.extmetadata
-      if (!metadata || (!metadata.Artist && !metadata.LicenseShortName)) {
-        continue
-      }
-      return {
-        author: stripHtml(metadata.Artist?.value),
-        license: stripHtml(metadata.LicenseShortName?.value),
-        licenseUrl: stripHtml(metadata.LicenseUrl?.value),
-        credit: stripHtml(metadata.Credit?.value),
-      }
-    } catch {}
-  }
-
-  return null
 }
 
 async function resolveCount(tags) {
@@ -232,17 +190,13 @@ async function resolveWiki(tags) {
     const row = rows.find((entry) => entry.lang === 'en') ?? rows[0]
     const imageData = row.image
     const imageUrl = imageData ? resolveImageUrl(imageData) : null
-    const image = imageData
+    const source = imageUrl?.includes(WIKI_HOST) ? 'OpenStreetMap Wiki' : 'Wikimedia Commons'
+    const image = imageData?.title
       ? {
           url: imageUrl,
-          title: imageData.title ?? null,
-          pageUrl: imageData.title && imageUrl ? pageUrlFor(imageUrl, imageData.title) : null,
-          source: imageUrl?.includes('wiki.openstreetmap.org')
-            ? 'OpenStreetMap Wiki'
-            : 'Wikimedia Commons',
-          ...(imageData.title
-            ? ((await resolveImageAttribution(imageUrl, imageData.title)) ?? {})
-            : {}),
+          title: imageData.title,
+          pageUrl: pageUrlFor(source, imageData.title),
+          source,
         }
       : null
 
@@ -311,7 +265,7 @@ async function main() {
         warnings.push(`${label}: no wiki description`)
       }
 
-      if (!wiki?.image?.url) {
+      if (!wiki?.image) {
         warnings.push(`${label}: no wiki image`)
       }
 

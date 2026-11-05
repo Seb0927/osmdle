@@ -24,10 +24,6 @@ export interface ElementImage {
   title: string | null
   pageUrl: string | null
   source: string
-  author?: string | null
-  license?: string | null
-  licenseUrl?: string | null
-  credit?: string | null
 }
 
 export interface ElementBreakdown {

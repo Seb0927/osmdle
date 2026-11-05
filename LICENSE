@@ -38,7 +38,7 @@ https://creativecommons.org/licenses/by-sa/2.0/
 
 # Images
 
-Image files are not included in this repository. Each image is credited with
-its source, author, and license in the image metadata stored in
-data/elements.json, and keeps the license stated there. The images are hosted
-by Wikimedia Commons and the OpenStreetMap Wiki.
+Image files are not included in this repository. Each image links to its
+source page on Wikimedia Commons or the OpenStreetMap Wiki, where the available
+author and license information is listed. The images keep the licenses stated
+on those pages.
