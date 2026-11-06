@@ -13,6 +13,7 @@ const TAGINFO = 'https://taginfo.openstreetmap.org/api/4'
 const WIKI_HOST = 'wiki.openstreetmap.org'
 const USER_AGENT = 'osmdle/0.1 (+https://github.com/Seb0927/osmdle)'
 const REQUEST_DELAY_MS = 250
+const CACHE_FALLBACK_TTL_MS = 60 * 60 * 1000
 const MIN_COUNT = 1000
 const WARN_COUNT = 5000
 
@@ -42,9 +43,24 @@ function encode(value) {
   return encodeURIComponent(value)
 }
 
+function cacheExpiresAt(response) {
+  const expires = Date.parse(response.headers.get('expires') ?? '')
+  if (Number.isFinite(expires)) {
+    return expires
+  }
+
+  const maxAge = response.headers.get('cache-control')?.match(/max-age=(\d+)/)
+  if (maxAge) {
+    return Date.now() + Number(maxAge[1]) * 1000
+  }
+
+  return Date.now() + CACHE_FALLBACK_TTL_MS
+}
+
 async function fetchJson(url) {
-  if (cache.responses[url]) {
-    return cache.responses[url]
+  const cached = cache.responses[url]
+  if (cached?.expiresAt > Date.now()) {
+    return cached.json
   }
 
   for (let attempt = 0; attempt < 5; attempt += 1) {
@@ -72,7 +88,7 @@ async function fetchJson(url) {
     }
 
     const json = await response.json()
-    cache.responses[url] = json
+    cache.responses[url] = { json, expiresAt: cacheExpiresAt(response) }
     requestsSinceSave += 1
     if (requestsSinceSave >= 20) {
       requestsSinceSave = 0
