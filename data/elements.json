@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshot": "2026-11",
-  "generatedAt": "2026-11-05T13:05:05.350Z",
+  "generatedAt": "2026-11-06T02:29:44.081Z",
   "source": {
     "name": "Taginfo",
     "url": "https://taginfo.openstreetmap.org",
@@ -25,11 +25,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASt%C4%85pork%C3%B3w%2C_Szko%C5%82a_Podstawowa_nr_2.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1451104,
+      "count": 1452950,
       "breakdown": {
-        "nodes": 547497,
-        "ways": 874447,
-        "relations": 29160
+        "nodes": 547612,
+        "ways": 876157,
+        "relations": 29181
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=school"
     },
@@ -50,11 +50,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAF-kindergarten.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 340391,
+      "count": 341001,
       "breakdown": {
-        "nodes": 158158,
-        "ways": 176140,
-        "relations": 6093
+        "nodes": 158249,
+        "ways": 176649,
+        "relations": 6103
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=kindergarten"
     },
@@ -75,11 +75,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambridge_Regional_College_main_entrance.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 72075,
+      "count": 72196,
       "breakdown": {
-        "nodes": 29132,
-        "ways": 40561,
-        "relations": 2382
+        "nodes": 29189,
+        "ways": 40621,
+        "relations": 2386
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=college"
     },
@@ -100,11 +100,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AManchester_University_Oxford_Road_-_50140147893.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 58263,
+      "count": 58355,
       "breakdown": {
-        "nodes": 16329,
-        "ways": 37513,
-        "relations": 4421
+        "nodes": 16384,
+        "ways": 37532,
+        "relations": 4439
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=university"
     },
@@ -125,11 +125,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGuantanamo_captives'_library_a.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 113435,
+      "count": 113613,
       "breakdown": {
-        "nodes": 69415,
-        "ways": 43011,
-        "relations": 1009
+        "nodes": 69515,
+        "ways": 43085,
+        "relations": 1013
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=library"
     },
@@ -150,11 +150,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATownHall-Ljubljana.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 178486,
+      "count": 178608,
       "breakdown": {
-        "nodes": 76748,
-        "ways": 99775,
-        "relations": 1963
+        "nodes": 76732,
+        "ways": 99906,
+        "relations": 1970
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=townhall"
     },
@@ -175,10 +175,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMeade_and_Prettyman_Courthouse.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 32195,
+      "count": 31776,
       "breakdown": {
-        "nodes": 14435,
-        "ways": 16842,
+        "nodes": 13981,
+        "ways": 16877,
         "relations": 918
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=courthouse"
@@ -200,11 +200,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APost_office_Wenigzell%2C_Styria.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 218117,
+      "count": 218294,
       "breakdown": {
-        "nodes": 174558,
-        "ways": 43327,
-        "relations": 232
+        "nodes": 174669,
+        "ways": 43392,
+        "relations": 233
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=post_office"
     },
@@ -225,9 +225,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUSPS_Mailbox.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 414115,
+      "count": 414942,
       "breakdown": {
-        "nodes": 413986,
+        "nodes": 414813,
         "ways": 129,
         "relations": 0
       },
@@ -250,11 +250,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMet_Police_Blue_Lamp.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 163347,
+      "count": 163589,
       "breakdown": {
-        "nodes": 92982,
-        "ways": 68840,
-        "relations": 1525
+        "nodes": 93048,
+        "ways": 69012,
+        "relations": 1529
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=police"
     },
@@ -275,11 +275,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATower_Ladder_119_26_Hooper_St_jeh.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 148719,
+      "count": 148943,
       "breakdown": {
-        "nodes": 60068,
-        "ways": 87931,
-        "relations": 720
+        "nodes": 60062,
+        "ways": 88155,
+        "relations": 726
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fire_station"
     },
@@ -300,11 +300,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABuergerhaus_Ronhausen.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 222754,
+      "count": 223722,
       "breakdown": {
-        "nodes": 86338,
-        "ways": 134747,
-        "relations": 1669
+        "nodes": 86746,
+        "ways": 135299,
+        "relations": 1677
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=community_centre"
     },
@@ -325,11 +325,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APlace_of_worship.png",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 1628320,
+      "count": 1631833,
       "breakdown": {
-        "nodes": 601229,
-        "ways": 1017122,
-        "relations": 9969
+        "nodes": 601935,
+        "ways": 1019902,
+        "relations": 9996
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=place_of_worship"
     },
@@ -350,11 +350,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AImmeuble_du_Cr%C3%A9dit_Lyonnais_(si%C3%A8ge).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 412832,
+      "count": 413268,
       "breakdown": {
-        "nodes": 312411,
-        "ways": 99559,
-        "relations": 862
+        "nodes": 312684,
+        "ways": 99716,
+        "relations": 868
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bank"
     },
@@ -375,10 +375,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFr%C3%BCher_Bankautomat_von_Nixdorf_retouched.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 244153,
+      "count": 244571,
       "breakdown": {
-        "nodes": 243514,
-        "ways": 627,
+        "nodes": 243933,
+        "ways": 626,
         "relations": 12
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=atm"
@@ -400,11 +400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJewish_cemetery_Worms.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 603628,
+      "count": 605457,
       "breakdown": {
-        "nodes": 6025,
-        "ways": 583299,
-        "relations": 14304
+        "nodes": 6043,
+        "ways": 585085,
+        "relations": 14329
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=cemetery"
     },
@@ -425,11 +425,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AOdenbuell_Nordstrand_St_Vinzenz_IMGP2940_wp_crop.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 160208,
+      "count": 160445,
       "breakdown": {
-        "nodes": 35659,
-        "ways": 120317,
-        "relations": 4232
+        "nodes": 35597,
+        "ways": 120610,
+        "relations": 4238
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=grave_yard"
     },
@@ -450,11 +450,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHora_Svate_Kateriny_-_nursing_home.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 12088,
+      "count": 12071,
       "breakdown": {
-        "nodes": 7341,
-        "ways": 4395,
-        "relations": 352
+        "nodes": 7338,
+        "ways": 4382,
+        "relations": 351
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=nursing_home"
     },
@@ -475,11 +475,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADriving_school_in_Bia%C5%82ystok_(Mechaniak).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 35724,
+      "count": 35817,
       "breakdown": {
-        "nodes": 29005,
-        "ways": 6592,
-        "relations": 127
+        "nodes": 29094,
+        "ways": 6595,
+        "relations": 128
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=driving_school"
     },
@@ -500,11 +500,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASalvation_Army_Citadel%2C_Hill_Street_%2C_Newport_-_geograph.org.uk_-_1585015.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 181552,
+      "count": 182186,
       "breakdown": {
-        "nodes": 88490,
-        "ways": 87795,
-        "relations": 5267
+        "nodes": 88793,
+        "ways": 88104,
+        "relations": 5289
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=social_facility"
     },
@@ -525,11 +525,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUSMC-13550.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 76807,
+      "count": 76969,
       "breakdown": {
-        "nodes": 49842,
-        "ways": 26751,
-        "relations": 214
+        "nodes": 49957,
+        "ways": 26797,
+        "relations": 215
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=childcare"
     },
@@ -550,11 +550,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AObama_standing_in_the_Oval_Office.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 309549,
+      "count": 310366,
       "breakdown": {
-        "nodes": 175703,
-        "ways": 129759,
-        "relations": 4087
+        "nodes": 176264,
+        "ways": 129995,
+        "relations": 4107
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/office=government"
     },
@@ -575,11 +575,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMelbourne_Conference_Centre_December_2012.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 7475,
+      "count": 7518,
       "breakdown": {
-        "nodes": 2742,
-        "ways": 4579,
-        "relations": 154
+        "nodes": 2761,
+        "ways": 4602,
+        "relations": 155
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=conference_centre"
     },
@@ -600,10 +600,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGovernor_Hotel%2C_Rotary_Club_of_Portland_plaque.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 15330,
+      "count": 15367,
       "breakdown": {
-        "nodes": 6719,
-        "ways": 8486,
+        "nodes": 6720,
+        "ways": 8522,
         "relations": 125
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=social_centre"
@@ -625,10 +625,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANiles_Banquet_Hall_2662_02.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 36887,
+      "count": 37151,
       "breakdown": {
-        "nodes": 17262,
-        "ways": 19321,
+        "nodes": 17416,
+        "ways": 19431,
         "relations": 304
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=events_venue"
@@ -650,11 +650,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMusic_school_from_Rabnita_(1980)._(9196267787).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 13924,
+      "count": 13992,
       "breakdown": {
-        "nodes": 9847,
-        "ways": 3957,
-        "relations": 120
+        "nodes": 9899,
+        "ways": 3971,
+        "relations": 122
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=music_school"
     },
@@ -675,10 +675,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEagle_Ranger_Station_NRHP_07000713_Clallam_County%2C_WA.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5109,
+      "count": 5133,
       "breakdown": {
-        "nodes": 1452,
-        "ways": 3625,
+        "nodes": 1461,
+        "ways": 3640,
         "relations": 32
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ranger_station"
@@ -700,11 +700,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOsaka_keimusho.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 15580,
+      "count": 15605,
       "breakdown": {
-        "nodes": 1889,
-        "ways": 12976,
-        "relations": 715
+        "nodes": 1885,
+        "ways": 13000,
+        "relations": 720
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=prison"
     },
@@ -725,11 +725,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AKennel_2.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 8438,
+      "count": 8468,
       "breakdown": {
-        "nodes": 2543,
-        "ways": 5803,
-        "relations": 92
+        "nodes": 2558,
+        "ways": 5817,
+        "relations": 93
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=animal_shelter"
     },
@@ -750,11 +750,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHospital_Distrital_de_Chaves_-_02.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 217685,
+      "count": 217856,
       "breakdown": {
-        "nodes": 113957,
-        "ways": 99328,
-        "relations": 4400
+        "nodes": 114000,
+        "ways": 99444,
+        "relations": 4412
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=hospital"
     },
@@ -775,11 +775,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AClinic_de.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 221638,
+      "count": 222379,
       "breakdown": {
-        "nodes": 148821,
-        "ways": 71034,
-        "relations": 1783
+        "nodes": 149382,
+        "ways": 71212,
+        "relations": 1785
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=clinic"
     },
@@ -800,11 +800,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADoctors_stethoscope_2.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 209688,
+      "count": 210799,
       "breakdown": {
-        "nodes": 174493,
-        "ways": 34758,
-        "relations": 437
+        "nodes": 175565,
+        "ways": 34799,
+        "relations": 435
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=doctors"
     },
@@ -825,10 +825,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMilitary_dentists_in_Guatemala.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 161816,
+      "count": 162623,
       "breakdown": {
-        "nodes": 139714,
-        "ways": 21972,
+        "nodes": 140456,
+        "ways": 22037,
         "relations": 130
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=dentist"
@@ -850,10 +850,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABoots_The_Chemist_At_Gunwharf_Quays.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 443135,
+      "count": 444123,
       "breakdown": {
-        "nodes": 396777,
-        "ways": 46139,
+        "nodes": 397663,
+        "ways": 46241,
         "relations": 219
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=pharmacy"
@@ -875,10 +875,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVeterinary_Surgeon.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 65766,
+      "count": 65990,
       "breakdown": {
-        "nodes": 48655,
-        "ways": 16984,
+        "nodes": 48829,
+        "ways": 17034,
         "relations": 127
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=veterinary"
@@ -900,10 +900,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_session_with_a_psychotherapist_(751707089).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10791,
+      "count": 10901,
       "breakdown": {
-        "nodes": 9958,
-        "ways": 818,
+        "nodes": 10063,
+        "ways": 823,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=psychotherapist"
@@ -925,10 +925,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAutomated_External_Defibrillator_Amsterdam_airport.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 177056,
+      "count": 178474,
       "breakdown": {
-        "nodes": 177018,
-        "ways": 37,
+        "nodes": 178437,
+        "ways": 36,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=defibrillator"
@@ -950,10 +950,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADowntown_Charlottesville_fire_hydrant.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2567544,
+      "count": 2575302,
       "breakdown": {
-        "nodes": 2567495,
-        "ways": 46,
+        "nodes": 2575252,
+        "ways": 47,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant"
@@ -975,10 +975,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEmergency_push-button_telephone%2C_Warsaw.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 74392,
+      "count": 74475,
       "breakdown": {
-        "nodes": 74345,
-        "ways": 46,
+        "nodes": 74427,
+        "ways": 47,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=phone"
@@ -1000,11 +1000,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAmb_station.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 16384,
+      "count": 16404,
       "breakdown": {
-        "nodes": 7215,
-        "ways": 9054,
-        "relations": 115
+        "nodes": 7221,
+        "ways": 9063,
+        "relations": 120
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=ambulance_station"
     },
@@ -1025,10 +1025,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGebirgstrage01.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1114,
+      "count": 1128,
       "breakdown": {
-        "nodes": 557,
-        "ways": 555,
+        "nodes": 562,
+        "ways": 564,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=mountain_rescue"
@@ -1050,10 +1050,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKNRM_Lifeguard_Station_Buren_(Ameland).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6347,
+      "count": 6356,
       "breakdown": {
         "nodes": 3940,
-        "ways": 2395,
+        "ways": 2404,
         "relations": 12
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=lifeguard"
@@ -1075,10 +1075,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOptometrist_adjusts_some_trial_lenses_on_a_Guyanese_girl_at_the_Timehri_Primary_School_in_Georgetown%2C_Guyana.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6873,
+      "count": 6908,
       "breakdown": {
-        "nodes": 5593,
-        "ways": 1277,
+        "nodes": 5626,
+        "ways": 1279,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=optometrist"
@@ -1100,9 +1100,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAbc_fire_extinguisher.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 21087,
+      "count": 21196,
       "breakdown": {
-        "nodes": 21019,
+        "nodes": 21128,
         "ways": 68,
         "relations": 0
       },
@@ -1125,10 +1125,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AE011.svg",
         "source": "Wikimedia Commons"
       },
-      "count": 22777,
+      "count": 22908,
       "breakdown": {
-        "nodes": 16336,
-        "ways": 5688,
+        "nodes": 16461,
+        "ways": 5694,
         "relations": 753
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/emergency=assembly_point"
@@ -1150,9 +1150,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_B_422_Bild-0010%2C_Sirene.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 26038,
+      "count": 26164,
       "breakdown": {
-        "nodes": 26008,
+        "nodes": 26134,
         "ways": 30,
         "relations": 0
       },
@@ -1175,9 +1175,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAnfahrpunkt_f%C3%BCr_Rettungsfahrzeuge_HP_108_Alter_Lorscher_Weg_102_1235.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 195314,
+      "count": 195569,
       "breakdown": {
-        "nodes": 195281,
+        "nodes": 195536,
         "ways": 28,
         "relations": 5
       },
@@ -1200,10 +1200,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APhysiotherapie.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 28705,
+      "count": 28946,
       "breakdown": {
-        "nodes": 26066,
-        "ways": 2624,
+        "nodes": 26292,
+        "ways": 2639,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=physiotherapist"
@@ -1225,11 +1225,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACiel_de_Paris_(restaurant)_005.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 1626557,
+      "count": 1630551,
       "breakdown": {
-        "nodes": 1328847,
-        "ways": 295867,
-        "relations": 1843
+        "nodes": 1332442,
+        "ways": 296257,
+        "relations": 1852
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=restaurant"
     },
@@ -1250,11 +1250,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASZ_Lanting_Guoji_Mingyuan_mall_shop_Burger_King_n_McDonald's_Restaurant_May_2024_R12S_01_1.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 668249,
+      "count": 670480,
       "breakdown": {
-        "nodes": 517208,
-        "ways": 150129,
-        "relations": 912
+        "nodes": 519101,
+        "ways": 150460,
+        "relations": 919
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fast_food"
     },
@@ -1275,11 +1275,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APr%C3%BCckel_IV.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 654216,
+      "count": 656371,
       "breakdown": {
-        "nodes": 565586,
-        "ways": 88042,
-        "relations": 588
+        "nodes": 567522,
+        "ways": 88259,
+        "relations": 590
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=cafe"
     },
@@ -1300,11 +1300,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_Central_%E6%93%BA%E8%8A%B1%E8%A1%97_Lyndhurst_Terrace_sidewalk_restuarant_bar_table_n_chairs_n_tender_Oct-2011.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 246439,
+      "count": 246855,
       "breakdown": {
-        "nodes": 212900,
-        "ways": 33373,
-        "relations": 166
+        "nodes": 213268,
+        "ways": 33418,
+        "relations": 169
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bar"
     },
@@ -1325,11 +1325,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APub.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 200193,
+      "count": 200618,
       "breakdown": {
-        "nodes": 154137,
-        "ways": 45811,
-        "relations": 245
+        "nodes": 154509,
+        "ways": 45863,
+        "relations": 246
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=pub"
     },
@@ -1350,11 +1350,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHofbraeukeller_5906.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 10354,
+      "count": 10352,
       "breakdown": {
-        "nodes": 5587,
-        "ways": 4718,
-        "relations": 49
+        "nodes": 5592,
+        "ways": 4712,
+        "relations": 48
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=biergarten"
     },
@@ -1375,10 +1375,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARibnitzer_Hafenfest%2C_Ribnitz-Damgarten_(P1060946).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 67310,
+      "count": 67575,
       "breakdown": {
-        "nodes": 57905,
-        "ways": 9357,
+        "nodes": 58133,
+        "ways": 9394,
         "relations": 48
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ice_cream"
@@ -1400,11 +1400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABread_in_shop_window_at_Borough_Market.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 256049,
+      "count": 256731,
       "breakdown": {
-        "nodes": 224844,
-        "ways": 31087,
-        "relations": 118
+        "nodes": 225478,
+        "ways": 31137,
+        "relations": 116
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=bakery"
     },
@@ -1425,11 +1425,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AButcher_shop_in_Valencia.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 105484,
+      "count": 105759,
       "breakdown": {
-        "nodes": 92161,
-        "ways": 13241,
-        "relations": 82
+        "nodes": 92407,
+        "ways": 13271,
+        "relations": 81
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=butcher"
     },
@@ -1450,10 +1450,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGreenrocer's_Interior.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 67242,
+      "count": 67490,
       "breakdown": {
-        "nodes": 57838,
-        "ways": 9247,
+        "nodes": 58079,
+        "ways": 9254,
         "relations": 157
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=greengrocer"
@@ -1475,10 +1475,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASave-On-Foods_Saskatoon_aisles.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 496094,
+      "count": 496845,
       "breakdown": {
-        "nodes": 338100,
-        "ways": 156823,
+        "nodes": 338670,
+        "ways": 157004,
         "relations": 1171
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=supermarket"
@@ -1500,11 +1500,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFood_and_wine_shop.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 844604,
+      "count": 848164,
       "breakdown": {
-        "nodes": 642463,
-        "ways": 201463,
-        "relations": 678
+        "nodes": 645615,
+        "ways": 201872,
+        "relations": 677
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=convenience"
     },
@@ -1525,11 +1525,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKiosk_w_kralikach.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 104185,
+      "count": 104252,
       "breakdown": {
-        "nodes": 74355,
-        "ways": 29723,
-        "relations": 107
+        "nodes": 74416,
+        "ways": 29730,
+        "relations": 106
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=kiosk"
     },
@@ -1550,11 +1550,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMarche_berlin002.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 98998,
+      "count": 99234,
       "breakdown": {
-        "nodes": 40363,
-        "ways": 57289,
-        "relations": 1346
+        "nodes": 40450,
+        "ways": 57436,
+        "relations": 1348
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=marketplace"
     },
@@ -1575,11 +1575,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACevahir_Mall.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 78852,
+      "count": 79003,
       "breakdown": {
-        "nodes": 13851,
-        "ways": 62071,
-        "relations": 2930
+        "nodes": 13877,
+        "ways": 62178,
+        "relations": 2948
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=mall"
     },
@@ -1600,10 +1600,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADepartment_store_atrium_-_geograph.org.uk_-_727802.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 52648,
+      "count": 52681,
       "breakdown": {
-        "nodes": 35286,
-        "ways": 17045,
+        "nodes": 35312,
+        "ways": 17052,
         "relations": 317
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=department_store"
@@ -1625,11 +1625,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHasseen2.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 467470,
+      "count": 469002,
       "breakdown": {
-        "nodes": 413834,
-        "ways": 52500,
-        "relations": 1136
+        "nodes": 415270,
+        "ways": 52587,
+        "relations": 1145
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=clothes"
     },
@@ -1650,11 +1650,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATweedy_and_Popp_03.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 107813,
+      "count": 108126,
       "breakdown": {
-        "nodes": 84118,
-        "ways": 23504,
-        "relations": 191
+        "nodes": 84370,
+        "ways": 23563,
+        "relations": 193
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=hardware"
     },
@@ -1675,10 +1675,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACurrys_Digital.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 84220,
+      "count": 84354,
       "breakdown": {
-        "nodes": 71970,
-        "ways": 12127,
+        "nodes": 72092,
+        "ways": 12139,
         "relations": 123
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=electronics"
@@ -1700,11 +1700,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFlorist.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 88313,
+      "count": 88556,
       "breakdown": {
-        "nodes": 75720,
-        "ways": 12521,
-        "relations": 72
+        "nodes": 75948,
+        "ways": 12535,
+        "relations": 73
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=florist"
     },
@@ -1725,10 +1725,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABuchhandlung_Lentner_M%C3%BCnchen_Marienplatz_8_-_Kassentheke.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 58797,
+      "count": 58934,
       "breakdown": {
-        "nodes": 52093,
-        "ways": 6626,
+        "nodes": 52217,
+        "ways": 6639,
         "relations": 78
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=books"
@@ -1750,10 +1750,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_%E5%8C%97%E8%A7%92_North_Point_%E5%92%8C%E5%AF%8C%E4%B8%AD%E5%BF%83_Provident_Centre_%E5%92%8C%E5%AF%8C%E8%96%88_Provident_Square_Kuka_Home_furniture_shop_Mar-2013.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 102005,
+      "count": 102309,
       "breakdown": {
-        "nodes": 77902,
-        "ways": 23889,
+        "nodes": 78180,
+        "ways": 23915,
         "relations": 214
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=furniture"
@@ -1775,11 +1775,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_TST_East_Mody_Road_Wing_On_Plaza_Shop_Kettler_Sport_Fitness.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 46564,
+      "count": 46629,
       "breakdown": {
-        "nodes": 39245,
-        "ways": 7247,
-        "relations": 72
+        "nodes": 39310,
+        "ways": 7248,
+        "relations": 71
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=sports"
     },
@@ -1800,10 +1800,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AToys_R_Us_sg.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 24859,
+      "count": 24926,
       "breakdown": {
-        "nodes": 21967,
-        "ways": 2850,
+        "nodes": 22028,
+        "ways": 2856,
         "relations": 42
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=toys"
@@ -1825,11 +1825,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGibraltar%2C_Main_Street%2C_Shopping.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 84251,
+      "count": 84611,
       "breakdown": {
-        "nodes": 75671,
-        "ways": 8460,
-        "relations": 120
+        "nodes": 75997,
+        "ways": 8490,
+        "relations": 124
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=jewelry"
     },
@@ -1850,11 +1850,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAIGAN_Shakujii.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 84741,
+      "count": 85031,
       "breakdown": {
-        "nodes": 76832,
-        "ways": 7831,
-        "relations": 78
+        "nodes": 77104,
+        "ways": 7850,
+        "relations": 77
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=optician"
     },
@@ -1875,11 +1875,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADiego's_Hair_Salon.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 416789,
+      "count": 418220,
       "breakdown": {
-        "nodes": 380181,
-        "ways": 36472,
-        "relations": 136
+        "nodes": 381520,
+        "ways": 36562,
+        "relations": 138
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=hairdresser"
     },
@@ -1900,11 +1900,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AH_and_J_nails.JPG",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 192306,
+      "count": 193304,
       "breakdown": {
-        "nodes": 176057,
-        "ways": 16123,
-        "relations": 126
+        "nodes": 176999,
+        "ways": 16178,
+        "relations": 127
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=beauty"
     },
@@ -1925,10 +1925,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASoapBarLaundromat.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 59663,
+      "count": 59999,
       "breakdown": {
-        "nodes": 51360,
-        "ways": 8281,
+        "nodes": 51635,
+        "ways": 8342,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=laundry"
@@ -1950,10 +1950,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A1601_14th_Street_NW.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 34460,
+      "count": 34521,
       "breakdown": {
-        "nodes": 30341,
-        "ways": 4106,
+        "nodes": 30391,
+        "ways": 4117,
         "relations": 13
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=dry_cleaning"
@@ -1975,11 +1975,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHebeb%C3%BChne.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 296045,
+      "count": 297522,
       "breakdown": {
-        "nodes": 191776,
-        "ways": 103586,
-        "relations": 683
+        "nodes": 192977,
+        "ways": 103860,
+        "relations": 685
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=car_repair"
     },
@@ -2000,11 +2000,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAuto_Parts_Store.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 97443,
+      "count": 97722,
       "breakdown": {
-        "nodes": 70956,
-        "ways": 26370,
-        "relations": 117
+        "nodes": 71177,
+        "ways": 26427,
+        "relations": 118
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=car_parts"
     },
@@ -2025,11 +2025,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHertz_car_rental_office_Livonia_Michigan.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 33089,
+      "count": 33172,
       "breakdown": {
-        "nodes": 26976,
-        "ways": 6067,
-        "relations": 46
+        "nodes": 27047,
+        "ways": 6080,
+        "relations": 45
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=car_rental"
     },
@@ -2050,11 +2050,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravel_agency%2C_The_Village%2C_Formby_-_geograph.org.uk_-_1133475.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 49967,
+      "count": 50124,
       "breakdown": {
-        "nodes": 46673,
-        "ways": 3246,
-        "relations": 48
+        "nodes": 46830,
+        "ways": 3245,
+        "relations": 49
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=travel_agency"
     },
@@ -2075,11 +2075,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGasStationHiroshima.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 569607,
+      "count": 570469,
       "breakdown": {
-        "nodes": 334828,
-        "ways": 231879,
-        "relations": 2900
+        "nodes": 336475,
+        "ways": 231084,
+        "relations": 2910
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fuel"
     },
@@ -2100,11 +2100,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHotel_pool_-_panoramio.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 455108,
+      "count": 455882,
       "breakdown": {
-        "nodes": 257425,
-        "ways": 191445,
-        "relations": 6238
+        "nodes": 257978,
+        "ways": 191641,
+        "relations": 6263
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=hotel"
     },
@@ -2125,11 +2125,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABruno's_Country_Club%2C_Gerlach%2C_Nevada_(11128468616).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 49631,
+      "count": 49673,
       "breakdown": {
-        "nodes": 24979,
-        "ways": 23617,
-        "relations": 1035
+        "nodes": 24938,
+        "ways": 23703,
+        "relations": 1032
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=motel"
     },
@@ -2150,11 +2150,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Crossroads_Country_Guest_House_-_geograph.org.uk_-_88520.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 200860,
+      "count": 201270,
       "breakdown": {
-        "nodes": 140994,
-        "ways": 59223,
-        "relations": 643
+        "nodes": 141301,
+        "ways": 59323,
+        "relations": 646
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=guest_house"
     },
@@ -2175,11 +2175,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYouthHostelRome.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 62842,
+      "count": 62919,
       "breakdown": {
-        "nodes": 44523,
-        "ways": 17756,
-        "relations": 563
+        "nodes": 44571,
+        "ways": 17768,
+        "relations": 580
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=hostel"
     },
@@ -2200,11 +2200,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 4203021,
+      "count": 4214597,
       "breakdown": {
-        "nodes": 4189514,
-        "ways": 12457,
-        "relations": 1050
+        "nodes": 4201171,
+        "ways": 12375,
+        "relations": 1051
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=bus_stop"
     },
@@ -2225,11 +2225,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABraunschweig_Brunswick_Busbahnhof_1_(2006).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 67807,
+      "count": 67804,
       "breakdown": {
-        "nodes": 36987,
-        "ways": 29887,
-        "relations": 933
+        "nodes": 36935,
+        "ways": 29927,
+        "relations": 942
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bus_station"
     },
@@ -2250,11 +2250,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APaddington_Station.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 104124,
+      "count": 104066,
       "breakdown": {
-        "nodes": 97063,
-        "ways": 6586,
-        "relations": 475
+        "nodes": 97029,
+        "ways": 6563,
+        "relations": 474
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=station"
     },
@@ -2275,10 +2275,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADesenka_Railway_Halt_2017_G1.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 34737,
+      "count": 34744,
       "breakdown": {
-        "nodes": 34425,
-        "ways": 279,
+        "nodes": 34451,
+        "ways": 260,
         "relations": 33
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=halt"
@@ -2300,9 +2300,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A11-07-29-helsinki-by-RalfR-117.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 54968,
+      "count": 54982,
       "breakdown": {
-        "nodes": 54803,
+        "nodes": 54817,
         "ways": 135,
         "relations": 30
       },
@@ -2325,9 +2325,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMadrid-Metro-Tribunal-Entrada.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 53770,
+      "count": 53843,
       "breakdown": {
-        "nodes": 53664,
+        "nodes": 53737,
         "ways": 106,
         "relations": 0
       },
@@ -2350,10 +2350,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHong_Kong_Taxi_-_1-12-2006_-_Shatin_Taxi_Stand.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 52235,
+      "count": 52386,
       "breakdown": {
-        "nodes": 44553,
-        "ways": 7619,
+        "nodes": 44658,
+        "ways": 7665,
         "relations": 63
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=taxi"
@@ -2375,11 +2375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AP3030027ParkingLot_wb.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6913214,
+      "count": 6942183,
       "breakdown": {
-        "nodes": 432309,
-        "ways": 6396456,
-        "relations": 84449
+        "nodes": 432997,
+        "ways": 6424404,
+        "relations": 84782
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking"
     },
@@ -2400,10 +2400,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AChristian_Wirth_-_Tiefgarage_Hauptplatz.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 285196,
+      "count": 286840,
       "breakdown": {
-        "nodes": 284529,
-        "ways": 658,
+        "nodes": 286177,
+        "ways": 654,
         "relations": 9
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking_entrance"
@@ -2425,11 +2425,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAsda_Car_Park_-_geograph.org.uk_-_4826725.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5078146,
+      "count": 5139082,
       "breakdown": {
-        "nodes": 201333,
-        "ways": 4862736,
-        "relations": 14077
+        "nodes": 202350,
+        "ways": 4922653,
+        "relations": 14079
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=parking_space"
     },
@@ -2450,11 +2450,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAAhoops.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 950036,
+      "count": 956115,
       "breakdown": {
-        "nodes": 806729,
-        "ways": 142725,
-        "relations": 582
+        "nodes": 812010,
+        "ways": 143526,
+        "relations": 579
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bicycle_parking"
     },
@@ -2475,11 +2475,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMotorcycle_parking_in_Birmingham.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 47727,
+      "count": 47922,
       "breakdown": {
-        "nodes": 26962,
-        "ways": 20625,
-        "relations": 140
+        "nodes": 27009,
+        "ways": 20771,
+        "relations": 142
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=motorcycle_parking"
     },
@@ -2500,10 +2500,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMobilpunkt_car-sharing_station.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 12582,
+      "count": 12624,
       "breakdown": {
-        "nodes": 11205,
-        "ways": 1356,
+        "nodes": 11236,
+        "ways": 1367,
         "relations": 21
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=car_sharing"
@@ -2525,11 +2525,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARent_The_Bicycle.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 94690,
+      "count": 94825,
       "breakdown": {
-        "nodes": 91099,
-        "ways": 3505,
-        "relations": 86
+        "nodes": 91219,
+        "ways": 3517,
+        "relations": 89
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bicycle_rental"
     },
@@ -2550,11 +2550,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ARecharge_Vigra_charging_station.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 207948,
+      "count": 209806,
       "breakdown": {
-        "nodes": 193766,
-        "ways": 13792,
-        "relations": 390
+        "nodes": 195294,
+        "ways": 14113,
+        "relations": 399
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=charging_station"
     },
@@ -2575,11 +2575,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerry_Reet.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 37491,
+      "count": 37576,
       "breakdown": {
-        "nodes": 34836,
-        "ways": 2548,
-        "relations": 107
+        "nodes": 34917,
+        "ways": 2551,
+        "relations": 108
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=ferry_terminal"
     },
@@ -2600,11 +2600,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABaghdad_International_Airport_(October_2003).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10394,
+      "count": 10396,
       "breakdown": {
-        "nodes": 518,
-        "ways": 9405,
-        "relations": 471
+        "nodes": 517,
+        "ways": 9409,
+        "relations": 470
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=terminal"
     },
@@ -2625,10 +2625,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOryx_helicopter.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 70941,
+      "count": 71155,
       "breakdown": {
-        "nodes": 9695,
-        "ways": 61086,
+        "nodes": 9758,
+        "ways": 61237,
         "relations": 160
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=helipad"
@@ -2650,11 +2650,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AQuintin_Lodge_Airstrip_from_the_Mackinnon_Pass_2.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5938,
+      "count": 5942,
       "breakdown": {
-        "nodes": 4320,
-        "ways": 1605,
-        "relations": 13
+        "nodes": 4321,
+        "ways": 1607,
+        "relations": 14
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/aeroway=airstrip"
     },
@@ -2675,11 +2675,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABenalmadena_-_Puerto_Marina.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 31914,
+      "count": 31946,
       "breakdown": {
-        "nodes": 14981,
-        "ways": 15633,
-        "relations": 1300
+        "nodes": 14988,
+        "ways": 15656,
+        "relations": 1302
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=marina"
     },
@@ -2700,10 +2700,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASlipway.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 68909,
+      "count": 69111,
       "breakdown": {
-        "nodes": 47985,
-        "ways": 20909,
+        "nodes": 48085,
+        "ways": 21011,
         "relations": 15
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=slipway"
@@ -2725,10 +2725,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADartford_Crossing_Toll.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 63722,
+      "count": 63972,
       "breakdown": {
-        "nodes": 58300,
-        "ways": 5419,
+        "nodes": 58417,
+        "ways": 5552,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=toll_booth"
@@ -2750,10 +2750,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALorry_on_weighbridge%2C_Douglas%2C_Isle_of_Man_-_geograph.org.uk_-_352285.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 12514,
+      "count": 12597,
       "breakdown": {
-        "nodes": 9229,
-        "ways": 3281,
+        "nodes": 9285,
+        "ways": 3308,
         "relations": 4
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=weighbridge"
@@ -2775,9 +2775,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASpeed_Camera_-_geograph.org.uk_-_399358.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 78493,
+      "count": 78889,
       "breakdown": {
-        "nodes": 78433,
+        "nodes": 78829,
         "ways": 4,
         "relations": 56
       },
@@ -2800,9 +2800,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALed_traffic_lights.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2025940,
+      "count": 2031681,
       "breakdown": {
-        "nodes": 2025923,
+        "nodes": 2031664,
         "ways": 14,
         "relations": 3
       },
@@ -2825,9 +2825,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASTOP_sign.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2529164,
+      "count": 2542517,
       "breakdown": {
-        "nodes": 2529158,
+        "nodes": 2542511,
         "ways": 6,
         "relations": 0
       },
@@ -2850,9 +2850,9 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AZebra-crossing_sm.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 13662008,
+      "count": 13735111,
       "breakdown": {
-        "nodes": 13661523,
+        "nodes": 13734626,
         "ways": 485,
         "relations": 0
       },
@@ -2875,10 +2875,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2014_K%C5%82odzko%2C_ul._Grottgera_14.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 6578515,
+      "count": 6819713,
       "breakdown": {
-        "nodes": 6578446,
-        "ways": 67,
+        "nodes": 6819645,
+        "ways": 66,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=street_lamp"
@@ -2900,9 +2900,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABelgium_A2_31km_marker.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 245489,
+      "count": 246690,
       "breakdown": {
-        "nodes": 245483,
+        "nodes": 246684,
         "ways": 3,
         "relations": 3
       },
@@ -2925,11 +2925,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASignpost.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 680389,
+      "count": 682723,
       "breakdown": {
-        "nodes": 680172,
-        "ways": 166,
-        "relations": 51
+        "nodes": 682503,
+        "ways": 170,
+        "relations": 50
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/information=guidepost"
     },
@@ -2950,10 +2950,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALevel_crossing_-_Chertsey_-_England_-_270404.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1004595,
+      "count": 1004978,
       "breakdown": {
-        "nodes": 1004541,
-        "ways": 52,
+        "nodes": 1004922,
+        "ways": 54,
         "relations": 2
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=level_crossing"
@@ -2975,9 +2975,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARidgeway_Path_pedestrian_level_crossing%2C_Princes_Risborough%2C_Buckinghamshire_02.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 227464,
+      "count": 228078,
       "breakdown": {
-        "nodes": 227311,
+        "nodes": 227925,
         "ways": 153,
         "relations": 0
       },
@@ -3000,11 +3000,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACercan%C3%ADas_San_Vicente_del_Raspeig.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 196177,
+      "count": 196500,
       "breakdown": {
-        "nodes": 2202,
-        "ways": 186421,
-        "relations": 7554
+        "nodes": 2201,
+        "ways": 186711,
+        "relations": 7588
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/railway=platform"
     },
@@ -3025,10 +3025,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APorthmadog_harbour_1.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 8701,
+      "count": 8753,
       "breakdown": {
         "nodes": 96,
-        "ways": 8393,
+        "ways": 8445,
         "relations": 212
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=quay"
@@ -3050,11 +3050,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AM%C3%B4le_%C3%A9quinoxe_printemps_2008.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 65379,
+      "count": 65594,
       "breakdown": {
         "nodes": 5,
-        "ways": 63669,
-        "relations": 1705
+        "ways": 63860,
+        "relations": 1729
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=breakwater"
     },
@@ -3075,9 +3075,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_Bike_Repair_Station.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 23772,
+      "count": 23893,
       "breakdown": {
-        "nodes": 23597,
+        "nodes": 23718,
         "ways": 175,
         "relations": 0
       },
@@ -3100,11 +3100,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AParking_and_picnic_area_at_Rest_And_Be_Thankful_-_geograph.org.uk_-_1657648.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 42504,
+      "count": 42592,
       "breakdown": {
-        "nodes": 22693,
-        "ways": 19413,
-        "relations": 398
+        "nodes": 22752,
+        "ways": 19441,
+        "relations": 399
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=rest_area"
     },
@@ -3125,9 +3125,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Motorway_Junction_AK_II.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 239543,
+      "count": 240792,
       "breakdown": {
-        "nodes": 239541,
+        "nodes": 240790,
         "ways": 1,
         "relations": 1
       },
@@ -3150,11 +3150,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUsedom-Heringsdorf-Seebr%C3%BCcke-Mai2005.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 753976,
+      "count": 755946,
       "breakdown": {
-        "nodes": 6331,
-        "ways": 745406,
-        "relations": 2239
+        "nodes": 6335,
+        "ways": 747369,
+        "relations": 2242
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=pier"
     },
@@ -3175,11 +3175,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMorgendlicher_Berufsverkehr_auf_der_BAB_A8_beim_Kreuz_Stuttgart_-_panoramio.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1377739,
+      "count": 1379969,
       "breakdown": {
         "nodes": 10,
-        "ways": 1377724,
-        "relations": 5
+        "ways": 1379953,
+        "relations": 6
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=motorway"
     },
@@ -3200,11 +3200,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA477_trunk_road_from_the_bridge_-_geograph.org.uk_-_1404312.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2017404,
+      "count": 2022357,
       "breakdown": {
         "nodes": 10,
-        "ways": 2017383,
-        "relations": 11
+        "ways": 2022334,
+        "relations": 13
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=trunk"
     },
@@ -3225,10 +3225,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APrimary-photo.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 4135964,
+      "count": 4151088,
       "breakdown": {
         "nodes": 9,
-        "ways": 4135954,
+        "ways": 4151078,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=primary"
@@ -3250,10 +3250,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMeyenburg-L134.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 5886317,
+      "count": 5894815,
       "breakdown": {
         "nodes": 40,
-        "ways": 5885595,
+        "ways": 5894093,
         "relations": 682
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=secondary"
@@ -3275,11 +3275,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AOHZ-K3-Werschenrege.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 9195237,
+      "count": 9214846,
       "breakdown": {
-        "nodes": 87,
-        "ways": 9193866,
-        "relations": 1284
+        "nodes": 89,
+        "ways": 9213471,
+        "relations": 1286
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=tertiary"
     },
@@ -3300,10 +3300,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AHighway_unclassified-photo.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 18571271,
+      "count": 18589546,
       "breakdown": {
-        "nodes": 277,
-        "ways": 18570870,
+        "nodes": 278,
+        "ways": 18589144,
         "relations": 124
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=unclassified"
@@ -3325,10 +3325,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AResidential.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 70046174,
+      "count": 70113461,
       "breakdown": {
-        "nodes": 220,
-        "ways": 70045859,
+        "nodes": 218,
+        "ways": 70113148,
         "relations": 95
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=residential"
@@ -3350,10 +3350,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASpielstrasse.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 2349589,
+      "count": 2355865,
       "breakdown": {
         "nodes": 65,
-        "ways": 2349291,
+        "ways": 2355567,
         "relations": 233
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=living_street"
@@ -3375,11 +3375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2010-04-28_Gut_B%C3%B6ckel%2C_R%C3%B6dinghausen_009.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 66228456,
+      "count": 66420867,
       "breakdown": {
-        "nodes": 194,
-        "ways": 66224437,
-        "relations": 3825
+        "nodes": 196,
+        "ways": 66416848,
+        "relations": 3823
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=service"
     },
@@ -3400,11 +3400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFr%C3%BChlingslandschft_Aaretal_Schweiz.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 30121804,
+      "count": 30181535,
       "breakdown": {
-        "nodes": 692,
-        "ways": 30120911,
-        "relations": 201
+        "nodes": 694,
+        "ways": 30180638,
+        "relations": 203
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=track"
     },
@@ -3425,11 +3425,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_designated_footpath.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 33061873,
+      "count": 33263206,
       "breakdown": {
-        "nodes": 1747,
-        "ways": 33049167,
-        "relations": 10959
+        "nodes": 1742,
+        "ways": 33250447,
+        "relations": 11017
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=footway"
     },
@@ -3450,10 +3450,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABikeway%2C_Bicycle_path_-_sign_C13_marked_beginning_of_bikeway%2C_Poland%2C_Sosnowiec.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2255707,
+      "count": 2265284,
       "breakdown": {
-        "nodes": 261,
-        "ways": 2255397,
+        "nodes": 262,
+        "ways": 2264973,
         "relations": 49
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=cycleway"
@@ -3475,11 +3475,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AForest_path_and_trees.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 16581885,
+      "count": 16633943,
       "breakdown": {
-        "nodes": 655,
-        "ways": 16580860,
-        "relations": 370
+        "nodes": 654,
+        "ways": 16632918,
+        "relations": 371
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=path"
     },
@@ -3500,10 +3500,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%22Wheeling_ramp%22%2C_Skeldergate_Bridge_-_geograph.org.uk_-_2424314.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2144799,
+      "count": 2154065,
       "breakdown": {
-        "nodes": 2795,
-        "ways": 2141804,
+        "nodes": 2792,
+        "ways": 2151073,
         "relations": 200
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=steps"
@@ -3525,10 +3525,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AGeograph-439361-by-Roger--Kidd.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 122865,
+      "count": 123029,
       "breakdown": {
         "nodes": 9,
-        "ways": 122834,
+        "ways": 122998,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=bridleway"
@@ -3550,11 +3550,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambridge_Rd_-_geograph.org.uk_-_1189572.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 893481,
+      "count": 895665,
       "breakdown": {
         "nodes": 91,
-        "ways": 840958,
-        "relations": 52432
+        "ways": 842951,
+        "relations": 52623
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=pedestrian"
     },
@@ -3575,10 +3575,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZeichen_209-202_%2B_question_mark.svg",
         "source": "Wikimedia Commons"
       },
-      "count": 39729,
+      "count": 39702,
       "breakdown": {
-        "nodes": 197,
-        "ways": 39531,
+        "nodes": 199,
+        "ways": 39502,
         "relations": 1
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=road"
@@ -3600,11 +3600,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_T12_link_road_to_Wilmore_Road_under_construction_-_geograph.org.uk_-_4452080.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 443270,
+      "count": 445993,
       "breakdown": {
-        "nodes": 1674,
-        "ways": 441555,
-        "relations": 41
+        "nodes": 1594,
+        "ways": 444357,
+        "relations": 42
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=construction"
     },
@@ -3625,11 +3625,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFuji_Speedway_start-finish.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 46282,
+      "count": 46374,
       "breakdown": {
         "nodes": 135,
-        "ways": 45812,
-        "relations": 335
+        "ways": 45903,
+        "relations": 336
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=raceway"
     },
@@ -3650,10 +3650,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHarmoni_Central_Busway_Transjakarta_2.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 40073,
+      "count": 40173,
       "breakdown": {
         "nodes": 0,
-        "ways": 40073,
+        "ways": 40173,
         "relations": 0
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=busway"
@@ -3675,10 +3675,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APassing_place_-_geograph.org.uk_-_987324.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 70329,
+      "count": 70567,
       "breakdown": {
-        "nodes": 70257,
-        "ways": 72,
+        "nodes": 70496,
+        "ways": 71,
         "relations": 0
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=passing_place"
@@ -3700,10 +3700,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHK_TST_Star_House_mall_corridor_interior_shop_signs_Sept-2012.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 81477,
+      "count": 82240,
       "breakdown": {
         "nodes": 21,
-        "ways": 81428,
+        "ways": 82191,
         "relations": 28
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=corridor"
@@ -3725,10 +3725,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AElevator_on_the_platform_of_Ningbo_Railway_Station.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 58624,
+      "count": 58993,
       "breakdown": {
-        "nodes": 50206,
-        "ways": 8278,
+        "nodes": 50520,
+        "ways": 8333,
         "relations": 140
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=elevator"
@@ -3750,9 +3750,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AIndian_Lake_Trailhead_-_panoramio.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 18772,
+      "count": 18879,
       "breakdown": {
-        "nodes": 18652,
+        "nodes": 18759,
         "ways": 117,
         "relations": 3
       },
@@ -3775,10 +3775,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVia_ferrata_Sandro_Pertini_-_panoramio.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5002,
+      "count": 5142,
       "breakdown": {
-        "nodes": 105,
-        "ways": 4893,
+        "nodes": 106,
+        "ways": 5032,
         "relations": 4
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/highway=via_ferrata"
@@ -3800,11 +3800,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFinlay_River_emptying_into_the_north_end_of_Williston_Lake.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2068929,
+      "count": 2071780,
       "breakdown": {
-        "nodes": 2612,
-        "ways": 2018407,
-        "relations": 47910
+        "nodes": 2550,
+        "ways": 2021205,
+        "relations": 48025
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=river"
     },
@@ -3829,7 +3829,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVolga_Ulyanovsk-oliv.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 528662,
+      "count": 531465,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -3850,11 +3850,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStream_on_Heaphy_Track.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 29677417,
+      "count": 29772122,
       "breakdown": {
         "nodes": 5458,
-        "ways": 29590581,
-        "relations": 81378
+        "ways": 29684860,
+        "relations": 81804
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=stream"
     },
@@ -3875,11 +3875,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrand_Union_Canal_Walk_by_the_canal_-_geograph.org.uk_-_3135952.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 809402,
+      "count": 812168,
       "breakdown": {
-        "nodes": 294,
-        "ways": 805438,
-        "relations": 3670
+        "nodes": 271,
+        "ways": 808215,
+        "relations": 3682
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=canal"
     },
@@ -3900,11 +3900,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASloot.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 5000778,
+      "count": 5023565,
       "breakdown": {
-        "nodes": 751,
-        "ways": 4994947,
-        "relations": 5080
+        "nodes": 753,
+        "ways": 5017730,
+        "relations": 5082
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=ditch"
     },
@@ -3925,11 +3925,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AIron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1906675,
+      "count": 1912783,
       "breakdown": {
         "nodes": 270,
-        "ways": 1902230,
-        "relations": 4175
+        "ways": 1908322,
+        "relations": 4191
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=drain"
     },
@@ -3950,11 +3950,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAmagase_Dam.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 273033,
+      "count": 273613,
       "breakdown": {
-        "nodes": 42064,
-        "ways": 227243,
-        "relations": 3726
+        "nodes": 42006,
+        "ways": 227867,
+        "relations": 3740
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=dam"
     },
@@ -3975,10 +3975,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAlifakovac_Miljacka.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 154989,
+      "count": 155479,
       "breakdown": {
-        "nodes": 62174,
-        "ways": 92741,
+        "nodes": 62326,
+        "ways": 93079,
         "relations": 74
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=weir"
@@ -4000,10 +4000,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWaterfall_near_Keldur.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 89693,
+      "count": 90030,
       "breakdown": {
-        "nodes": 86737,
-        "ways": 2935,
+        "nodes": 87096,
+        "ways": 2913,
         "relations": 21
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=waterfall"
@@ -4025,10 +4025,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ASalfeinsSpring.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 284960,
+      "count": 285435,
       "breakdown": {
-        "nodes": 282103,
-        "ways": 2785,
+        "nodes": 282575,
+        "ways": 2788,
         "relations": 72
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=spring"
@@ -4054,7 +4054,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABlowdown_Lake.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 914592,
+      "count": 936365,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4079,7 +4079,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrown's_Inlet.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 2415006,
+      "count": 2426085,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4104,7 +4104,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALakevyrnwysummer.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 895372,
+      "count": 898350,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4129,7 +4129,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALinz_regenr%C3%BCckhaltebecken.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 340227,
+      "count": 342483,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4150,11 +4150,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACepkeliu_marsh.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 4840486,
+      "count": 4909721,
       "breakdown": {
-        "nodes": 13278,
-        "ways": 3926627,
-        "relations": 900581
+        "nodes": 13289,
+        "ways": 3961878,
+        "relations": 934554
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=wetland"
     },
@@ -4179,7 +4179,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGlenrockLagoonFromLeichhardtLookout.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 12931,
+      "count": 12951,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4204,7 +4204,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKanuti_River_October_2011.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 54884,
+      "count": 55057,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4225,11 +4225,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHorseshoebay.Bermuda.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 250239,
+      "count": 250772,
       "breakdown": {
-        "nodes": 13299,
-        "ways": 205592,
-        "relations": 31348
+        "nodes": 13310,
+        "ways": 206054,
+        "relations": 31408
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=beach"
     },
@@ -4250,11 +4250,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALowlandman's_Bay%2C_Jura_-_geograph.org.uk_-_25388.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 94661,
+      "count": 94731,
       "breakdown": {
-        "nodes": 67924,
-        "ways": 6162,
-        "relations": 20575
+        "nodes": 67975,
+        "ways": 6170,
+        "relations": 20586
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=bay"
     },
@@ -4275,10 +4275,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStrait.svg",
         "source": "Wikimedia Commons"
       },
-      "count": 10331,
+      "count": 10388,
       "breakdown": {
-        "nodes": 4246,
-        "ways": 3442,
+        "nodes": 4293,
+        "ways": 3452,
         "relations": 2643
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=strait"
@@ -4300,10 +4300,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Ravenscar_coastline.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1292296,
+      "count": 1293286,
       "breakdown": {
         "nodes": 0,
-        "ways": 1292102,
+        "ways": 1293092,
         "relations": 194
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=coastline"
@@ -4325,10 +4325,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALanstroper_Ei_IMGP8117.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 169549,
+      "count": 169875,
       "breakdown": {
-        "nodes": 116336,
-        "ways": 53142,
+        "nodes": 116570,
+        "ways": 53234,
         "relations": 71
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_tower"
@@ -4350,11 +4350,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWater_treatment_-_geograph.org.uk_-_231374.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 46632,
+      "count": 46724,
       "breakdown": {
-        "nodes": 8461,
-        "ways": 37259,
-        "relations": 912
+        "nodes": 8464,
+        "ways": 37345,
+        "relations": 915
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_works"
     },
@@ -4375,11 +4375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlaerwerk_Buelk_nahe_Kiel.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 93354,
+      "count": 93512,
       "breakdown": {
-        "nodes": 4035,
-        "ways": 87362,
-        "relations": 1957
+        "nodes": 4027,
+        "ways": 87523,
+        "relations": 1962
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=wastewater_plant"
     },
@@ -4400,10 +4400,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGd%C3%B3w_Water_Well.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 369427,
+      "count": 372066,
       "breakdown": {
-        "nodes": 219667,
-        "ways": 149723,
+        "nodes": 222068,
+        "ways": 149961,
         "relations": 37
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=water_well"
@@ -4425,10 +4425,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJesusGreenLock-Cambridge.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 24636,
+      "count": 24640,
       "breakdown": {
-        "nodes": 17006,
-        "ways": 7593,
+        "nodes": 16985,
+        "ways": 7618,
         "relations": 37
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=lock_gate"
@@ -4450,10 +4450,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASs_sluice2.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5232,
+      "count": 5282,
       "breakdown": {
-        "nodes": 4424,
-        "ways": 805,
+        "nodes": 4475,
+        "ways": 804,
         "relations": 3
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=sluice_gate"
@@ -4479,7 +4479,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACage_system_in_a_fish_pond.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10896,
+      "count": 10917,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=water#combinations"
     },
@@ -4500,10 +4500,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABoatyards%2C_Rhyll.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5633,
+      "count": 5642,
       "breakdown": {
-        "nodes": 1788,
-        "ways": 3737,
+        "nodes": 1791,
+        "ways": 3743,
         "relations": 108
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=boatyard"
@@ -4525,10 +4525,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThe_mudflats_in_Turnagain_Arm_at_low_tide_(IMG_1189a)_(3587499039).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 29777,
+      "count": 29830,
       "breakdown": {
         "nodes": 66,
-        "ways": 29648,
+        "ways": 29701,
         "relations": 63
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/waterway=tidal_channel"
@@ -4550,11 +4550,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiogradska_suma.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 12797128,
+      "count": 12784335,
       "breakdown": {
-        "nodes": 29155,
-        "ways": 11789517,
-        "relations": 978456
+        "nodes": 29064,
+        "ways": 11774319,
+        "relations": 980952
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=wood"
     },
@@ -4575,11 +4575,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStarr_010831-0015_Morella_faya.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5772568,
+      "count": 5812181,
       "breakdown": {
-        "nodes": 1916,
-        "ways": 5383803,
-        "relations": 386849
+        "nodes": 1915,
+        "ways": 5421475,
+        "relations": 388791
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=scrub"
     },
@@ -4600,11 +4600,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AL%C3%BCneburger_Heide_109.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 682152,
+      "count": 685392,
       "breakdown": {
         "nodes": 460,
-        "ways": 609095,
-        "relations": 72597
+        "ways": 611086,
+        "relations": 73846
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=heath"
     },
@@ -4625,11 +4625,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrassland_community_of_the_association_Ranunculo-Senecionetum_aquatici.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2427274,
+      "count": 2443462,
       "breakdown": {
-        "nodes": 167,
-        "ways": 2207575,
-        "relations": 219532
+        "nodes": 170,
+        "ways": 2221922,
+        "relations": 221370
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=grassland"
     },
@@ -4650,11 +4650,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMottey.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 5604808,
+      "count": 5627137,
       "breakdown": {
         "nodes": 265,
-        "ways": 5198353,
-        "relations": 406190
+        "ways": 5219461,
+        "relations": 407411
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=meadow"
     },
@@ -4675,11 +4675,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANear_North_Wold_Farm_-_geograph.org.uk_-_1046318.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 11801208,
+      "count": 11850252,
       "breakdown": {
         "nodes": 1974,
-        "ways": 11178080,
-        "relations": 621154
+        "ways": 11223338,
+        "relations": 624940
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=farmland"
     },
@@ -4700,11 +4700,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APikiWiki_Israel_29753_Almonds_grove.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1889685,
+      "count": 1899380,
       "breakdown": {
         "nodes": 615,
-        "ways": 1811305,
-        "relations": 77765
+        "ways": 1820751,
+        "relations": 78014
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=orchard"
     },
@@ -4725,11 +4725,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWeinberg-Ipsheim-BurgHoheneck_SK_0001.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 878563,
+      "count": 880650,
       "breakdown": {
         "nodes": 183,
-        "ways": 859930,
-        "relations": 18450
+        "ways": 861906,
+        "relations": 18561
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=vineyard"
     },
@@ -4750,11 +4750,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAllotments.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 493516,
+      "count": 495833,
       "breakdown": {
         "nodes": 327,
-        "ways": 450549,
-        "relations": 42640
+        "ways": 452618,
+        "relations": 42888
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=allotments"
     },
@@ -4775,11 +4775,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A3015-Central_Park-Sheep_Meadow.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 1304783,
+      "count": 1306738,
       "breakdown": {
-        "nodes": 46643,
-        "ways": 1216856,
-        "relations": 41284
+        "nodes": 46698,
+        "ways": 1218644,
+        "relations": 41396
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=park"
     },
@@ -4800,11 +4800,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABlack_Opal_Spring_in_Biscuit_Basin.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 150688,
+      "count": 151343,
       "breakdown": {
-        "nodes": 4936,
-        "ways": 102590,
-        "relations": 43162
+        "nodes": 4937,
+        "ways": 102983,
+        "relations": 43423
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=nature_reserve"
     },
@@ -4825,11 +4825,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYatsuhigata_04x4720s.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 136492,
+      "count": 137274,
       "breakdown": {
-        "nodes": 5654,
-        "ways": 83179,
-        "relations": 47659
+        "nodes": 5655,
+        "ways": 83638,
+        "relations": 47981
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/boundary=protected_area"
     },
@@ -4850,11 +4850,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Suicide_Peak._Chugach_Mountains%2C_Alaska..jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1111226,
+      "count": 1113957,
       "breakdown": {
-        "nodes": 1111092,
+        "nodes": 1113821,
         "ways": 110,
-        "relations": 24
+        "relations": 26
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=peak"
     },
@@ -4875,10 +4875,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStreisand_Estate.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1049297,
+      "count": 1052940,
       "breakdown": {
-        "nodes": 19047,
-        "ways": 1029941,
+        "nodes": 19056,
+        "ways": 1033575,
         "relations": 309
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=cliff"
@@ -4900,10 +4900,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABacho-kiro-cave-entrance-mincov.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 73335,
+      "count": 73418,
       "breakdown": {
-        "nodes": 72589,
-        "ways": 738,
+        "nodes": 72726,
+        "ways": 684,
         "relations": 8
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=cave_entrance"
@@ -4925,11 +4925,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AGainfarn_froschstein.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 249837,
+      "count": 250302,
       "breakdown": {
-        "nodes": 219131,
-        "ways": 29904,
-        "relations": 802
+        "nodes": 219464,
+        "ways": 30029,
+        "relations": 809
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=rock"
     },
@@ -4950,11 +4950,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACingles_i_rosseguera_sota_el_Pla_de_la_Casa%2C_la_Serrella.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 403517,
+      "count": 407271,
       "breakdown": {
         "nodes": 248,
-        "ways": 367925,
-        "relations": 35344
+        "ways": 370895,
+        "relations": 36128
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=scree"
     },
@@ -4975,11 +4975,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKalabrien_Ricadi_Sandwellen_2129.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 599376,
+      "count": 599121,
       "breakdown": {
-        "nodes": 674,
-        "ways": 568415,
-        "relations": 30287
+        "nodes": 673,
+        "ways": 568060,
+        "relations": 30388
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=sand"
     },
@@ -5000,11 +5000,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrosser_Aletschgletscher_3196.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 118146,
+      "count": 118358,
       "breakdown": {
         "nodes": 1420,
-        "ways": 104286,
-        "relations": 12440
+        "ways": 104359,
+        "relations": 12579
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=glacier"
     },
@@ -5025,9 +5025,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AColima_volcano_aero_colors_adjusted.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 10368,
+      "count": 10383,
       "breakdown": {
-        "nodes": 10290,
+        "nodes": 10305,
         "ways": 70,
         "relations": 8
       },
@@ -5050,10 +5050,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_a_mountain_ridgeline.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 270514,
+      "count": 272031,
       "breakdown": {
-        "nodes": 5393,
-        "ways": 264956,
+        "nodes": 5389,
+        "ways": 266477,
         "relations": 165
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=ridge"
@@ -5075,9 +5075,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARabbit_Lake_and_the_Suicide_Peaks._Chugach_State_Park%2C_Alaska.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 80852,
+      "count": 81100,
       "breakdown": {
-        "nodes": 80785,
+        "nodes": 81033,
         "ways": 62,
         "relations": 5
       },
@@ -5100,9 +5100,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOak_tree%2C_near_Kersoe_-_geograph.org.uk_-_851570.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 34629851,
+      "count": 34887914,
       "breakdown": {
-        "nodes": 34629846,
+        "nodes": 34887909,
         "ways": 0,
         "relations": 5
       },
@@ -5125,10 +5125,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARow_of_Poplar_Trees_-_geograph.org.uk_-_242206.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2132685,
+      "count": 2144653,
       "breakdown": {
-        "nodes": 268,
-        "ways": 2132320,
+        "nodes": 269,
+        "ways": 2144287,
         "relations": 97
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=tree_row"
@@ -5150,11 +5150,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACoastal_rock_formation.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1336727,
+      "count": 1343019,
       "breakdown": {
-        "nodes": 1181,
-        "ways": 1226400,
-        "relations": 109146
+        "nodes": 1180,
+        "ways": 1232351,
+        "relations": 109488
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=bare_rock"
     },
@@ -5175,11 +5175,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVanatinai%2C_Louisiade_Archipelago.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 96965,
+      "count": 104590,
       "breakdown": {
-        "nodes": 4492,
-        "ways": 80022,
-        "relations": 12451
+        "nodes": 4496,
+        "ways": 87573,
+        "relations": 12521
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=reef"
     },
@@ -5200,11 +5200,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVorderrhein_Mundaun.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 88461,
+      "count": 88951,
       "breakdown": {
         "nodes": 18,
-        "ways": 78815,
-        "relations": 9628
+        "ways": 79251,
+        "relations": 9682
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=shingle"
     },
@@ -5225,11 +5225,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFjell.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 28602,
+      "count": 28625,
       "breakdown": {
         "nodes": 542,
-        "ways": 24772,
-        "relations": 3288
+        "ways": 24792,
+        "relations": 3291
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=fell"
     },
@@ -5250,10 +5250,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALinvilleGorge.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 64352,
+      "count": 64463,
       "breakdown": {
-        "nodes": 16258,
-        "ways": 47873,
+        "nodes": 16284,
+        "ways": 47958,
         "relations": 221
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/natural=valley"
@@ -5275,11 +5275,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AResidential_buildings_along_a_road_in_San_Francisco.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10762766,
+      "count": 10795880,
       "breakdown": {
-        "nodes": 19597,
-        "ways": 10379644,
-        "relations": 363525
+        "nodes": 19352,
+        "ways": 10411938,
+        "relations": 364590
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=residential"
     },
@@ -5300,11 +5300,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACurrant_Creek_Power_Plant.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1453961,
+      "count": 1459489,
       "breakdown": {
-        "nodes": 5334,
-        "ways": 1384462,
-        "relations": 64165
+        "nodes": 5349,
+        "ways": 1389788,
+        "relations": 64352
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=industrial"
     },
@@ -5325,11 +5325,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACambourne_Business_Park_-_geograph.org.uk_-_15908.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 602979,
+      "count": 605836,
       "breakdown": {
-        "nodes": 777,
-        "ways": 578149,
-        "relations": 24053
+        "nodes": 771,
+        "ways": 580923,
+        "relations": 24142
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=commercial"
     },
@@ -5350,11 +5350,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrocadero_-_London_1.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 422183,
+      "count": 424069,
       "breakdown": {
-        "nodes": 1011,
-        "ways": 408056,
-        "relations": 13116
+        "nodes": 1005,
+        "ways": 409910,
+        "relations": 13154
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=retail"
     },
@@ -5375,11 +5375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAL%C4%B0_EKS%C4%B0_ONYX1_-_panoramio_-_cropped.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 254416,
+      "count": 254761,
       "breakdown": {
-        "nodes": 30980,
-        "ways": 212579,
-        "relations": 10857
+        "nodes": 30975,
+        "ways": 212898,
+        "relations": 10888
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=quarry"
     },
@@ -5400,11 +5400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandfill_Hawaii.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 58727,
+      "count": 58832,
       "breakdown": {
-        "nodes": 457,
-        "ways": 56401,
-        "relations": 1869
+        "nodes": 456,
+        "ways": 56506,
+        "relations": 1870
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=landfill"
     },
@@ -5425,11 +5425,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AConstruction_Site.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 276036,
+      "count": 276994,
       "breakdown": {
-        "nodes": 136,
-        "ways": 267922,
-        "relations": 7978
+        "nodes": 138,
+        "ways": 268842,
+        "relations": 8014
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=construction"
     },
@@ -5450,11 +5450,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AIllustration_of_Rail.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 100494,
+      "count": 100955,
       "breakdown": {
         "nodes": 22,
-        "ways": 92669,
-        "relations": 7803
+        "ways": 93115,
+        "relations": 7818
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=railway"
     },
@@ -5475,11 +5475,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMilitary_land.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 96692,
+      "count": 96881,
       "breakdown": {
-        "nodes": 8971,
-        "ways": 82682,
-        "relations": 5039
+        "nodes": 8974,
+        "ways": 82852,
+        "relations": 5055
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=military"
     },
@@ -5500,11 +5500,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AThree_mile_island_062010.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 164991,
+      "count": 166797,
       "breakdown": {
-        "nodes": 546,
-        "ways": 145749,
-        "relations": 18696
+        "nodes": 545,
+        "ways": 147460,
+        "relations": 18792
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=plant"
     },
@@ -5525,11 +5525,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALegacy_National_Grid_Substation_-_geograph.org.uk_-_39134.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 889843,
+      "count": 893574,
       "breakdown": {
-        "nodes": 171115,
-        "ways": 714083,
-        "relations": 4645
+        "nodes": 171838,
+        "ways": 717080,
+        "relations": 4656
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=substation"
     },
@@ -5554,7 +5554,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APaderborn_Germany_Turbines-of-Paderborn-windfarm-01.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 473175,
+      "count": 474767,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -5579,7 +5579,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGiant_photovoltaic_array.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6237870,
+      "count": 6289516,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -5604,7 +5604,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHoover_Dam_Nevada_Luftaufnahme.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 13965,
+      "count": 13999,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/power=generator#combinations"
     },
@@ -5629,7 +5629,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilliken_soccer.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 633662,
+      "count": 635237,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5654,7 +5654,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKenyon_Martin_over_Dirk_Nowitzki.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 344437,
+      "count": 348532,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5679,7 +5679,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AYes_NCTU_tennis_2.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 582993,
+      "count": 584106,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5704,7 +5704,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABaseball_swing.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 174639,
+      "count": 174732,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5729,7 +5729,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACleveland_Browns_October_2004.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 22447,
+      "count": 22479,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5750,10 +5750,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAll_Black_maul_vs_Springboks_Tri_nations_2011-07-30.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 7996,
+      "count": 8014,
       "breakdown": {
-        "nodes": 221,
-        "ways": 7744,
+        "nodes": 222,
+        "ways": 7761,
         "relations": 31
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=rugby_union"
@@ -5779,7 +5779,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACricket_pic.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 15927,
+      "count": 15964,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5804,7 +5804,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVolleyball_game.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 34507,
+      "count": 34855,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -5825,10 +5825,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APOL_-_ISL_(01)_-_2010_European_Men's_Handball_Championship.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 7762,
+      "count": 7786,
       "breakdown": {
-        "nodes": 258,
-        "ways": 7487,
+        "nodes": 260,
+        "ways": 7509,
         "relations": 17
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=handball"
@@ -5850,10 +5850,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADutch_Women_Hockey_-_Shielding_the_ball.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6233,
+      "count": 6250,
       "breakdown": {
         "nodes": 241,
-        "ways": 5975,
+        "ways": 5992,
         "relations": 17
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/sport=field_hockey"
@@ -5875,11 +5875,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3APool_i.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 3072347,
+      "count": 3087579,
       "breakdown": {
-        "nodes": 302925,
-        "ways": 2766220,
-        "relations": 3202
+        "nodes": 302895,
+        "ways": 2781469,
+        "relations": 3215
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=swimming_pool"
     },
@@ -5900,11 +5900,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWestern_Lesiure_Centre_Cardiff.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 269790,
+      "count": 270448,
       "breakdown": {
-        "nodes": 52395,
-        "ways": 210925,
-        "relations": 6470
+        "nodes": 52580,
+        "ways": 211383,
+        "relations": 6485
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=sports_centre"
     },
@@ -5925,11 +5925,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANotre-dame-stadium.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 52013,
+      "count": 52120,
       "breakdown": {
-        "nodes": 3607,
-        "ways": 45794,
-        "relations": 2612
+        "nodes": 3637,
+        "ways": 45870,
+        "relations": 2613
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=stadium"
     },
@@ -5950,11 +5950,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASkyttis_athletics_tracks.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 166620,
+      "count": 167275,
       "breakdown": {
         "nodes": 2616,
-        "ways": 120364,
-        "relations": 43640
+        "ways": 120868,
+        "relations": 43791
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=track"
     },
@@ -5975,11 +5975,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AView_of_golf_hole_course.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 39644,
+      "count": 39674,
       "breakdown": {
-        "nodes": 1649,
-        "ways": 30905,
-        "relations": 7090
+        "nodes": 1662,
+        "ways": 30907,
+        "relations": 7105
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=golf_course"
     },
@@ -6000,11 +6000,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADSC09349_-_Dinosaur_Adventure_Golf_(36408600863).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10979,
+      "count": 10998,
       "breakdown": {
-        "nodes": 1874,
-        "ways": 8976,
-        "relations": 129
+        "nodes": 1881,
+        "ways": 8989,
+        "relations": 128
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=miniature_golf"
     },
@@ -6029,7 +6029,7 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASkateboarder_in_the_air.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 28465,
+      "count": 28546,
       "breakdown": null,
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=pitch#combinations"
     },
@@ -6050,11 +6050,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AChildren_playing_on_a_modern_playground.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1016879,
+      "count": 1019844,
       "breakdown": {
-        "nodes": 218280,
-        "ways": 792023,
-        "relations": 6576
+        "nodes": 218414,
+        "ways": 794828,
+        "relations": 6602
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=playground"
     },
@@ -6075,11 +6075,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ADogPark.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 31083,
+      "count": 31204,
       "breakdown": {
-        "nodes": 3568,
-        "ways": 26937,
-        "relations": 578
+        "nodes": 3571,
+        "ways": 27051,
+        "relations": 582
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=dog_park"
     },
@@ -6100,11 +6100,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOutdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 103975,
+      "count": 104582,
       "breakdown": {
-        "nodes": 63571,
-        "ways": 39725,
-        "relations": 679
+        "nodes": 63927,
+        "ways": 39970,
+        "relations": 685
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=fitness_station"
     },
@@ -6125,11 +6125,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACaribe01.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 13360,
+      "count": 13361,
       "breakdown": {
-        "nodes": 2917,
-        "ways": 9919,
-        "relations": 524
+        "nodes": 2915,
+        "ways": 9923,
+        "relations": 523
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=water_park"
     },
@@ -6150,10 +6150,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Korea_Bowling_Alley.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 6466,
+      "count": 6488,
       "breakdown": {
-        "nodes": 3425,
-        "ways": 3032,
+        "nodes": 3440,
+        "ways": 3039,
         "relations": 9
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=bowling_alley"
@@ -6175,10 +6175,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWarendorf%2C_Reitanlage_Josephshof_--_2014_--_8591_--_Ausschnitt.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 22045,
+      "count": 22150,
       "breakdown": {
-        "nodes": 5355,
-        "ways": 16177,
+        "nodes": 5385,
+        "ways": 16252,
         "relations": 513
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=horse_riding"
@@ -6200,11 +6200,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADisc_golfer_and_basket.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 2824,
+      "count": 2837,
       "breakdown": {
-        "nodes": 1752,
-        "ways": 889,
-        "relations": 183
+        "nodes": 1757,
+        "ways": 895,
+        "relations": 185
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=disc_golf_course"
     },
@@ -6225,11 +6225,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGD-EG-Caire-Mus%C3%A9e007.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 111562,
+      "count": 111793,
       "breakdown": {
-        "nodes": 57267,
-        "ways": 51777,
-        "relations": 2518
+        "nodes": 57400,
+        "ways": 51863,
+        "relations": 2530
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=museum"
     },
@@ -6250,11 +6250,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AMalba_Buenos_Aires.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 22634,
+      "count": 22728,
       "breakdown": {
-        "nodes": 17756,
-        "ways": 4737,
-        "relations": 141
+        "nodes": 17824,
+        "ways": 4762,
+        "relations": 142
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=gallery"
     },
@@ -6275,11 +6275,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AParis_06_Eiffelturm_4828.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 255683,
+      "count": 255994,
       "breakdown": {
-        "nodes": 172157,
-        "ways": 77769,
-        "relations": 5757
+        "nodes": 172274,
+        "ways": 77950,
+        "relations": 5770
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=attraction"
     },
@@ -6300,10 +6300,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AViewpoint_on_Dinas_Oleu_-_geograph.org.uk_-_185767.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 265136,
+      "count": 266015,
       "breakdown": {
-        "nodes": 257785,
-        "ways": 7167,
+        "nodes": 258606,
+        "ways": 7225,
         "relations": 184
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=viewpoint"
@@ -6325,11 +6325,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABegynnelse-4.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 371104,
+      "count": 373411,
       "breakdown": {
-        "nodes": 347920,
-        "ways": 22032,
-        "relations": 1152
+        "nodes": 350124,
+        "ways": 22131,
+        "relations": 1156
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=artwork"
     },
@@ -6350,10 +6350,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFleetwood_tourist_information_centre_-_DSC06596.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 1527451,
+      "count": 1533830,
       "breakdown": {
-        "nodes": 1512875,
-        "ways": 14339,
+        "nodes": 1519217,
+        "ways": 14376,
         "relations": 237
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=information"
@@ -6375,11 +6375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABefreiungshalle_P1230106.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 72026,
+      "count": 72129,
       "breakdown": {
-        "nodes": 59081,
-        "ways": 12552,
-        "relations": 393
+        "nodes": 59168,
+        "ways": 12569,
+        "relations": 392
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=monument"
     },
@@ -6400,11 +6400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALowertown_celtic_cross_memorial_to_fallen_canal_workers.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 517614,
+      "count": 519651,
       "breakdown": {
-        "nodes": 494465,
-        "ways": 22653,
-        "relations": 496
+        "nodes": 496438,
+        "ways": 22715,
+        "relations": 498
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=memorial"
     },
@@ -6425,11 +6425,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACastillo_de_Montuenga%2C_Montuenga_de_Soria%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-23%2C_DD_04.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 54618,
+      "count": 54768,
       "breakdown": {
-        "nodes": 14575,
-        "ways": 35670,
-        "relations": 4373
+        "nodes": 14574,
+        "ways": 35820,
+        "relations": 4374
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=castle"
     },
@@ -6450,11 +6450,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASzczytno_-_ruiny_zamki_(05).jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 187517,
+      "count": 189541,
       "breakdown": {
-        "nodes": 59049,
-        "ways": 127256,
-        "relations": 1212
+        "nodes": 59424,
+        "ways": 128901,
+        "relations": 1216
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=ruins"
     },
@@ -6475,11 +6475,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AArchaeological_Site_of_Leptis_Magna-108958.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 230280,
+      "count": 230863,
       "breakdown": {
-        "nodes": 164051,
-        "ways": 64231,
-        "relations": 1998
+        "nodes": 164429,
+        "ways": 64429,
+        "relations": 2005
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=archaeological_site"
     },
@@ -6500,11 +6500,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOdeonWestEnd.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 31627,
+      "count": 31674,
       "breakdown": {
-        "nodes": 19429,
-        "ways": 12063,
-        "relations": 135
+        "nodes": 19467,
+        "ways": 12071,
+        "relations": 136
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=cinema"
     },
@@ -6525,11 +6525,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Opera_House_-_Floral_Hall_-_Bow_Street_-_London_-_240404.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 53541,
+      "count": 53681,
       "breakdown": {
-        "nodes": 23737,
-        "ways": 29134,
-        "relations": 670
+        "nodes": 23793,
+        "ways": 29217,
+        "relations": 671
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=theatre"
     },
@@ -6550,11 +6550,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAlhamra_Art_Centre.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 28653,
+      "count": 28737,
       "breakdown": {
-        "nodes": 14111,
-        "ways": 14044,
-        "relations": 498
+        "nodes": 14165,
+        "ways": 14070,
+        "relations": 502
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=arts_centre"
     },
@@ -6575,11 +6575,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFort_George_-_geograph.org.uk_-_1242152.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 9403,
+      "count": 9430,
       "breakdown": {
-        "nodes": 2208,
-        "ways": 6733,
-        "relations": 462
+        "nodes": 2218,
+        "ways": 6746,
+        "relations": 466
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/historic=fort"
     },
@@ -6602,9 +6602,9 @@
       },
       "count": 9317,
       "breakdown": {
-        "nodes": 2776,
-        "ways": 6161,
-        "relations": 380
+        "nodes": 2773,
+        "ways": 6165,
+        "relations": 379
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/tourism=zoo"
     },
@@ -6625,11 +6625,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A20141220_Edificio_Baronesa_de_Arary.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 563364899,
+      "count": 564398029,
       "breakdown": {
-        "nodes": 294571,
-        "ways": 562317427,
-        "relations": 752901
+        "nodes": 292084,
+        "ways": 563351377,
+        "relations": 754568
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=yes"
     },
@@ -6650,11 +6650,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZast%C3%A1vka_pam%C3%A1tn%C3%BD_dvojdomek.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 68727651,
+      "count": 68936797,
       "breakdown": {
-        "nodes": 262604,
-        "ways": 68349217,
-        "relations": 115830
+        "nodes": 262711,
+        "ways": 68558081,
+        "relations": 116005
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=house"
     },
@@ -6675,11 +6675,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_Building.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 8111583,
+      "count": 8142431,
       "breakdown": {
-        "nodes": 28393,
-        "ways": 7960201,
-        "relations": 122989
+        "nodes": 28693,
+        "ways": 7990404,
+        "relations": 123334
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=apartments"
     },
@@ -6700,11 +6700,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASchuppen_7235.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 4638795,
+      "count": 4653999,
       "breakdown": {
-        "nodes": 1970,
-        "ways": 4636022,
-        "relations": 803
+        "nodes": 1979,
+        "ways": 4651205,
+        "relations": 815
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=shed"
     },
@@ -6725,10 +6725,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATwo-Car_Garage.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 8329055,
+      "count": 8355608,
       "breakdown": {
-        "nodes": 2344,
-        "ways": 8323895,
+        "nodes": 2341,
+        "ways": 8350451,
         "relations": 2816
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=garage"
@@ -6750,11 +6750,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandbouwstraat_garages.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 1087590,
+      "count": 1090462,
       "breakdown": {
         "nodes": 498,
-        "ways": 1083187,
-        "relations": 3905
+        "ways": 1086064,
+        "relations": 3900
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/building=garages"
     },
@@ -6775,11 +6775,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Karwina%2C_Dark%C3%B3w%2C_Most_%C5%BCelbetowy_01.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 337364,
+      "count": 339509,
       "breakdown": {
-        "nodes": 269,
-        "ways": 330656,
-        "relations": 6439
+        "nodes": 268,
+        "ways": 332781,
+        "relations": 6460
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=bridge"
     },
@@ -6800,11 +6800,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALucas-Cranach-Turm.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 461161,
+      "count": 463044,
       "breakdown": {
-        "nodes": 350859,
-        "ways": 109218,
-        "relations": 1084
+        "nodes": 352140,
+        "ways": 109818,
+        "relations": 1086
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/man_made=tower"
     },
@@ -6825,11 +6825,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3A2015_Zak%C5%82ad_Karny_w_K%C5%82odzku_02.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 6243957,
+      "count": 6266562,
       "breakdown": {
-        "nodes": 2026,
-        "ways": 6237469,
-        "relations": 4462
+        "nodes": 2023,
+        "ways": 6260061,
+        "relations": 4478
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=wall"
     },
@@ -6850,11 +6850,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZaun_Freilichtmuseum_Salzburg_02.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 9737375,
+      "count": 9776724,
       "breakdown": {
-        "nodes": 10969,
-        "ways": 9721106,
-        "relations": 5300
+        "nodes": 11016,
+        "ways": 9760383,
+        "relations": 5325
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/barrier=fence"
     },
@@ -6875,10 +6875,10 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3ABench.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 3443164,
+      "count": 3461577,
       "breakdown": {
-        "nodes": 3391666,
-        "ways": 51381,
+        "nodes": 3409698,
+        "ways": 51762,
         "relations": 117
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bench"
@@ -6900,9 +6900,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVuilnisbak-Lebbeke.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 1266683,
+      "count": 1274314,
       "breakdown": {
-        "nodes": 1266260,
+        "nodes": 1273891,
         "ways": 419,
         "relations": 4
       },
@@ -6925,11 +6925,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAltglas.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 590953,
+      "count": 593450,
       "breakdown": {
-        "nodes": 549443,
-        "ways": 41089,
-        "relations": 421
+        "nodes": 551656,
+        "ways": 41375,
+        "relations": 419
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=recycling"
     },
@@ -6950,11 +6950,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AR%C3%A9union_Ma%C3%AFdo_kiosque_pique-nique.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 692755,
+      "count": 696580,
       "breakdown": {
-        "nodes": 243173,
-        "ways": 448915,
-        "relations": 667
+        "nodes": 244082,
+        "ways": 451822,
+        "relations": 676
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=shelter"
     },
@@ -6968,18 +6968,18 @@
           "value": "fountain"
         }
       ],
-      "description": "A fountain with cultural, decorational or historical significance or which serves a recreational purpose.",
+      "description": "A fountain that can have cultural, decorational or historical significance or which serves a recreational purpose.",
       "image": {
         "url": "https://wiki.openstreetmap.org/w/images/e/e8/Fountain_at_Milan_citadel.JPG",
         "title": "File:Fountain at Milan citadel.JPG",
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFountain_at_Milan_citadel.JPG",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 203279,
+      "count": 203813,
       "breakdown": {
-        "nodes": 142342,
-        "ways": 59967,
-        "relations": 970
+        "nodes": 142673,
+        "ways": 60168,
+        "relations": 972
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=fountain"
     },
@@ -7000,9 +7000,9 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AClock-1.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 35911,
+      "count": 36051,
       "breakdown": {
-        "nodes": 35462,
+        "nodes": 35602,
         "ways": 442,
         "relations": 7
       },
@@ -7025,10 +7025,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVending_machines_at_Haeundae.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 372499,
+      "count": 374530,
       "breakdown": {
-        "nodes": 372158,
-        "ways": 319,
+        "nodes": 374188,
+        "ways": 320,
         "relations": 22
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=vending_machine"
@@ -7050,10 +7050,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABubbler.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 370129,
+      "count": 371176,
       "breakdown": {
-        "nodes": 369323,
-        "ways": 801,
+        "nodes": 370367,
+        "ways": 804,
         "relations": 5
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=drinking_water"
@@ -7075,11 +7075,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AAmenity_toilets.svg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 525827,
+      "count": 527636,
       "breakdown": {
-        "nodes": 376227,
-        "ways": 148679,
-        "relations": 921
+        "nodes": 377377,
+        "ways": 149336,
+        "relations": 923
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=toilets"
     },
@@ -7100,10 +7100,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABBQ_located_in_Capital_Park_in_Lyndhurst.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 47513,
+      "count": 47728,
       "breakdown": {
-        "nodes": 44956,
-        "ways": 2543,
+        "nodes": 45156,
+        "ways": 2558,
         "relations": 14
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=bbq"
@@ -7125,10 +7125,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFoodCourtVaughanMills.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 17655,
+      "count": 17675,
       "breakdown": {
-        "nodes": 10318,
-        "ways": 7205,
+        "nodes": 10334,
+        "ways": 7209,
         "relations": 132
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/amenity=food_court"
@@ -7150,10 +7150,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARome_Italian_deli.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 27112,
+      "count": 27132,
       "breakdown": {
-        "nodes": 23963,
-        "ways": 3084,
+        "nodes": 23977,
+        "ways": 3090,
         "relations": 65
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=deli"
@@ -7175,11 +7175,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASweet_Shop%2C_Chester.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 42629,
+      "count": 42680,
       "breakdown": {
-        "nodes": 38102,
-        "ways": 4465,
-        "relations": 62
+        "nodes": 38144,
+        "ways": 4473,
+        "relations": 63
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=confectionery"
     },
@@ -7200,10 +7200,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACheese_shop_P1010071.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 7958,
+      "count": 7962,
       "breakdown": {
-        "nodes": 6783,
-        "ways": 1171,
+        "nodes": 6786,
+        "ways": 1172,
         "relations": 4
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=cheese"
@@ -7225,10 +7225,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWine_retail_area_-_Enoteca_Vino_Bar.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 22361,
+      "count": 22370,
       "breakdown": {
-        "nodes": 19612,
-        "ways": 2717,
+        "nodes": 19619,
+        "ways": 2719,
         "relations": 32
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=wine"
@@ -7250,10 +7250,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALille_Meert2.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 35321,
+      "count": 35395,
       "breakdown": {
-        "nodes": 32133,
-        "ways": 3177,
+        "nodes": 32200,
+        "ways": 3184,
         "relations": 11
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/shop=pastry"
@@ -7275,11 +7275,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOutdoor_gym_in_Parque_de_Bateria%2C_Torremolinos.JPG",
         "source": "Wikimedia Commons"
       },
-      "count": 196438,
+      "count": 195847,
       "breakdown": {
-        "nodes": 520,
-        "ways": 190346,
-        "relations": 5572
+        "nodes": 519,
+        "ways": 189753,
+        "relations": 5575
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=recreation_ground"
     },
@@ -7300,11 +7300,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVillage_green_at_Beddgelert_-_geograph.org.uk_-_2945117.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 91476,
+      "count": 91502,
       "breakdown": {
         "nodes": 166,
-        "ways": 88568,
-        "relations": 2742
+        "ways": 88598,
+        "relations": 2738
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=village_green"
     },
@@ -7325,11 +7325,11 @@
         "pageUrl": "https://wiki.openstreetmap.org/wiki/File%3AFarmyard.jpg",
         "source": "OpenStreetMap Wiki"
       },
-      "count": 1645310,
+      "count": 1647490,
       "breakdown": {
-        "nodes": 2141,
-        "ways": 1589343,
-        "relations": 53826
+        "nodes": 2142,
+        "ways": 1591412,
+        "relations": 53936
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=farmyard"
     },
@@ -7350,11 +7350,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACutchogue_-_Oregon_Road_-_Plant_Nursery.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 79148,
+      "count": 81156,
       "breakdown": {
-        "nodes": 194,
-        "ways": 76661,
-        "relations": 2293
+        "nodes": 192,
+        "ways": 78598,
+        "relations": 2366
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=plant_nursery"
     },
@@ -7375,11 +7375,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFlower_Garden_Kromeriz.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 162671,
+      "count": 162970,
       "breakdown": {
         "nodes": 171,
-        "ways": 160312,
-        "relations": 2188
+        "ways": 160608,
+        "relations": 2191
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=flowerbed"
     },
@@ -7400,11 +7400,11 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGreenfields_-_geograph.org.uk_-_1202824.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 94257,
+      "count": 94331,
       "breakdown": {
         "nodes": 54,
-        "ways": 91960,
-        "relations": 2243
+        "ways": 92032,
+        "relations": 2245
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/landuse=greenfield"
     },
@@ -7425,10 +7425,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APista_hielo_bakh.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 10088,
+      "count": 10086,
       "breakdown": {
         "nodes": 1418,
-        "ways": 8516,
+        "ways": 8514,
         "relations": 154
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/leisure=ice_rink"
@@ -7450,10 +7450,10 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3APhysical_Rehabilitation.png",
         "source": "Wikimedia Commons"
       },
-      "count": 6142,
+      "count": 6155,
       "breakdown": {
-        "nodes": 2950,
-        "ways": 2966,
+        "nodes": 2959,
+        "ways": 2970,
         "relations": 226
       },
       "sourceUrl": "https://taginfo.openstreetmap.org/tags/healthcare=rehabilitation"
@@ -7475,9 +7475,9 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File%3AProvincetown_Spit_Cape_Cod.jpg",
         "source": "Wikimedia Commons"
       },
-      "count": 64749,
+      "count": 64750,
       "breakdown": {
-        "nodes": 63779,
+        "nodes": 63780,
         "ways": 168,
         "relations": 802
       },
