@@ -91,8 +91,10 @@ back to the element title.
 ### Changing an element
 
 If you are considering adding, removing, or replacing an element, open an issue
-to discuss it first. Every element fills a slot in a fixed family quota, so the
-change has to make room inside its own family.
+to discuss it first. 
+
+Every element fills a slot in a fixed family quota, so the change has to make
+room inside its own family.
 
 Then edit `data/catalog.json` and run:
 
