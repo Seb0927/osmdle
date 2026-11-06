@@ -1,0 +1,76 @@
+name: Bug report
+description: Something in the game is broken or behaves unexpectedly
+title: '[Bug]: '
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this.
+
+        Please search the open issues first. For security problems, use the
+        private channel described in
+        [SECURITY.md](https://github.com/Seb0927/osmdle/blob/main/SECURITY.md)
+        instead of opening a public issue.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug.
+      placeholder: The deck shows the same element twice in a row.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The steps that lead to the problem.
+      placeholder: |
+        1. Open the game
+        2. Start a round
+        3. Tap the left card
+        4. The next round repeats an element
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      placeholder: The next round shows two different elements.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Where did it happen?
+      options:
+        - Desktop
+        - Android
+        - iOS
+        - Other or not sure
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and version
+      placeholder: Chrome 131 on Android 14
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or recordings
+      description: Drag files into this field. Visuals make the report easier to act on.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the open issues and did not find a duplicate.
+          required: true

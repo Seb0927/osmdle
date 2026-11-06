@@ -1,0 +1,40 @@
+name: Feature request
+description: Suggest an idea, however small
+title: '[Idea]: '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome, from a new sound to a whole new mode. Nothing is too
+        small to suggest.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your idea?
+      placeholder: A daily challenge with one shared deck.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it make the game better?
+      description: What would it add for players?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or references
+      description: Other games, links, or approaches worth looking at.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the open issues and did not find a similar idea.
+          required: true

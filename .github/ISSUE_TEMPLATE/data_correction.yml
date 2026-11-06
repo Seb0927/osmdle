@@ -1,0 +1,67 @@
+name: Data correction
+description: An element's count, category, description, or image looks wrong
+title: '[Data]: '
+labels: ['data']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Counts come from Taginfo, and the game ships a snapshot that refreshes
+        once a month, so a count can lag behind OpenStreetMap by a few days. If
+        it still looks wrong, fill in as much detail as you can.
+
+  - type: input
+    id: element
+    attributes:
+      label: Which element?
+      description: The title shown on the card.
+      placeholder: School
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - Count
+        - Category
+        - Description
+        - Image
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What does the game show?
+      placeholder: 42,000 schools
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it show?
+      placeholder: 48,000 schools, according to Taginfo
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: >-
+        A Taginfo or wiki link, an OSM changeset, or anything that backs the
+        correction.
+      placeholder: https://taginfo.openstreetmap.org/keys/amenity#values
+
+  - type: checkboxes
+    id: snapshot
+    attributes:
+      label: Data snapshot
+      options:
+        - label: >-
+            I know the game uses a Taginfo snapshot that refreshes once a month,
+            so a count can lag behind OpenStreetMap.
