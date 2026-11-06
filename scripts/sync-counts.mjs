@@ -6,17 +6,36 @@ import { fileURLToPath } from 'node:url'
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const CATALOG_PATH = path.join(ROOT, 'data/catalog.json')
 const OUTPUT_PATH = path.join(ROOT, 'data/elements.json')
+
+// Taginfo's API policy asks clients to avoid large request volumes, so responses
+// are cached between runs. Cached replies are only reused while the server says
+// they are fresh, which is what stops a run from mixing two daily datasets.
+// The directory is gitignored: deleting it is always safe, it only costs a refetch.
 const CACHE_DIR = path.join(ROOT, '.cache')
 const CACHE_PATH = path.join(CACHE_DIR, 'taginfo.json')
 
 const TAGINFO = 'https://taginfo.openstreetmap.org/api/4'
 const WIKI_HOST = 'wiki.openstreetmap.org'
+
+// Taginfo's API policy requires a User-Agent that identifies the client and gives
+// the maintainers a way to make contact if the script misbehaves.
 const USER_AGENT = 'osmdle/0.1 (+https://github.com/Seb0927/osmdle)'
+
+// Taginfo asks clients not to create large volumes of requests; one request at a
+// time with a pause between them keeps the monthly refresh polite.
 const REQUEST_DELAY_MS = 250
+
+// Used only when a response carries neither Expires nor max-age, so an unexpected
+// endpoint cannot end up cached indefinitely.
 const CACHE_FALLBACK_TTL_MS = 60 * 60 * 1000
+
+// Very rare features make a "which is more common" question arbitrary rather than
+// a test of knowledge, so the sync flags them for review.
 const MIN_COUNT = 1000
 const WARN_COUNT = 5000
 
+// --report prints the full run without writing data/elements.json, for checking a
+// refresh before committing it.
 const reportOnly = process.argv.includes('--report')
 
 let cache = { responses: {} }
@@ -43,6 +62,9 @@ function encode(value) {
   return encodeURIComponent(value)
 }
 
+// Taginfo sets Expires to the moment its next daily refresh completes, so the
+// header is the authoritative freshness window. Caching past it is what used to
+// mix data from different days into a single snapshot.
 function cacheExpiresAt(response) {
   const expires = Date.parse(response.headers.get('expires') ?? '')
   if (Number.isFinite(expires)) {
@@ -58,6 +80,8 @@ function cacheExpiresAt(response) {
 }
 
 async function fetchJson(url) {
+  // Entries written before expiry was stored carry no trustworthy age, so they are
+  // refetched instead of served.
   const cached = cache.responses[url]
   if (cached?.expiresAt > Date.now()) {
     return cached.json
@@ -90,6 +114,8 @@ async function fetchJson(url) {
     const json = await response.json()
     cache.responses[url] = { json, expiresAt: cacheExpiresAt(response) }
     requestsSinceSave += 1
+    // Persist periodically so an interrupted run keeps most of its work, without
+    // rewriting the whole cache after every request.
     if (requestsSinceSave >= 20) {
       requestsSinceSave = 0
       await saveCache()
@@ -127,6 +153,8 @@ function resolveImageUrl(image) {
     return original
   }
 
+  // Cards top out around 250px wide, so 500px covers high-density screens without
+  // shipping the full-size original.
   return `${image.thumb_url_prefix}500${image.thumb_url_suffix}`.split('?')[0]
 }
 
@@ -159,6 +187,8 @@ async function resolveCount(tags) {
     }
   }
 
+  // Combinations are directional and the exact pair can fall off the first page
+  // when the base tag is common, so both tag orders are tried before failing.
   const orientations = [
     [tags[0], tags[1]],
     [tags[1], tags[0]],
@@ -173,6 +203,8 @@ async function resolveCount(tags) {
     if (row && Number.isFinite(row.together_count)) {
       return {
         count: row.together_count,
+        // Combinations only report a combined total, so paired elements have no
+        // node/way/relation breakdown.
         breakdown: null,
         sourceUrl: `https://taginfo.openstreetmap.org/tags/${encode(base.key)}=${encode(base.value)}#combinations`,
         dataUntil: data.data_until,
@@ -186,6 +218,8 @@ async function resolveCount(tags) {
 }
 
 async function resolveWiki(tags) {
+  // The second tag is the specific one (water=river over natural=water), so its wiki
+  // page holds the description and image that actually describe the element.
   const candidates = tags.length === 2 ? [tags[1], tags[0]] : [tags[0]]
   const seen = new Set()
 
@@ -261,6 +295,8 @@ async function main() {
     }
 
     const tagKey = tagListKey(tags)
+    // Duplicate tags would ask the same question with the same count in two rounds,
+    // so the catalog is rejected instead.
     if (seenTags.has(tagKey)) {
       errors.push(`${label}: duplicate tags (also ${seenTags.get(tagKey)})`)
       continue
@@ -311,6 +347,8 @@ async function main() {
     }
   }
 
+  // Saved before the error check: responses already fetched stay cached even when
+  // the run aborts, so a retry does not repeat them.
   await saveCache()
 
   const dataUntil = dataUntilTracker.latest()
@@ -331,6 +369,8 @@ async function main() {
     }
   }
 
+  // A partial snapshot would silently drop questions, so any unresolved element
+  // fails the run instead of writing a smaller file.
   if (errors.length > 0) {
     if (!reportOnly) {
       console.log('')
@@ -341,6 +381,8 @@ async function main() {
   }
 
   console.log('')
+  // Near-identical counts turn a round into a coin flip, so the closest pairs are
+  // printed for catalog review.
   console.log('closest count pairs:')
   for (const pair of closestPairs(results)) {
     console.log(`  ${pair.a.title} (${pair.a.count}) vs ${pair.b.title} (${pair.b.count})`)
